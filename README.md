@@ -5,11 +5,13 @@ Fintech for agricultural poor
 # Research Question (Tentative)
 To what extent is having a digital presence linked with improvements in financial inclusion and outcomes among the agricultural poor?
 
+# Dataset
+
 
 # Our lovely Team Member (alphabetical order)
-Heeyoung kwon\n
-Isabela Paredes\n
-Nakada Shunichi\n
-Rachel Ho\n
-Wanzi Wang
+- Heeyoung kwon  
+- Isabela Paredes  
+- Nakada Shunichi  
+- Rachel Ho  
+- Wanzi Wang  
 
