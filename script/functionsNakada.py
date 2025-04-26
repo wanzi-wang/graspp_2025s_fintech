@@ -5,7 +5,7 @@ import fitz
 
 
 stateNames1 = [
-    'Andhra Pradesh ',
+    'Andhra Pradesh',
     'Arunachal Pradesh',
     'Assam',
     'Bihar',
@@ -34,14 +34,17 @@ stateNames1 = [
     'Uttar Pradesh',
     'Uttarakhand',
     'West Bengal',
-    'Andaman & N. Island',
+    'A & N Islands',
     'Chandigarh',
     'Dadra & Nagar Haveli',
+    'Dadra & Nagar',
+    'Dadra & Nagar Haveli and',
     'Jammu & Kashmir',
     'Ladakh',
     'Lakshadweep',
     'Puducherry',
-    'All-India'
+    'All-India',
+    'all-India'
 ]
 
 stateNames2 = [
@@ -74,7 +77,7 @@ stateNames2 = [
     'Uttar Pradesh',
     'Uttarakhand',
     'West Bengal',
-    'A & N Islands',
+    'Andaman & N. Island',
     'Chandigarh',
     'Dadra & Nagar Haveli & Daman &',
     'Dadra & Nagar Haveli',
@@ -131,6 +134,7 @@ def formatText(myText, stateNames):
     result = []
     current_state = None
     current_numbers = []
+    fieldNumber = 0
 
     def is_state_name(line):
         res = False
@@ -146,6 +150,15 @@ def formatText(myText, stateNames):
         if is_state_name(line):
             if current_state and current_numbers:
                 result.append([current_state] + current_numbers)
+                # check if field number is different from other record
+                # if fieldNumber == 0:
+                #     fieldNumber = len(result[0])
+                # else:
+                #     if len(current_numbers) + 1 != fieldNumber:
+                #         print(result)
+                #         # Raise an error with a custom message
+                #         raise ValueError(f"Field number mismatch: state-{current_state}:'{current_numbers}'")
+            # initialize state name(current_state) and data(current_numbers)
             current_state = line
             current_numbers = []
         elif is_number_line(line):
@@ -166,15 +179,26 @@ def is_number(string):
         return False
 
 def getTableFromPDF(sourceNum, pages):
+
+    def validate_data_structure(data, col_names):
+        # """Check if each row in data matches column count."""
+        for i, row in enumerate(data):
+            if len(row) != len(col_names):
+                raise ValueError(
+                    f"Row {i} has {len(row)} elements, expected {len(col_names)} columns. "
+                    f"Row content: {row}"
+                )
+        return True
+
     match sourceNum:
         case 1: 
             source = 'data_original/CAMS Report_October_N.pdf'
             output = 'data_processed/CAMS_page_'
-            stateName = stateNames2
+            stateName = stateNames1
         case 2: 
             source = 'data_original/Final_Report_HCES_2023-24L.pdf'
             output = 'data_processed/HCES_page_'
-            stateName = stateNames1
+            stateName = stateNames2
         case _: source = "none"
     if source == "none":
         print('select 1 for digital access, 2 for houshold status')
@@ -184,14 +208,19 @@ def getTableFromPDF(sourceNum, pages):
         res = {}
         saveFlag = input('do you want to save output to CSV? (y/n)')
         for i in pages:
+            print(i)
             data = formatText(pageContents[i], stateName)
             colCount = len(data[0])
             colNames = [f'col{i}' for i in range(1, colCount+1)]
+            # validate data structure
+            validate_data_structure(data, colNames)
             df = pd.DataFrame(data, columns=colNames)
-            res[i]=df
+            print('page:', i, '----------------------------------------------')
+            print(df)
             if (saveFlag == 'y') or (saveFlag == 'Y'):
-                fileName = output + str(i)
+                fileName = output + str(i) + '.csv'
                 df.to_csv(fileName, index=False)
+            res[i]=df
 
         return res
     
