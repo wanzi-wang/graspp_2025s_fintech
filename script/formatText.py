@@ -12,4 +12,3 @@ for item in res:
     print('--------------------------------------------')
     print('table page number is', item)
     print(res[item])
-

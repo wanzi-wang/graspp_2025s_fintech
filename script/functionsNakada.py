@@ -125,18 +125,6 @@ def extractTextFromPDF(source, pages):
         res[num]=doc.load_page(num).get_text()
     return res
 
-
-def extractTextFromPDF2(sourceNum, pages):
-    match sourceNum:
-        case 1: source = 'data_original/CAMS Report_October_N.pdf'
-        case 2: source = 'data_original/Final_Report_HCES_2023-24L.pdf'
-        case _: source = "none"
-    if source != "none":
-        return extractTextFromPDF(source, pages)
-    else:
-        print('select 1 for digital access, 2 for houshold status')
-        return False
-
 def formatText(myText, stateNames):
     lines = myText.strip().split('\n')
 
@@ -181,9 +169,11 @@ def getTableFromPDF(sourceNum, pages):
     match sourceNum:
         case 1: 
             source = 'data_original/CAMS Report_October_N.pdf'
+            output = 'data_processed/CAMS_page_'
             stateName = stateNames2
         case 2: 
             source = 'data_original/Final_Report_HCES_2023-24L.pdf'
+            output = 'data_processed/HCES_page_'
             stateName = stateNames1
         case _: source = "none"
     if source == "none":
@@ -192,12 +182,16 @@ def getTableFromPDF(sourceNum, pages):
     else:
         pageContents = extractTextFromPDF(source, pages)
         res = {}
+        saveFlag = input('do you want to save output to CSV? (y/n)')
         for i in pages:
             data = formatText(pageContents[i], stateName)
             colCount = len(data[0])
             colNames = [f'col{i}' for i in range(1, colCount+1)]
             df = pd.DataFrame(data, columns=colNames)
             res[i]=df
+            if (saveFlag == 'y') or (saveFlag == 'Y'):
+                fileName = output + str(i)
+                df.to_csv(fileName, index=False)
 
         return res
     
