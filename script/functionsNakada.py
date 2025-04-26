@@ -81,11 +81,13 @@ stateNames2 = [
     'Chandigarh',
     'Dadra & Nagar Haveli & Daman &',
     'Dadra & Nagar Haveli',
+    'Dadra & Nagar Haveli and Daman &',
     'Jammu & Kashmir',
     'Ladakh',
     'Lakshadweep',
     'Puducherry',
-    'all-India'
+    'all-India',
+    'All-India'
 ]
 
 
@@ -150,14 +152,6 @@ def formatText(myText, stateNames):
         if is_state_name(line):
             if current_state and current_numbers:
                 result.append([current_state] + current_numbers)
-                # check if field number is different from other record
-                # if fieldNumber == 0:
-                #     fieldNumber = len(result[0])
-                # else:
-                #     if len(current_numbers) + 1 != fieldNumber:
-                #         print(result)
-                #         # Raise an error with a custom message
-                #         raise ValueError(f"Field number mismatch: state-{current_state}:'{current_numbers}'")
             # initialize state name(current_state) and data(current_numbers)
             current_state = line
             current_numbers = []
@@ -171,7 +165,9 @@ def formatText(myText, stateNames):
     return result
 
 def is_number(string):
-    """Check if a string represents a valid number (including decimals)"""
+    """Check if a string represents a valid number (including decimals) or is '-'."""
+    if string == "-":
+        return True
     try:
         float(string)
         return True
@@ -200,6 +196,7 @@ def getTableFromPDF(sourceNum, pages):
             output = 'data_processed/HCES_page_'
             stateName = stateNames2
         case _: source = "none"
+
     if source == "none":
         print('select 1 for digital access, 2 for houshold status')
         return False
