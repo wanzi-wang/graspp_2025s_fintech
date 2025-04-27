@@ -82,6 +82,7 @@ stateNames2 = [
     'Dadra & Nagar Haveli & Daman &',
     'Dadra & Nagar Haveli',
     'Dadra & Nagar Haveli and Daman &',
+    'Dadra & Nagar Haveli and Daman & Diu',
     'Jammu & Kashmir',
     'Ladakh',
     'Lakshadweep',
@@ -220,4 +221,3 @@ def getTableFromPDF(sourceNum, pages):
             res[i]=df
 
         return res
-    
