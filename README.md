@@ -8,8 +8,8 @@ To what extent is having a digital presence linked with improvements in financia
 # Dataset
 
 
-# Our lovely Team Member (alphabetical order)
-- Heeyoung kwon  
+# Our lovely Team Members (Alphabetical order)
+- Heeyoung Kwon  
 - Isabela Paredes  
 - Nakada Shunichi  
 - Rachel Ho  
