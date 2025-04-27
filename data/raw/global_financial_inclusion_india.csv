@@ -1,0 +1,1232 @@
+Country Name,Country Code,Series Name,Series Code,2011 [YR2011],2014 [YR2014],2017 [YR2017],2021 [YR2021],2022 [YR2022]
+India,IND,Account (% age 15+),account.t.d,35.23,53.14,79.88,77.53,..
+India,IND,"Account, female (% age 15+)",account.t.d.1,26.49,43.13,76.64,77.55,..
+India,IND,"Account, in labor force (% age 15+)",account.t.d.12,43.56,63.59,83.89,81.41,..
+India,IND,"Account, income, poorest 40% (% ages 15+)",account.t.d.7,26.97,43.61,77.08,78.25,..
+India,IND,"Account, income, richest 60% (% ages 15+)",account.t.d.8,40.73,59.48,81.74,77.05,..
+India,IND,"Account, male (% age 15+)",account.t.d.2,43.74,62.76,83.01,77.51,..
+India,IND,"Account, older (% age 25+)",account.t.d.4,38.03,56.81,83.08,81.3,..
+India,IND,"Account, out of labor force (% age 15+)",account.t.d.11,25.71,40.69,75.06,72.73,..
+India,IND,"Account, primary education or less (% ages 15+)",account.t.d.5,30.51,43.35,75.37,75.9,..
+India,IND,"Account, rural (% age 15+)",account.t.d.9,..,..,..,77.26,..
+India,IND,"Account, secondary education or more (% ages 15+)",account.t.d.6,59.47,64.23,84.94,81.3,..
+India,IND,"Account, urban (% age 15+)",account.t.d.10,..,..,..,77.83,..
+India,IND,"Account, young (% ages 15-24)",account.t.d.3,27.3,43.23,71.4,67.5,..
+India,IND,Borrowed any money (% age 15+),borrow.any,..,47.79,42.39,44.79,..
+India,IND,Borrowed any money from a formal financial institution or using a mobile money account (% age 15+),fin22a.c.MM.d,..,..,..,12.81,..
+India,IND,"Borrowed any money from a formal financial institution or using a mobile money account, female (% age 15+)",fin22a.c.MM.d.1,..,..,..,10.47,..
+India,IND,"Borrowed any money from a formal financial institution or using a mobile money account, in labor force (% age 15+)",fin22a.c.MM.d.12,..,..,..,16.43,..
+India,IND,"Borrowed any money from a formal financial institution or using a mobile money account, income, poorest 40% (% ages 15+)",fin22a.c.MM.d.7,..,..,..,11.03,..
+India,IND,"Borrowed any money from a formal financial institution or using a mobile money account, income, richest 60% (% ages 15+)",fin22a.c.MM.d.8,..,..,..,14,..
+India,IND,"Borrowed any money from a formal financial institution or using a mobile money account, male (% age 15+)",fin22a.c.MM.d.2,..,..,..,15,..
+India,IND,"Borrowed any money from a formal financial institution or using a mobile money account, older (% age 25+)",fin22a.c.MM.d.4,..,..,..,13.82,..
+India,IND,"Borrowed any money from a formal financial institution or using a mobile money account, out of labor force (% age 15+)",fin22a.c.MM.d.11,..,..,..,8.34,..
+India,IND,"Borrowed any money from a formal financial institution or using a mobile money account, primary education or less (% ages 15+)",fin22a.c.MM.d.5,..,..,..,10.43,..
+India,IND,"Borrowed any money from a formal financial institution or using a mobile money account, rural (% age 15+)",fin22a.c.MM.d.9,..,..,..,11.14,..
+India,IND,"Borrowed any money from a formal financial institution or using a mobile money account, secondary education or more (% ages 15+)",fin22a.c.MM.d.6,..,..,..,17.77,..
+India,IND,"Borrowed any money from a formal financial institution or using a mobile money account, urban (% age 15+)",fin22a.c.MM.d.10,..,..,..,14.74,..
+India,IND,"Borrowed any money from a formal financial institution or using a mobile money account, young (% ages 15-24)",fin22a.c.MM.d.3,..,..,..,10.16,..
+India,IND,Borrowed any money using a mobile money account (% age 15+),fin13c,..,..,..,1.69,..
+India,IND,"Borrowed any money, female (% age 15+)",borrow.any.1,..,43.7,38.92,45.63,..
+India,IND,"Borrowed any money, in labor force (% age 15+)",borrow.any.12,..,55.59,50.5,51.24,..
+India,IND,"Borrowed any money, income, poorest 40% (% ages 15+)",borrow.any.7,..,46.48,41.88,43.02,..
+India,IND,"Borrowed any money, income, richest 60% (% ages 15+)",borrow.any.8,..,48.66,42.73,45.97,..
+India,IND,"Borrowed any money, male (% age 15+)",borrow.any.2,..,51.72,45.75,44.01,..
+India,IND,"Borrowed any money, older (% age 25+)",borrow.any.4,..,50.85,45.29,47.85,..
+India,IND,"Borrowed any money, out of labor force (% age 15+)",borrow.any.11,..,38.49,32.65,36.84,..
+India,IND,"Borrowed any money, primary education or less (% ages 15+)",borrow.any.5,..,50.36,42.33,45.53,..
+India,IND,"Borrowed any money, rural (% age 15+)",borrow.any.9,..,..,..,45.18,..
+India,IND,"Borrowed any money, secondary education or more (% ages 15+)",borrow.any.6,..,44.83,42.21,43.6,..
+India,IND,"Borrowed any money, urban (% age 15+)",borrow.any.10,..,..,..,44.35,..
+India,IND,"Borrowed any money, young (% ages 15-24)",borrow.any.3,..,39.54,34.75,36.68,..
+India,IND,Borrowed for education or school fees (% age 15+),fin22a.2014,..,9.75,..,..,..
+India,IND,"Borrowed for education or school fees, female (% age 15+)",fin22a.2014.1,..,9.8,..,..,..
+India,IND,"Borrowed for education or school fees, in labor force (% age 15+)",fin22a.2014.12,..,10.02,..,..,..
+India,IND,"Borrowed for education or school fees, income, poorest 40% (% ages 15+)",fin22a.2014.7,..,7.83,..,..,..
+India,IND,"Borrowed for education or school fees, income, richest 60% (% ages 15+)",fin22a.2014.8,..,11.03,..,..,..
+India,IND,"Borrowed for education or school fees, male (% age 15+)",fin22a.2014.2,..,9.69,..,..,..
+India,IND,"Borrowed for education or school fees, older (% age 25+)",fin22a.2014.4,..,9.49,..,..,..
+India,IND,"Borrowed for education or school fees, out of labor force (% age 15+)",fin22a.2014.11,..,9.42,..,..,..
+India,IND,"Borrowed for education or school fees, primary education or less (% ages 15+)",fin22a.2014.5,..,10.44,..,..,..
+India,IND,"Borrowed for education or school fees, rural (% age 15+)",fin22a.2014.9,..,..,..,..,..
+India,IND,"Borrowed for education or school fees, secondary education or more (% ages 15+)",fin22a.2014.6,..,8.97,..,..,..
+India,IND,"Borrowed for education or school fees, urban (% age 15+)",fin22a.2014.10,..,..,..,..,..
+India,IND,"Borrowed for education or school fees, young (% ages 15-24)",fin22a.2014.3,..,10.44,..,..,..
+India,IND,Borrowed for health or medical purposes (% age 15+),fin20.t.d,..,21.11,13.82,25.17,..
+India,IND,"Borrowed for health or medical purposes, female (% age 15+)",fin20.t.d.1,..,20.79,13.26,26.64,..
+India,IND,"Borrowed for health or medical purposes, in labor force (% age 15+)",fin20.t.d.12,..,25.09,17.02,29.52,..
+India,IND,"Borrowed for health or medical purposes, income, poorest 40% (% ages 15+)",fin20.t.d.7,..,23.7,14.49,28.73,..
+India,IND,"Borrowed for health or medical purposes, income, richest 60% (% ages 15+)",fin20.t.d.8,..,19.4,13.38,22.79,..
+India,IND,"Borrowed for health or medical purposes, male (% age 15+)",fin20.t.d.2,..,21.42,14.36,23.8,..
+India,IND,"Borrowed for health or medical purposes, older (% age 25+)",fin20.t.d.4,..,24.19,14.95,27.13,..
+India,IND,"Borrowed for health or medical purposes, out of labor force (% age 15+)",fin20.t.d.11,..,16.37,9.98,19.79,..
+India,IND,"Borrowed for health or medical purposes, primary education or less (% ages 15+)",fin20.t.d.5,..,26.36,14.75,27.51,..
+India,IND,"Borrowed for health or medical purposes, rural (% age 15+)",fin20.t.d.9,..,..,..,27.89,..
+India,IND,"Borrowed for health or medical purposes, secondary education or more (% ages 15+)",fin20.t.d.6,..,15.17,12.72,20.5,..
+India,IND,"Borrowed for health or medical purposes, urban (% age 15+)",fin20.t.d.10,..,..,..,22.02,..
+India,IND,"Borrowed for health or medical purposes, young (% ages 15-24)",fin20.t.d.3,..,12.8,10.82,19.96,..
+India,IND,Borrowed from a formal financial institution (% age 15+),fin22a.c.t.d,7.7,9.12,8.15,11.78,..
+India,IND,"Borrowed from a formal financial institution, female (% age 15+)",fin22a.c.t.d.1,6.74,6.18,6.21,10.19,..
+India,IND,"Borrowed from a formal financial institution, in labor force (% age 15+)",fin22a.c.t.d.12,9.23,11.48,9.25,15.16,..
+India,IND,"Borrowed from a formal financial institution, income, poorest 40% (% ages 15+)",fin22a.c.t.d.7,7.42,7.42,6.3,10.68,..
+India,IND,"Borrowed from a formal financial institution, income, richest 60% (% ages 15+)",fin22a.c.t.d.8,7.88,10.24,9.38,12.52,..
+India,IND,"Borrowed from a formal financial institution, male (% age 15+)",fin22a.c.t.d.2,8.63,11.94,10.02,13.27,..
+India,IND,"Borrowed from a formal financial institution, older (% age 25+)",fin22a.c.t.d.4,8.83,10.21,9.36,12.88,..
+India,IND,"Borrowed from a formal financial institution, out of labor force (% age 15+)",fin22a.c.t.d.11,5.95,6.29,6.81,7.61,..
+India,IND,"Borrowed from a formal financial institution, primary education or less (% ages 15+)",fin22a.c.t.d.5,7.82,7.25,6.85,9.99,..
+India,IND,"Borrowed from a formal financial institution, rural (% age 15+)",fin22a.c.t.d.9,..,..,..,10.57,..
+India,IND,"Borrowed from a formal financial institution, secondary education or more (% ages 15+)",fin22a.c.t.d.6,7.12,11.17,9.55,15.51,..
+India,IND,"Borrowed from a formal financial institution, urban (% age 15+)",fin22a.c.t.d.10,..,..,..,13.18,..
+India,IND,"Borrowed from a formal financial institution, young (% ages 15-24)",fin22a.c.t.d.3,4.47,6.15,4.94,8.87,..
+India,IND,Borrowed from a savings club (% age 15+),fin22c.t.d,..,..,4.33,2.88,..
+India,IND,"Borrowed from a savings club, female (% age 15+)",fin22c.t.d.1,..,..,4.48,3.73,..
+India,IND,"Borrowed from a savings club, in labor force (% age 15+)",fin22c.t.d.12,..,..,6.55,3.14,..
+India,IND,"Borrowed from a savings club, income, poorest 40% (% ages 15+)",fin22c.t.d.7,..,..,2.11,1.79,..
+India,IND,"Borrowed from a savings club, income, richest 60% (% ages 15+)",fin22c.t.d.8,..,..,5.82,3.6,..
+India,IND,"Borrowed from a savings club, male (% age 15+)",fin22c.t.d.2,..,..,4.19,2.09,..
+India,IND,"Borrowed from a savings club, older (% age 25+)",fin22c.t.d.4,..,..,5.05,3.58,..
+India,IND,"Borrowed from a savings club, out of labor force (% age 15+)",fin22c.t.d.11,..,..,1.67,2.55,..
+India,IND,"Borrowed from a savings club, primary education or less (% ages 15+)",fin22c.t.d.5,..,..,3.4,2.75,..
+India,IND,"Borrowed from a savings club, rural (% age 15+)",fin22c.t.d.9,..,..,..,2.69,..
+India,IND,"Borrowed from a savings club, secondary education or more (% ages 15+)",fin22c.t.d.6,..,..,5.41,3.16,..
+India,IND,"Borrowed from a savings club, urban (% age 15+)",fin22c.t.d.10,..,..,..,3.1,..
+India,IND,"Borrowed from a savings club, young (% ages 15-24)",fin22c.t.d.3,..,..,2.44,1.02,..
+India,IND,Borrowed from a store by buying on credit (% age 15+),fin21b.2014,6.64,4.16,..,..,..
+India,IND,"Borrowed from a store by buying on credit, female (% age 15+)",fin21b.2014.1,6.25,4.6,..,..,..
+India,IND,"Borrowed from a store by buying on credit, in labor force (% age 15+)",fin21b.2014.12,7.78,4.18,..,..,..
+India,IND,"Borrowed from a store by buying on credit, income, poorest 40% (% ages 15+)",fin21b.2014.7,9.8,3.33,..,..,..
+India,IND,"Borrowed from a store by buying on credit, income, richest 60% (% ages 15+)",fin21b.2014.8,4.54,4.72,..,..,..
+India,IND,"Borrowed from a store by buying on credit, male (% age 15+)",fin21b.2014.2,7.02,3.74,..,..,..
+India,IND,"Borrowed from a store by buying on credit, older (% age 25+)",fin21b.2014.4,7.23,4.41,..,..,..
+India,IND,"Borrowed from a store by buying on credit, out of labor force (% age 15+)",fin21b.2014.11,5.35,4.14,..,..,..
+India,IND,"Borrowed from a store by buying on credit, primary education or less (% ages 15+)",fin21b.2014.5,7.22,3.86,..,..,..
+India,IND,"Borrowed from a store by buying on credit, rural (% age 15+)",fin21b.2014.9,..,..,..,..,..
+India,IND,"Borrowed from a store by buying on credit, secondary education or more (% ages 15+)",fin21b.2014.6,3.73,4.51,..,..,..
+India,IND,"Borrowed from a store by buying on credit, urban (% age 15+)",fin21b.2014.10,..,..,..,..,..
+India,IND,"Borrowed from a store by buying on credit, young (% ages 15-24)",fin21b.2014.3,4.97,3.5,..,..,..
+India,IND,Borrowed from family or friends (% age 15+),fin22b.t.d,19.69,32.3,32.74,31.01,..
+India,IND,"Borrowed from family or friends, female (% age 15+)",fin22b.t.d.1,17.75,29.97,30.05,31.15,..
+India,IND,"Borrowed from family or friends, in labor force (% age 15+)",fin22b.t.d.12,22.92,38.67,39.87,35.31,..
+India,IND,"Borrowed from family or friends, income, poorest 40% (% ages 15+)",fin22b.t.d.7,21.8,32.66,34.58,31.9,..
+India,IND,"Borrowed from family or friends, income, richest 60% (% ages 15+)",fin22b.t.d.8,18.29,32.06,31.52,30.42,..
+India,IND,"Borrowed from family or friends, male (% age 15+)",fin22b.t.d.2,21.58,34.54,35.36,30.88,..
+India,IND,"Borrowed from family or friends, older (% age 25+)",fin22b.t.d.4,20.81,34.32,34.41,33.2,..
+India,IND,"Borrowed from family or friends, out of labor force (% age 15+)",fin22b.t.d.11,16,24.71,24.19,25.7,..
+India,IND,"Borrowed from family or friends, primary education or less (% ages 15+)",fin22b.t.d.5,20.48,35.91,33.59,32.99,..
+India,IND,"Borrowed from family or friends, rural (% age 15+)",fin22b.t.d.9,..,..,..,31.73,..
+India,IND,"Borrowed from family or friends, secondary education or more (% ages 15+)",fin22b.t.d.6,15.41,28.22,31.48,27.15,..
+India,IND,"Borrowed from family or friends, urban (% age 15+)",fin22b.t.d.10,..,..,..,30.18,..
+India,IND,"Borrowed from family or friends, young (% ages 15-24)",fin22b.t.d.3,16.5,26.85,28.35,25.2,..
+India,IND,"Borrowed to start, operate, or expand a farm or business (% age 15+)",fin21.t.d.2017,..,8.98,6.94,..,..
+India,IND,"Borrowed to start, operate, or expand a farm or business, female (% age 15+)",fin21.t.d.2017.1,..,5.79,5.7,..,..
+India,IND,"Borrowed to start, operate, or expand a farm or business, in labor force (% age 15+)",fin21.t.d.2017.12,..,13.08,8.75,..,..
+India,IND,"Borrowed to start, operate, or expand a farm or business, income, poorest 40% (% ages 15+)",fin21.t.d.2017.7,..,11.04,8.47,..,..
+India,IND,"Borrowed to start, operate, or expand a farm or business, income, richest 60% (% ages 15+)",fin21.t.d.2017.8,..,7.61,5.91,..,..
+India,IND,"Borrowed to start, operate, or expand a farm or business, male (% age 15+)",fin21.t.d.2017.2,..,12.05,8.13,..,..
+India,IND,"Borrowed to start, operate, or expand a farm or business, older (% age 25+)",fin21.t.d.2017.4,..,10.25,7.82,..,..
+India,IND,"Borrowed to start, operate, or expand a farm or business, out of labor force (% age 15+)",fin21.t.d.2017.11,..,4.09,4.75,..,..
+India,IND,"Borrowed to start, operate, or expand a farm or business, primary education or less (% ages 15+)",fin21.t.d.2017.5,..,10.04,7.25,..,..
+India,IND,"Borrowed to start, operate, or expand a farm or business, rural (% age 15+)",fin21.t.d.2017.9,..,..,..,..,..
+India,IND,"Borrowed to start, operate, or expand a farm or business, secondary education or more (% ages 15+)",fin21.t.d.2017.6,..,7.78,6.38,..,..
+India,IND,"Borrowed to start, operate, or expand a farm or business, urban (% age 15+)",fin21.t.d.2017.10,..,..,..,..,..
+India,IND,"Borrowed to start, operate, or expand a farm or business, young (% ages 15-24)",fin21.t.d.2017.3,..,5.56,4.6,..,..
+India,IND,"Can use a mobile money account without help from anyone, including a mobile money agent (% age 15+)",fin13d,..,..,..,5.89,..
+India,IND,"Can use a mobile money account without help from anyone, including a mobile money agent (% with a mobile money account, age 15+)",fin13d.s,..,..,..,56.45,..
+India,IND,"Can use account at a bank or financial institution without help if opened (% without an account, age 15+)",fin11.1,..,..,..,25.5,..
+India,IND,Coming up with emergency funds in 30 days: not possible (% age 15+),fin24a.N.d,..,..,..,16.54,..
+India,IND,"Coming up with emergency funds in 30 days: not possible, female (% age 15+)",fin24a.N.d.1,..,..,..,19.71,..
+India,IND,"Coming up with emergency funds in 30 days: not possible, in labor force (% age 15+)",fin24a.N.d.12,..,..,..,12.83,..
+India,IND,"Coming up with emergency funds in 30 days: not possible, income, poorest 40% (% ages 15+)",fin24a.N.d.7,..,..,..,21.82,..
+India,IND,"Coming up with emergency funds in 30 days: not possible, income, richest 60% (% ages 15+)",fin24a.N.d.8,..,..,..,13.02,..
+India,IND,"Coming up with emergency funds in 30 days: not possible, male (% age 15+)",fin24a.N.d.2,..,..,..,13.59,..
+India,IND,"Coming up with emergency funds in 30 days: not possible, older (% age 25+)",fin24a.N.d.4,..,..,..,16.59,..
+India,IND,"Coming up with emergency funds in 30 days: not possible, out of labor force (% age 15+)",fin24a.N.d.11,..,..,..,21.12,..
+India,IND,"Coming up with emergency funds in 30 days: not possible, primary education or less (% ages 15+)",fin24a.N.d.5,..,..,..,19.22,..
+India,IND,"Coming up with emergency funds in 30 days: not possible, rural (% age 15+)",fin24a.N.d.9,..,..,..,18.88,..
+India,IND,"Coming up with emergency funds in 30 days: not possible, secondary education or more (% ages 15+)",fin24a.N.d.6,..,..,..,10.66,..
+India,IND,"Coming up with emergency funds in 30 days: not possible, urban (% age 15+)",fin24a.N.d.10,..,..,..,13.84,..
+India,IND,"Coming up with emergency funds in 30 days: not possible, young (% ages 15-24)",fin24a.N.d.3,..,..,..,16.41,..
+India,IND,Coming up with emergency funds in 30 days: possible (% age 15+),fin24a.321.d,..,..,..,83.46,..
+India,IND,Coming up with emergency funds in 30 days: possible and not difficult at all (% age 15+),fin24a.3.d,..,..,..,7.92,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult at all, female (% age 15+)",fin24a.3.d.1,..,..,..,5.33,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult at all, in labor force (% age 15+)",fin24a.3.d.12,..,..,..,7.68,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult at all, income, poorest 40% (% ages 15+)",fin24a.3.d.7,..,..,..,3.22,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult at all, income, richest 60% (% ages 15+)",fin24a.3.d.8,..,..,..,11.04,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult at all, male (% age 15+)",fin24a.3.d.2,..,..,..,10.34,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult at all, older (% age 25+)",fin24a.3.d.4,..,..,..,7.32,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult at all, out of labor force (% age 15+)",fin24a.3.d.11,..,..,..,8.22,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult at all, primary education or less (% ages 15+)",fin24a.3.d.5,..,..,..,6.2,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult at all, rural (% age 15+)",fin24a.3.d.9,..,..,..,6.65,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult at all, secondary education or more (% ages 15+)",fin24a.3.d.6,..,..,..,11.53,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult at all, urban (% age 15+)",fin24a.3.d.10,..,..,..,9.39,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult at all, young (% ages 15-24)",fin24a.3.d.3,..,..,..,9.51,..
+India,IND,Coming up with emergency funds in 30 days: possible and not difficult or somewhat difficult (% age 15+),fin24a.32.d,..,..,..,31.28,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult or somewhat difficult, female (% age 15+)",fin24a.32.d.1,..,..,..,23.85,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult or somewhat difficult, in labor force (% age 15+)",fin24a.32.d.12,..,..,..,32.98,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult or somewhat difficult, income, poorest 40% (% ages 15+)",fin24a.32.d.7,..,..,..,14.23,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult or somewhat difficult, income, richest 60% (% ages 15+)",fin24a.32.d.8,..,..,..,42.63,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult or somewhat difficult, male (% age 15+)",fin24a.32.d.2,..,..,..,38.21,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult or somewhat difficult, older (% age 25+)",fin24a.32.d.4,..,..,..,29.02,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult or somewhat difficult, out of labor force (% age 15+)",fin24a.32.d.11,..,..,..,29.18,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult or somewhat difficult, primary education or less (% ages 15+)",fin24a.32.d.5,..,..,..,23.21,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult or somewhat difficult, rural (% age 15+)",fin24a.32.d.9,..,..,..,23.39,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult or somewhat difficult, secondary education or more (% ages 15+)",fin24a.32.d.6,..,..,..,48,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult or somewhat difficult, urban (% age 15+)",fin24a.32.d.10,..,..,..,40.37,..
+India,IND,"Coming up with emergency funds in 30 days: possible and not difficult or somewhat difficult, young (% ages 15-24)",fin24a.32.d.3,..,..,..,37.27,..
+India,IND,Coming up with emergency funds in 30 days: possible and somewhat difficult (% age 15+),fin24a.2.d,..,..,..,23.36,..
+India,IND,"Coming up with emergency funds in 30 days: possible and somewhat difficult, female (% age 15+)",fin24a.2.d.1,..,..,..,18.52,..
+India,IND,"Coming up with emergency funds in 30 days: possible and somewhat difficult, in labor force (% age 15+)",fin24a.2.d.12,..,..,..,25.3,..
+India,IND,"Coming up with emergency funds in 30 days: possible and somewhat difficult, income, poorest 40% (% ages 15+)",fin24a.2.d.7,..,..,..,11,..
+India,IND,"Coming up with emergency funds in 30 days: possible and somewhat difficult, income, richest 60% (% ages 15+)",fin24a.2.d.8,..,..,..,31.58,..
+India,IND,"Coming up with emergency funds in 30 days: possible and somewhat difficult, male (% age 15+)",fin24a.2.d.2,..,..,..,27.87,..
+India,IND,"Coming up with emergency funds in 30 days: possible and somewhat difficult, older (% age 25+)",fin24a.2.d.4,..,..,..,21.7,..
+India,IND,"Coming up with emergency funds in 30 days: possible and somewhat difficult, out of labor force (% age 15+)",fin24a.2.d.11,..,..,..,20.96,..
+India,IND,"Coming up with emergency funds in 30 days: possible and somewhat difficult, primary education or less (% ages 15+)",fin24a.2.d.5,..,..,..,17.02,..
+India,IND,"Coming up with emergency funds in 30 days: possible and somewhat difficult, rural (% age 15+)",fin24a.2.d.9,..,..,..,16.75,..
+India,IND,"Coming up with emergency funds in 30 days: possible and somewhat difficult, secondary education or more (% ages 15+)",fin24a.2.d.6,..,..,..,36.47,..
+India,IND,"Coming up with emergency funds in 30 days: possible and somewhat difficult, urban (% age 15+)",fin24a.2.d.10,..,..,..,30.98,..
+India,IND,"Coming up with emergency funds in 30 days: possible and somewhat difficult, young (% ages 15-24)",fin24a.2.d.3,..,..,..,27.76,..
+India,IND,Coming up with emergency funds in 30 days: possible and very difficult (% age 15+),fin24a.1.d,..,..,..,52.18,..
+India,IND,"Coming up with emergency funds in 30 days: possible and very difficult, female (% age 15+)",fin24a.1.d.1,..,..,..,56.44,..
+India,IND,"Coming up with emergency funds in 30 days: possible and very difficult, in labor force (% age 15+)",fin24a.1.d.12,..,..,..,54.19,..
+India,IND,"Coming up with emergency funds in 30 days: possible and very difficult, income, poorest 40% (% ages 15+)",fin24a.1.d.7,..,..,..,63.95,..
+India,IND,"Coming up with emergency funds in 30 days: possible and very difficult, income, richest 60% (% ages 15+)",fin24a.1.d.8,..,..,..,44.35,..
+India,IND,"Coming up with emergency funds in 30 days: possible and very difficult, male (% age 15+)",fin24a.1.d.2,..,..,..,48.2,..
+India,IND,"Coming up with emergency funds in 30 days: possible and very difficult, older (% age 25+)",fin24a.1.d.4,..,..,..,54.38,..
+India,IND,"Coming up with emergency funds in 30 days: possible and very difficult, out of labor force (% age 15+)",fin24a.1.d.11,..,..,..,49.7,..
+India,IND,"Coming up with emergency funds in 30 days: possible and very difficult, primary education or less (% ages 15+)",fin24a.1.d.5,..,..,..,57.56,..
+India,IND,"Coming up with emergency funds in 30 days: possible and very difficult, rural (% age 15+)",fin24a.1.d.9,..,..,..,57.73,..
+India,IND,"Coming up with emergency funds in 30 days: possible and very difficult, secondary education or more (% ages 15+)",fin24a.1.d.6,..,..,..,41.34,..
+India,IND,"Coming up with emergency funds in 30 days: possible and very difficult, urban (% age 15+)",fin24a.1.d.10,..,..,..,45.79,..
+India,IND,"Coming up with emergency funds in 30 days: possible and very difficult, young (% ages 15-24)",fin24a.1.d.3,..,..,..,46.33,..
+India,IND,"Coming up with emergency funds in 30 days: possible, female (% age 15+)",fin24a.321.d.1,..,..,..,80.29,..
+India,IND,"Coming up with emergency funds in 30 days: possible, in labor force (% age 15+)",fin24a.321.d.12,..,..,..,87.17,..
+India,IND,"Coming up with emergency funds in 30 days: possible, income, poorest 40% (% ages 15+)",fin24a.321.d.7,..,..,..,78.18,..
+India,IND,"Coming up with emergency funds in 30 days: possible, income, richest 60% (% ages 15+)",fin24a.321.d.8,..,..,..,86.98,..
+India,IND,"Coming up with emergency funds in 30 days: possible, male (% age 15+)",fin24a.321.d.2,..,..,..,86.41,..
+India,IND,"Coming up with emergency funds in 30 days: possible, older (% age 25+)",fin24a.321.d.4,..,..,..,83.41,..
+India,IND,"Coming up with emergency funds in 30 days: possible, out of labor force (% age 15+)",fin24a.321.d.11,..,..,..,78.88,..
+India,IND,"Coming up with emergency funds in 30 days: possible, primary education or less (% ages 15+)",fin24a.321.d.5,..,..,..,80.78,..
+India,IND,"Coming up with emergency funds in 30 days: possible, rural (% age 15+)",fin24a.321.d.9,..,..,..,81.12,..
+India,IND,"Coming up with emergency funds in 30 days: possible, secondary education or more (% ages 15+)",fin24a.321.d.6,..,..,..,89.34,..
+India,IND,"Coming up with emergency funds in 30 days: possible, urban (% age 15+)",fin24a.321.d.10,..,..,..,86.16,..
+India,IND,"Coming up with emergency funds in 30 days: possible, young (% ages 15-24)",fin24a.321.d.3,..,..,..,83.59,..
+India,IND,Coming up with emergency funds in 7 days: possible (% age 15+),fin24b.321.d,..,..,..,78.21,..
+India,IND,Coming up with emergency funds in 7 days: possible and not difficult (% age 15+),fin24b.3.d,..,..,..,5.24,..
+India,IND,Coming up with emergency funds in 7 days: possible and not difficult or somewhat difficult (% age 15+),fin24b.32.d,..,..,..,19.88,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult or somewhat difficult, female (% age 15+)",fin24b.32.d.1,..,..,..,16.53,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult or somewhat difficult, in labor force (% age 15+)",fin24b.32.d.12,..,..,..,20.42,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult or somewhat difficult, income, poorest 40% (% ages 15+)",fin24b.32.d.7,..,..,..,10.33,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult or somewhat difficult, income, richest 60% (% ages 15+)",fin24b.32.d.8,..,..,..,26.24,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult or somewhat difficult, male (% age 15+)",fin24b.32.d.2,..,..,..,23.01,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult or somewhat difficult, older (% age 25+)",fin24b.32.d.4,..,..,..,18.04,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult or somewhat difficult, out of labor force (% age 15+)",fin24b.32.d.11,..,..,..,19.22,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult or somewhat difficult, primary education or less (% ages 15+)",fin24b.32.d.5,..,..,..,14.3,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult or somewhat difficult, rural (% age 15+)",fin24b.32.d.9,..,..,..,16.03,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult or somewhat difficult, secondary education or more (% ages 15+)",fin24b.32.d.6,..,..,..,31.41,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult or somewhat difficult, urban (% age 15+)",fin24b.32.d.10,..,..,..,24.33,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult or somewhat difficult, young (% ages 15-24)",fin24b.32.d.3,..,..,..,24.77,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult, female (% age 15+)",fin24b.3.d.1,..,..,..,3.92,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult, in labor force (% age 15+)",fin24b.3.d.12,..,..,..,5.05,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult, income, poorest 40% (% ages 15+)",fin24b.3.d.7,..,..,..,1.8,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult, income, richest 60% (% ages 15+)",fin24b.3.d.8,..,..,..,7.52,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult, male (% age 15+)",fin24b.3.d.2,..,..,..,6.47,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult, older (% age 25+)",fin24b.3.d.4,..,..,..,5.06,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult, out of labor force (% age 15+)",fin24b.3.d.11,..,..,..,5.46,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult, primary education or less (% ages 15+)",fin24b.3.d.5,..,..,..,3.86,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult, rural (% age 15+)",fin24b.3.d.9,..,..,..,4.51,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult, secondary education or more (% ages 15+)",fin24b.3.d.6,..,..,..,8.11,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult, urban (% age 15+)",fin24b.3.d.10,..,..,..,6.07,..
+India,IND,"Coming up with emergency funds in 7 days: possible and not difficult, young (% ages 15-24)",fin24b.3.d.3,..,..,..,5.69,..
+India,IND,Coming up with emergency funds in 7 days: possible and somewhat difficult (% age 15+),fin24b.2.d,..,..,..,14.65,..
+India,IND,"Coming up with emergency funds in 7 days: possible and somewhat difficult, female (% age 15+)",fin24b.2.d.1,..,..,..,12.61,..
+India,IND,"Coming up with emergency funds in 7 days: possible and somewhat difficult, in labor force (% age 15+)",fin24b.2.d.12,..,..,..,15.37,..
+India,IND,"Coming up with emergency funds in 7 days: possible and somewhat difficult, income, poorest 40% (% ages 15+)",fin24b.2.d.7,..,..,..,8.53,..
+India,IND,"Coming up with emergency funds in 7 days: possible and somewhat difficult, income, richest 60% (% ages 15+)",fin24b.2.d.8,..,..,..,18.72,..
+India,IND,"Coming up with emergency funds in 7 days: possible and somewhat difficult, male (% age 15+)",fin24b.2.d.2,..,..,..,16.55,..
+India,IND,"Coming up with emergency funds in 7 days: possible and somewhat difficult, older (% age 25+)",fin24b.2.d.4,..,..,..,12.98,..
+India,IND,"Coming up with emergency funds in 7 days: possible and somewhat difficult, out of labor force (% age 15+)",fin24b.2.d.11,..,..,..,13.75,..
+India,IND,"Coming up with emergency funds in 7 days: possible and somewhat difficult, primary education or less (% ages 15+)",fin24b.2.d.5,..,..,..,10.44,..
+India,IND,"Coming up with emergency funds in 7 days: possible and somewhat difficult, rural (% age 15+)",fin24b.2.d.9,..,..,..,11.52,..
+India,IND,"Coming up with emergency funds in 7 days: possible and somewhat difficult, secondary education or more (% ages 15+)",fin24b.2.d.6,..,..,..,23.3,..
+India,IND,"Coming up with emergency funds in 7 days: possible and somewhat difficult, urban (% age 15+)",fin24b.2.d.10,..,..,..,18.26,..
+India,IND,"Coming up with emergency funds in 7 days: possible and somewhat difficult, young (% ages 15-24)",fin24b.2.d.3,..,..,..,19.08,..
+India,IND,Coming up with emergency funds in 7 days: possible and very difficult (% age 15+),fin24b.1.d,..,..,..,58.32,..
+India,IND,"Coming up with emergency funds in 7 days: possible and very difficult, female (% age 15+)",fin24b.1.d.1,..,..,..,59.33,..
+India,IND,"Coming up with emergency funds in 7 days: possible and very difficult, in labor force (% age 15+)",fin24b.1.d.12,..,..,..,60.93,..
+India,IND,"Coming up with emergency funds in 7 days: possible and very difficult, income, poorest 40% (% ages 15+)",fin24b.1.d.7,..,..,..,60.27,..
+India,IND,"Coming up with emergency funds in 7 days: possible and very difficult, income, richest 60% (% ages 15+)",fin24b.1.d.8,..,..,..,57.03,..
+India,IND,"Coming up with emergency funds in 7 days: possible and very difficult, male (% age 15+)",fin24b.1.d.2,..,..,..,57.39,..
+India,IND,"Coming up with emergency funds in 7 days: possible and very difficult, older (% age 25+)",fin24b.1.d.4,..,..,..,59.51,..
+India,IND,"Coming up with emergency funds in 7 days: possible and very difficult, out of labor force (% age 15+)",fin24b.1.d.11,..,..,..,55.1,..
+India,IND,"Coming up with emergency funds in 7 days: possible and very difficult, primary education or less (% ages 15+)",fin24b.1.d.5,..,..,..,60.54,..
+India,IND,"Coming up with emergency funds in 7 days: possible and very difficult, rural (% age 15+)",fin24b.1.d.9,..,..,..,58.85,..
+India,IND,"Coming up with emergency funds in 7 days: possible and very difficult, secondary education or more (% ages 15+)",fin24b.1.d.6,..,..,..,54.06,..
+India,IND,"Coming up with emergency funds in 7 days: possible and very difficult, urban (% age 15+)",fin24b.1.d.10,..,..,..,57.72,..
+India,IND,"Coming up with emergency funds in 7 days: possible and very difficult, young (% ages 15-24)",fin24b.1.d.3,..,..,..,55.18,..
+India,IND,"Coming up with emergency funds in 7 days: possible, female (% age 15+)",fin24b.321.d.1,..,..,..,75.86,..
+India,IND,"Coming up with emergency funds in 7 days: possible, in labor force (% age 15+)",fin24b.321.d.12,..,..,..,81.36,..
+India,IND,"Coming up with emergency funds in 7 days: possible, income, poorest 40% (% ages 15+)",fin24b.321.d.7,..,..,..,70.6,..
+India,IND,"Coming up with emergency funds in 7 days: possible, income, richest 60% (% ages 15+)",fin24b.321.d.8,..,..,..,83.27,..
+India,IND,"Coming up with emergency funds in 7 days: possible, male (% age 15+)",fin24b.321.d.2,..,..,..,80.4,..
+India,IND,"Coming up with emergency funds in 7 days: possible, older (% age 25+)",fin24b.321.d.4,..,..,..,77.55,..
+India,IND,"Coming up with emergency funds in 7 days: possible, out of labor force (% age 15+)",fin24b.321.d.11,..,..,..,74.32,..
+India,IND,"Coming up with emergency funds in 7 days: possible, primary education or less (% ages 15+)",fin24b.321.d.5,..,..,..,74.84,..
+India,IND,"Coming up with emergency funds in 7 days: possible, rural (% age 15+)",fin24b.321.d.9,..,..,..,74.88,..
+India,IND,"Coming up with emergency funds in 7 days: possible, secondary education or more (% ages 15+)",fin24b.321.d.6,..,..,..,85.47,..
+India,IND,"Coming up with emergency funds in 7 days: possible, urban (% age 15+)",fin24b.321.d.10,..,..,..,82.05,..
+India,IND,"Coming up with emergency funds in 7 days: possible, young (% ages 15-24)",fin24b.321.d.3,..,..,..,79.95,..
+India,IND,Deposited money into a financial institution account 2 or more times a month (% age 15+),fin9a,..,..,..,9.25,..
+India,IND,"Deposited money into a financial institution account 2 or more times a month (% who had deposited money, age 15+)",fin9a.s,..,..,..,41.43,..
+India,IND,Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: not worried (% age 15+),fin45.1.3.d,..,..,..,11.2,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: not worried, female (% age 15+)",fin45.1.3.d.1,..,..,..,8.73,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: not worried, in labor force (% age 15+)",fin45.1.3.d.12,..,..,..,11.02,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: not worried, income, poorest 40% (% ages 15+)",fin45.1.3.d.7,..,..,..,6.37,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: not worried, income, richest 60% (% ages 15+)",fin45.1.3.d.8,..,..,..,14.41,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: not worried, male (% age 15+)",fin45.1.3.d.2,..,..,..,13.51,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: not worried, older (% age 25+)",fin45.1.3.d.4,..,..,..,10.18,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: not worried, out of labor force (% age 15+)",fin45.1.3.d.11,..,..,..,11.42,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: not worried, primary education or less (% ages 15+)",fin45.1.3.d.5,..,..,..,9.56,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: not worried, rural (% age 15+)",fin45.1.3.d.9,..,..,..,10.53,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: not worried, secondary education or more (% ages 15+)",fin45.1.3.d.6,..,..,..,14.56,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: not worried, urban (% age 15+)",fin45.1.3.d.10,..,..,..,11.97,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: not worried, young (% ages 15-24)",fin45.1.3.d.3,..,..,..,13.9,..
+India,IND,Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: somewhat worried (% age 15+),fin45.1.2.d,..,..,..,18.31,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: somewhat worried, female (% age 15+)",fin45.1.2.d.1,..,..,..,14.08,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: somewhat worried, in labor force (% age 15+)",fin45.1.2.d.12,..,..,..,19.11,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: somewhat worried, income, poorest 40% (% ages 15+)",fin45.1.2.d.7,..,..,..,10.63,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: somewhat worried, income, richest 60% (% ages 15+)",fin45.1.2.d.8,..,..,..,23.42,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: somewhat worried, male (% age 15+)",fin45.1.2.d.2,..,..,..,22.26,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: somewhat worried, older (% age 25+)",fin45.1.2.d.4,..,..,..,17.56,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: somewhat worried, out of labor force (% age 15+)",fin45.1.2.d.11,..,..,..,17.33,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: somewhat worried, primary education or less (% ages 15+)",fin45.1.2.d.5,..,..,..,13.33,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: somewhat worried, rural (% age 15+)",fin45.1.2.d.9,..,..,..,15.54,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: somewhat worried, secondary education or more (% ages 15+)",fin45.1.2.d.6,..,..,..,28.59,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: somewhat worried, urban (% age 15+)",fin45.1.2.d.10,..,..,..,21.51,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: somewhat worried, young (% ages 15-24)",fin45.1.2.d.3,..,..,..,20.3,..
+India,IND,Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: very worried (% age 15+),fin45.1.1.d,..,..,..,69.79,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: very worried, female (% age 15+)",fin45.1.1.d.1,..,..,..,76.37,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: very worried, in labor force (% age 15+)",fin45.1.1.d.12,..,..,..,69.21,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: very worried, income, poorest 40% (% ages 15+)",fin45.1.1.d.7,..,..,..,82.26,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: very worried, income, richest 60% (% ages 15+)",fin45.1.1.d.8,..,..,..,61.49,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: very worried, male (% age 15+)",fin45.1.1.d.2,..,..,..,63.64,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: very worried, older (% age 25+)",fin45.1.1.d.4,..,..,..,71.7,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: very worried, out of labor force (% age 15+)",fin45.1.1.d.11,..,..,..,70.5,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: very worried, primary education or less (% ages 15+)",fin45.1.1.d.5,..,..,..,76.3,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: very worried, rural (% age 15+)",fin45.1.1.d.9,..,..,..,73.11,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: very worried, secondary education or more (% ages 15+)",fin45.1.1.d.6,..,..,..,56.37,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: very worried, urban (% age 15+)",fin45.1.1.d.10,..,..,..,65.96,..
+India,IND,"Experience or continue to experience severe financial hardship as a result of the disruption caused by COVID-19: very worried, young (% ages 15-24)",fin45.1.1.d.3,..,..,..,64.72,..
+India,IND,Financial institution account (% age 15+),fin1.t.d,35.23,52.75,79.84,77.3,..
+India,IND,"Financial institution account, female (% age 15+)",fin1.t.d.1,26.49,42.64,76.64,77.47,..
+India,IND,"Financial institution account, in labor force (% age 15+)",fin1.t.d.12,43.56,63.02,83.82,81.06,..
+India,IND,"Financial institution account, income, poorest 40% (% ages 15+)",fin1.t.d.7,26.97,43.48,77.08,78.15,..
+India,IND,"Financial institution account, income, richest 60% (% ages 15+)",fin1.t.d.8,40.73,58.93,81.68,76.74,..
+India,IND,"Financial institution account, male (% age 15+)",fin1.t.d.2,43.74,62.47,82.94,77.15,..
+India,IND,"Financial institution account, older (% age 25+)",fin1.t.d.4,38.03,56.33,83.04,81.23,..
+India,IND,"Financial institution account, out of labor force (% age 15+)",fin1.t.d.11,25.71,40.52,75.06,72.66,..
+India,IND,"Financial institution account, primary education or less (% ages 15+)",fin1.t.d.5,30.51,42.88,75.3,75.84,..
+India,IND,"Financial institution account, rural (% age 15+)",fin1.t.d.9,..,..,..,77.03,..
+India,IND,"Financial institution account, secondary education or more (% ages 15+)",fin1.t.d.6,59.47,63.95,84.94,80.74,..
+India,IND,"Financial institution account, urban (% age 15+)",fin1.t.d.10,..,..,..,77.62,..
+India,IND,"Financial institution account, young (% ages 15-24)",fin1.t.d.3,27.3,43.11,71.4,66.86,..
+India,IND,First financial institution account ever was opened to receive a wage payment (% age 15+),fin1.1a,..,..,..,37.91,..
+India,IND,First financial institution account ever was opened to receive a wage payment or money from the government (% age 15+),fin1.1ab,..,..,..,54.27,..
+India,IND,First financial institution ever account was opened to receive money from the government (% age 15+),fin1.1b,..,..,..,38.17,..
+India,IND,Has access to the Internet (% age 15+),Internet,..,..,..,27.58,..
+India,IND,Has an inactive account (% age 15+),fin9N.10N.t.d,..,17.39,30.62,27.44,..
+India,IND,"Has an inactive account (% with an account, age 15+)",fin9N.10N.t.s,..,32.73,38.34,35.39,..
+India,IND,"Has an inactive account, female (% age 15+)",fin9N.10N.t.d.1,..,18.23,34.67,32.32,..
+India,IND,"Has an inactive account, in labor force (% age 15+)",fin9N.10N.t.d.12,..,17.89,27.44,26.04,..
+India,IND,"Has an inactive account, income, poorest 40% (% ages 15+)",fin9N.10N.t.d.7,..,20.5,38.37,35.11,..
+India,IND,"Has an inactive account, income, richest 60% (% ages 15+)",fin9N.10N.t.d.8,..,15.33,25.47,22.34,..
+India,IND,"Has an inactive account, male (% age 15+)",fin9N.10N.t.d.2,..,16.59,26.71,22.89,..
+India,IND,"Has an inactive account, older (% age 25+)",fin9N.10N.t.d.4,..,18.14,31.04,29,..
+India,IND,"Has an inactive account, out of labor force (% age 15+)",fin9N.10N.t.d.11,..,16.81,34.45,29.17,..
+India,IND,"Has an inactive account, primary education or less (% ages 15+)",fin9N.10N.t.d.5,..,17.68,35.92,31.1,..
+India,IND,"Has an inactive account, rural (% age 15+)",fin9N.10N.t.d.9,..,..,..,31.01,..
+India,IND,"Has an inactive account, secondary education or more (% ages 15+)",fin9N.10N.t.d.6,..,17.08,24.51,20.14,..
+India,IND,"Has an inactive account, urban (% age 15+)",fin9N.10N.t.d.10,..,..,..,23.33,..
+India,IND,"Has an inactive account, young (% ages 15-24)",fin9N.10N.t.d.3,..,15.39,29.53,23.29,..
+India,IND,Has an outstanding housing loan (% age 15+),fin19.t.2017,..,3.65,4.64,..,..
+India,IND,"Has an outstanding housing loan, female (% age 15+)",fin19.t.2017.1,..,3.41,3.25,..,..
+India,IND,"Has an outstanding housing loan, in labor force (% age 15+)",fin19.t.2017.12,..,3.98,6.05,..,..
+India,IND,"Has an outstanding housing loan, income, poorest 40% (% ages 15+)",fin19.t.2017.7,..,2.61,2.47,..,..
+India,IND,"Has an outstanding housing loan, income, richest 60% (% ages 15+)",fin19.t.2017.8,..,4.34,6.09,..,..
+India,IND,"Has an outstanding housing loan, male (% age 15+)",fin19.t.2017.2,..,3.88,6,..,..
+India,IND,"Has an outstanding housing loan, older (% age 25+)",fin19.t.2017.4,..,4.18,4.86,..,..
+India,IND,"Has an outstanding housing loan, out of labor force (% age 15+)",fin19.t.2017.11,..,3.27,2.96,..,..
+India,IND,"Has an outstanding housing loan, primary education or less (% ages 15+)",fin19.t.2017.5,..,3.5,3.12,..,..
+India,IND,"Has an outstanding housing loan, rural (% age 15+)",fin19.t.2017.9,..,..,..,..,..
+India,IND,"Has an outstanding housing loan, secondary education or more (% ages 15+)",fin19.t.2017.6,..,3.83,6.38,..,..
+India,IND,"Has an outstanding housing loan, urban (% age 15+)",fin19.t.2017.10,..,..,..,..,..
+India,IND,"Has an outstanding housing loan, young (% ages 15-24)",fin19.t.2017.3,..,2.24,4.07,..,..
+India,IND,Made a cash payment upon delivery for an online purchase (% age 15+),fin14c.cash.t,..,..,..,..,..
+India,IND,"Made a cash payment upon delivery for an online purchase (% of internet purchasers, age 15+)",fin14c.cash.t.s,..,..,..,..,..
+India,IND,"Made a deposit (% with a financial institution account, age 15+)",fin9.t.s,..,46.63,41.63,28.89,..
+India,IND,Made a digital in-store merchant payment (age 15+),fin4a.8a.14.1,..,..,..,11.39,..
+India,IND,Made a digital in-store merchant payment for the first time after COVID-19 started (% age 15+),fin14.2,..,..,..,7.06,..
+India,IND,"Made a digital in-store merchant payment for the first time after COVID-19 started (% who made a digital in-store payment, age 15+)",fin14.2.s,..,..,..,61.97,..
+India,IND,Made a digital in-store merchant payment: using a mobile phone (% age 15+),fin14.1.d,..,..,..,8.31,..
+India,IND,"Made a digital in-store merchant payment: using a mobile phone, female (% age 15+)",fin14.1.d.1,..,..,..,4.39,..
+India,IND,"Made a digital in-store merchant payment: using a mobile phone, in labor force (% age 15+)",fin14.1.d.12,..,..,..,10.78,..
+India,IND,"Made a digital in-store merchant payment: using a mobile phone, income, poorest 40% (% ages 15+)",fin14.1.d.7,..,..,..,2.46,..
+India,IND,"Made a digital in-store merchant payment: using a mobile phone, income, richest 60% (% ages 15+)",fin14.1.d.8,..,..,..,12.19,..
+India,IND,"Made a digital in-store merchant payment: using a mobile phone, male (% age 15+)",fin14.1.d.2,..,..,..,11.96,..
+India,IND,"Made a digital in-store merchant payment: using a mobile phone, older (% age 25+)",fin14.1.d.4,..,..,..,7.38,..
+India,IND,"Made a digital in-store merchant payment: using a mobile phone, out of labor force (% age 15+)",fin14.1.d.11,..,..,..,5.25,..
+India,IND,"Made a digital in-store merchant payment: using a mobile phone, primary education or less (% ages 15+)",fin14.1.d.5,..,..,..,1.85,..
+India,IND,"Made a digital in-store merchant payment: using a mobile phone, rural (% age 15+)",fin14.1.d.9,..,..,..,5.14,..
+India,IND,"Made a digital in-store merchant payment: using a mobile phone, secondary education or more (% ages 15+)",fin14.1.d.6,..,..,..,21.64,..
+India,IND,"Made a digital in-store merchant payment: using a mobile phone, urban (% age 15+)",fin14.1.d.10,..,..,..,11.95,..
+India,IND,"Made a digital in-store merchant payment: using a mobile phone, young (% ages 15-24)",fin14.1.d.3,..,..,..,10.75,..
+India,IND,Made a digital merchant payment (% age 15+),merchant.pay,..,..,..,11.9,..
+India,IND,Made a digital merchant payment for the first time after COVID-19 started (% age 15+),merchant.1st,..,..,..,7.68,..
+India,IND,"Made a digital merchant payment for the first time after COVID-19 started (% who made a digital merchant payment, age 15+)",merchant.1st.s,..,..,..,64.54,..
+India,IND,"Made a digital merchant payment, female (% age 15+)",merchant.pay.1,..,..,..,5.68,..
+India,IND,"Made a digital merchant payment, in labor force (% age 15+)",merchant.pay.12,..,..,..,15.54,..
+India,IND,"Made a digital merchant payment, income, poorest 40% (% ages 15+)",merchant.pay.7,..,..,..,4.18,..
+India,IND,"Made a digital merchant payment, income, richest 60% (% ages 15+)",merchant.pay.8,..,..,..,17.04,..
+India,IND,"Made a digital merchant payment, male (% age 15+)",merchant.pay.2,..,..,..,17.71,..
+India,IND,"Made a digital merchant payment, older (% age 25+)",merchant.pay.4,..,..,..,10.99,..
+India,IND,"Made a digital merchant payment, out of labor force (% age 15+)",merchant.pay.11,..,..,..,7.41,..
+India,IND,"Made a digital merchant payment, primary education or less (% ages 15+)",merchant.pay.5,..,..,..,4.3,..
+India,IND,"Made a digital merchant payment, rural (% age 15+)",merchant.pay.9,..,..,..,7.72,..
+India,IND,"Made a digital merchant payment, secondary education or more (% ages 15+)",merchant.pay.6,..,..,..,27.64,..
+India,IND,"Made a digital merchant payment, urban (% age 15+)",merchant.pay.10,..,..,..,16.73,..
+India,IND,"Made a digital merchant payment, young (% ages 15-24)",merchant.pay.3,..,..,..,14.33,..
+India,IND,Made a digital online merchant payment for an online purchase (% age 15+),fin14c.t,..,..,..,..,..
+India,IND,"Made a digital online merchantpayment for an online purchase (% of internet purchasers, age 15+)",fin14c.t.s,..,..,..,..,..
+India,IND,Made a digital online payment for an online purchase for the first time after COVID-19 started (% age 15+),fin14c2,..,..,..,..,..
+India,IND,"Made a digital online payment for an online purchase for the first time after COVID-19 started (% of internet purchasers, age 15+)",fin14c2.s,..,..,..,..,..
+India,IND,Made a digital payment (% age 15+),g20.made.t.d,..,15.72,19.97,24.69,..
+India,IND,"Made a digital payment, female (% age 15+)",g20.made.t.d.1,..,7.87,13.52,15.75,..
+India,IND,"Made a digital payment, in labor force (% age 15+)",g20.made.t.d.12,..,21.71,23.74,31.19,..
+India,IND,"Made a digital payment, income, poorest 40% (% ages 15+)",g20.made.t.d.7,..,6.65,10.56,12.28,..
+India,IND,"Made a digital payment, income, richest 60% (% ages 15+)",g20.made.t.d.8,..,21.76,26.24,32.94,..
+India,IND,"Made a digital payment, male (% age 15+)",g20.made.t.d.2,..,23.28,26.22,33.03,..
+India,IND,"Made a digital payment, older (% age 25+)",g20.made.t.d.4,..,17.28,22.08,24.43,..
+India,IND,"Made a digital payment, out of labor force (% age 15+)",g20.made.t.d.11,..,8.59,15.45,16.65,..
+India,IND,"Made a digital payment, primary education or less (% ages 15+)",g20.made.t.d.5,..,7.09,11.2,16.22,..
+India,IND,"Made a digital payment, rural (% age 15+)",g20.made.t.d.9,..,..,..,18.5,..
+India,IND,"Made a digital payment, secondary education or more (% ages 15+)",g20.made.t.d.6,..,25.48,29.91,42.14,..
+India,IND,"Made a digital payment, urban (% age 15+)",g20.made.t.d.10,..,..,..,31.82,..
+India,IND,"Made a digital payment, young (% ages 15-24)",g20.made.t.d.3,..,11.52,14.4,25.38,..
+India,IND,Made a utility payment (% age 15+),fin30.t.d,..,39.4,41.82,33.67,..
+India,IND,"Made a utility payment, female (% age 15+)",fin30.t.d.1,..,29.27,33.93,33.65,..
+India,IND,"Made a utility payment, in labor force (% age 15+)",fin30.t.d.12,..,48.87,48.35,35.97,..
+India,IND,"Made a utility payment, income, poorest 40% (% ages 15+)",fin30.t.d.7,..,28.88,30.4,29.25,..
+India,IND,"Made a utility payment, income, richest 60% (% ages 15+)",fin30.t.d.8,..,46.4,49.43,36.6,..
+India,IND,"Made a utility payment, male (% age 15+)",fin30.t.d.2,..,49.14,49.47,33.68,..
+India,IND,"Made a utility payment, older (% age 25+)",fin30.t.d.4,..,42.06,43.68,35.3,..
+India,IND,"Made a utility payment, out of labor force (% age 15+)",fin30.t.d.11,..,28.12,33.99,30.82,..
+India,IND,"Made a utility payment, primary education or less (% ages 15+)",fin30.t.d.5,..,31.97,36.6,31.94,..
+India,IND,"Made a utility payment, rural (% age 15+)",fin30.t.d.9,..,..,..,31.11,..
+India,IND,"Made a utility payment, secondary education or more (% ages 15+)",fin30.t.d.6,..,47.8,47.82,37.22,..
+India,IND,"Made a utility payment, urban (% age 15+)",fin30.t.d.10,..,..,..,36.61,..
+India,IND,"Made a utility payment, young (% ages 15-24)",fin30.t.d.3,..,32.22,36.91,29.33,..
+India,IND,Made a utility payment: using a financial institution account (% age 15+),fin31a.t,..,3.41,6.36,7.38,..
+India,IND,"Made a utility payment: using a financial institution account (% who paid utility bills, age 15+)",fin31a.t.s,..,8.66,15.2,21.92,..
+India,IND,Made a utility payment: using a mobile phone (% age 15+),fin31b.t,..,0.18,1.33,5.25,..
+India,IND,"Made a utility payment: using a mobile phone (% who paid utility bills, age 15+)",fin31b.t.s,..,0.45,3.18,15.59,..
+India,IND,Made a utility payment: using an account (% age 15+),fin30.acc.t,..,3.43,6.97,9.52,..
+India,IND,"Made a utility payment: using an account (% who paid utility bills, age 15+)",fin30.acc.t.s,..,8.7,16.67,28.28,..
+India,IND,Made a utility payment: using an account for the first time after COVID-19 started (% age 15+),fin31b1,..,..,..,..,..
+India,IND,Made a utility payment: using cash only (% age 15+),fin31c.t,..,35.97,28.23,19.5,..
+India,IND,"Made a utility payment: using cash only (% who paid utility bills, age 15+)",fin31c.t.s,..,91.3,67.49,57.92,..
+India,IND,"Made a withdrawal (% with a financial institution account, age 15+)",fin10.t.s,..,40.2,42.4,39.22,..
+India,IND,Made or received a digital payment (% age 15+),g20.t.d,..,22.24,28.69,34.93,..
+India,IND,"Made or received a digital payment, female (% age 15+)",g20.t.d.1,..,14.19,22.44,27.98,..
+India,IND,"Made or received a digital payment, in labor force (% age 15+)",g20.t.d.12,..,29.28,34.16,39.61,..
+India,IND,"Made or received a digital payment, income, poorest 40% (% ages 15+)",g20.t.d.7,..,11.99,19.79,26,..
+India,IND,"Made or received a digital payment, income, richest 60% (% ages 15+)",g20.t.d.8,..,29.06,34.63,40.87,..
+India,IND,"Made or received a digital payment, male (% age 15+)",g20.t.d.2,..,29.98,34.75,41.42,..
+India,IND,"Made or received a digital payment, older (% age 25+)",g20.t.d.4,..,23.53,31.59,36.91,..
+India,IND,"Made or received a digital payment, out of labor force (% age 15+)",g20.t.d.11,..,13.86,22.12,29.15,..
+India,IND,"Made or received a digital payment, primary education or less (% ages 15+)",g20.t.d.5,..,13.93,21.3,28.59,..
+India,IND,"Made or received a digital payment, rural (% age 15+)",g20.t.d.9,..,..,..,30.39,..
+India,IND,"Made or received a digital payment, secondary education or more (% ages 15+)",g20.t.d.6,..,31.64,37.05,48.09,..
+India,IND,"Made or received a digital payment, urban (% age 15+)",g20.t.d.10,..,..,..,40.16,..
+India,IND,"Made or received a digital payment, young (% ages 15-24)",g20.t.d.3,..,18.77,21.04,29.67,..
+India,IND,"Main mode of withdrawal: ATM (% with a financial institution account, age 15+)",fin13a.t.2014.s,18.43,33.11,..,..,..
+India,IND,"Main mode of withdrawal: bank teller (% with a financial institution account, age 15+)",fin13b.t.2014.s,69.71,27.49,..,..,..
+India,IND,Main source of emergency funds in 30 days: family or friends (% age 15+),fin24.2.d,..,..,..,32.59,..
+India,IND,"Main source of emergency funds in 30 days: loan from a bank, employer, or private lender (% age 15+)",fin24.4.d,..,..,..,4.4,..
+India,IND,Main source of emergency funds in 30 days: other (% age 15+),fin24.6.d,..,..,..,2.29,..
+India,IND,Main source of emergency funds in 30 days: sale of assets (% age 15+),fin24.5.d,..,..,..,3.45,..
+India,IND,Main source of emergency funds in 30 days: savings (% age 15+),fin24.1.d,..,..,..,11.29,..
+India,IND,Main source of emergency funds in 30 days: work (% age 15+),fin24.3.d,..,..,..,29.45,..
+India,IND,Main source of emergency funds in 7 days: family or friends (% age 15+),fin24.2.7.d,..,..,..,29.4,..
+India,IND,"Main source of emergency funds in 7 days: loan from a bank, employer, or private lender (% age 15+)",fin24.4.7.d,..,..,..,4.44,..
+India,IND,Main source of emergency funds in 7 days: other (% age 15+),fin24.6.7.d,..,..,..,2.24,..
+India,IND,Main source of emergency funds in 7 days: sale of assets (% age 15+),fin24.5.7.d,..,..,..,3.27,..
+India,IND,Main source of emergency funds in 7 days: savings (% age 15+),fin24.1.7.d,..,..,..,11.2,..
+India,IND,Main source of emergency funds in 7 days: work (% age 15+),fin24.3.7.d,..,..,..,27.66,..
+India,IND,Mobile money account (% age 15+),mobileaccount.t.d,..,2.35,1.99,10.44,..
+India,IND,"Mobile money account, female (% age 15+)",mobileaccount.t.d.1,..,1.17,0.86,5.12,..
+India,IND,"Mobile money account, in labor force (% age 15+)",mobileaccount.t.d.12,..,3.03,2.35,13.5,..
+India,IND,"Mobile money account, income, poorest 40% (% ages 15+)",mobileaccount.t.d.7,..,0.97,0.75,3.34,..
+India,IND,"Mobile money account, income, richest 60% (% ages 15+)",mobileaccount.t.d.8,..,3.28,2.83,15.16,..
+India,IND,"Mobile money account, male (% age 15+)",mobileaccount.t.d.2,..,3.49,3.1,15.41,..
+India,IND,"Mobile money account, older (% age 25+)",mobileaccount.t.d.4,..,2.67,2.26,9.6,..
+India,IND,"Mobile money account, out of labor force (% age 15+)",mobileaccount.t.d.11,..,1.54,1.56,6.66,..
+India,IND,"Mobile money account, primary education or less (% ages 15+)",mobileaccount.t.d.5,..,1.48,0.59,3.17,..
+India,IND,"Mobile money account, rural (% age 15+)",mobileaccount.t.d.9,..,..,..,7.2,..
+India,IND,"Mobile money account, secondary education or more (% ages 15+)",mobileaccount.t.d.6,..,3.27,3.58,25.46,..
+India,IND,"Mobile money account, urban (% age 15+)",mobileaccount.t.d.10,..,..,..,14.17,..
+India,IND,"Mobile money account, young (% ages 15-24)",mobileaccount.t.d.3,..,1.49,1.3,12.66,..
+India,IND,Most worrying financial issue: money for old age (% age 15+),fin45.1M.d,..,..,..,20.93,..
+India,IND,"Most worrying financial issue: money for old age, female (% age 15+)",fin45.1M.d.1,..,..,..,20.23,..
+India,IND,"Most worrying financial issue: money for old age, in labor force (% age 15+)",fin45.1M.d.12,..,..,..,21.76,..
+India,IND,"Most worrying financial issue: money for old age, income, poorest 40% (% ages 15+)",fin45.1M.d.7,..,..,..,23.56,..
+India,IND,"Most worrying financial issue: money for old age, income, richest 60% (% ages 15+)",fin45.1M.d.8,..,..,..,19.17,..
+India,IND,"Most worrying financial issue: money for old age, male (% age 15+)",fin45.1M.d.2,..,..,..,21.58,..
+India,IND,"Most worrying financial issue: money for old age, older (% age 25+)",fin45.1M.d.4,..,..,..,25.03,..
+India,IND,"Most worrying financial issue: money for old age, out of labor force (% age 15+)",fin45.1M.d.11,..,..,..,19.9,..
+India,IND,"Most worrying financial issue: money for old age, primary education or less (% ages 15+)",fin45.1M.d.5,..,..,..,24.97,..
+India,IND,"Most worrying financial issue: money for old age, rural (% age 15+)",fin45.1M.d.9,..,..,..,22.32,..
+India,IND,"Most worrying financial issue: money for old age, secondary education or more (% ages 15+)",fin45.1M.d.6,..,..,..,12.55,..
+India,IND,"Most worrying financial issue: money for old age, urban (% age 15+)",fin45.1M.d.10,..,..,..,19.32,..
+India,IND,"Most worrying financial issue: money for old age, young (% ages 15-24)",fin45.1M.d.3,..,..,..,10.03,..
+India,IND,Most worrying financial issue: money to pay for monthly expenses or bills (% age 15+),fin45.3M.d,..,..,..,18.72,..
+India,IND,"Most worrying financial issue: money to pay for monthly expenses or bills, female (% age 15+)",fin45.3M.d.1,..,..,..,19.87,..
+India,IND,"Most worrying financial issue: money to pay for monthly expenses or bills, in labor force (% age 15+)",fin45.3M.d.12,..,..,..,19.34,..
+India,IND,"Most worrying financial issue: money to pay for monthly expenses or bills, income, poorest 40% (% ages 15+)",fin45.3M.d.7,..,..,..,22.27,..
+India,IND,"Most worrying financial issue: money to pay for monthly expenses or bills, income, richest 60% (% ages 15+)",fin45.3M.d.8,..,..,..,16.35,..
+India,IND,"Most worrying financial issue: money to pay for monthly expenses or bills, male (% age 15+)",fin45.3M.d.2,..,..,..,17.64,..
+India,IND,"Most worrying financial issue: money to pay for monthly expenses or bills, older (% age 25+)",fin45.3M.d.4,..,..,..,19.06,..
+India,IND,"Most worrying financial issue: money to pay for monthly expenses or bills, out of labor force (% age 15+)",fin45.3M.d.11,..,..,..,17.95,..
+India,IND,"Most worrying financial issue: money to pay for monthly expenses or bills, primary education or less (% ages 15+)",fin45.3M.d.5,..,..,..,19.42,..
+India,IND,"Most worrying financial issue: money to pay for monthly expenses or bills, rural (% age 15+)",fin45.3M.d.9,..,..,..,19.43,..
+India,IND,"Most worrying financial issue: money to pay for monthly expenses or bills, secondary education or more (% ages 15+)",fin45.3M.d.6,..,..,..,17.41,..
+India,IND,"Most worrying financial issue: money to pay for monthly expenses or bills, urban (% age 15+)",fin45.3M.d.10,..,..,..,17.9,..
+India,IND,"Most worrying financial issue: money to pay for monthly expenses or bills, young (% ages 15-24)",fin45.3M.d.3,..,..,..,17.8,..
+India,IND,Most worrying financial issue: paying for medical costs in case of a serious illness or accident (% age 15+),fin45.2M.d,..,..,..,28.45,..
+India,IND,"Most worrying financial issue: paying for medical costs in case of a serious illness or accident, female (% age 15+)",fin45.2M.d.1,..,..,..,25.46,..
+India,IND,"Most worrying financial issue: paying for medical costs in case of a serious illness or accident, in labor force (% age 15+)",fin45.2M.d.12,..,..,..,29.44,..
+India,IND,"Most worrying financial issue: paying for medical costs in case of a serious illness or accident, income, poorest 40% (% ages 15+)",fin45.2M.d.7,..,..,..,25.38,..
+India,IND,"Most worrying financial issue: paying for medical costs in case of a serious illness or accident, income, richest 60% (% ages 15+)",fin45.2M.d.8,..,..,..,30.49,..
+India,IND,"Most worrying financial issue: paying for medical costs in case of a serious illness or accident, male (% age 15+)",fin45.2M.d.2,..,..,..,31.24,..
+India,IND,"Most worrying financial issue: paying for medical costs in case of a serious illness or accident, older (% age 25+)",fin45.2M.d.4,..,..,..,28.01,..
+India,IND,"Most worrying financial issue: paying for medical costs in case of a serious illness or accident, out of labor force (% age 15+)",fin45.2M.d.11,..,..,..,27.22,..
+India,IND,"Most worrying financial issue: paying for medical costs in case of a serious illness or accident, primary education or less (% ages 15+)",fin45.2M.d.5,..,..,..,27.32,..
+India,IND,"Most worrying financial issue: paying for medical costs in case of a serious illness or accident, rural (% age 15+)",fin45.2M.d.9,..,..,..,26.3,..
+India,IND,"Most worrying financial issue: paying for medical costs in case of a serious illness or accident, secondary education or more (% ages 15+)",fin45.2M.d.6,..,..,..,30.82,..
+India,IND,"Most worrying financial issue: paying for medical costs in case of a serious illness or accident, urban (% age 15+)",fin45.2M.d.10,..,..,..,30.92,..
+India,IND,"Most worrying financial issue: paying for medical costs in case of a serious illness or accident, young (% ages 15-24)",fin45.2M.d.3,..,..,..,29.61,..
+India,IND,Most worrying financial issue: paying school or education fees (% age 15+),fin45.4M.d,..,..,..,19.13,..
+India,IND,"Most worrying financial issue: paying school or education fees, female (% age 15+)",fin45.4M.d.1,..,..,..,24.46,..
+India,IND,"Most worrying financial issue: paying school or education fees, in labor force (% age 15+)",fin45.4M.d.12,..,..,..,18,..
+India,IND,"Most worrying financial issue: paying school or education fees, income, poorest 40% (% ages 15+)",fin45.4M.d.7,..,..,..,21.93,..
+India,IND,"Most worrying financial issue: paying school or education fees, income, richest 60% (% ages 15+)",fin45.4M.d.8,..,..,..,17.28,..
+India,IND,"Most worrying financial issue: paying school or education fees, male (% age 15+)",fin45.4M.d.2,..,..,..,14.17,..
+India,IND,"Most worrying financial issue: paying school or education fees, older (% age 25+)",fin45.4M.d.4,..,..,..,16.12,..
+India,IND,"Most worrying financial issue: paying school or education fees, out of labor force (% age 15+)",fin45.4M.d.11,..,..,..,20.54,..
+India,IND,"Most worrying financial issue: paying school or education fees, primary education or less (% ages 15+)",fin45.4M.d.5,..,..,..,17.71,..
+India,IND,"Most worrying financial issue: paying school or education fees, rural (% age 15+)",fin45.4M.d.9,..,..,..,21,..
+India,IND,"Most worrying financial issue: paying school or education fees, secondary education or more (% ages 15+)",fin45.4M.d.6,..,..,..,21.82,..
+India,IND,"Most worrying financial issue: paying school or education fees, urban (% age 15+)",fin45.4M.d.10,..,..,..,16.98,..
+India,IND,"Most worrying financial issue: paying school or education fees, young (% ages 15-24)",fin45.4M.d.3,..,..,..,27.13,..
+India,IND,No account because financial institutions are too far away (% age 15+),fin11a,..,..,..,10.44,..
+India,IND,"No account because financial institutions are too far away (% without an account, age 15+)",fin11a.s,..,..,..,43.28,..
+India,IND,No account because financial services are too expensive (% age 15+),fin11b,..,..,..,10.42,..
+India,IND,"No account because financial services are too expensive (% without an account, age 15+)",fin11b.s,..,..,..,43.81,..
+India,IND,No account because of a lack of necessary documentation (% age 15+),fin11c,..,..,..,6.52,..
+India,IND,"No account because of a lack of necessary documentation (% without an account, age 15+)",fin11c.s,..,..,..,27.68,..
+India,IND,No account because of a lack of trust in financial institutions (% age 15+),fin11d,..,..,..,7.75,..
+India,IND,"No account because of a lack of trust in financial institutions (% without an account, age 15+)",fin11d.s,..,..,..,31.86,..
+India,IND,No account because of insufficient funds (% age 15+),fin11f,..,..,..,8.61,..
+India,IND,"No account because of insufficient funds (% without an account, age 15+)",fin11f.s,..,..,..,35.94,..
+India,IND,No account because of religious reasons (% age 15+),fin11e,..,..,..,3.42,..
+India,IND,"No account because of religious reasons (% without an account, age 15+)",fin11e.s,..,..,..,13.63,..
+India,IND,No account because someone in the family has one (% age 15+),fin11g,..,..,..,12.28,..
+India,IND,"No account because someone in the family has one (% without an account, age 15+)",fin11g.s,..,..,..,51,..
+India,IND,Own a mobile phone (% age 15+),Own.phone,..,..,..,65.57,..
+India,IND,Owns a credit card (% age 15+),fin7.t.d,1.77,4.18,3,4.62,..
+India,IND,"Owns a credit card, female (% age 15+)",fin7.t.d.1,1.04,1.57,2.3,2.38,..
+India,IND,"Owns a credit card, in labor force (% age 15+)",fin7.t.d.12,2.21,5.29,3.4,6.18,..
+India,IND,"Owns a credit card, income, poorest 40% (% ages 15+)",fin7.t.d.7,1.14,3.13,1.58,2.34,..
+India,IND,"Owns a credit card, income, richest 60% (% ages 15+)",fin7.t.d.8,2.19,4.87,3.95,6.15,..
+India,IND,"Owns a credit card, male (% age 15+)",fin7.t.d.2,2.48,6.68,3.68,6.72,..
+India,IND,"Owns a credit card, older (% age 25+)",fin7.t.d.4,1.88,4.49,3.85,4.98,..
+India,IND,"Owns a credit card, out of labor force (% age 15+)",fin7.t.d.11,1.27,2.85,2.53,2.7,..
+India,IND,"Owns a credit card, primary education or less (% ages 15+)",fin7.t.d.5,1.11,1.42,2.18,2.21,..
+India,IND,"Owns a credit card, rural (% age 15+)",fin7.t.d.9,..,..,..,3.38,..
+India,IND,"Owns a credit card, secondary education or more (% ages 15+)",fin7.t.d.6,5.12,7.24,3.94,9.59,..
+India,IND,"Owns a credit card, urban (% age 15+)",fin7.t.d.10,..,..,..,6.06,..
+India,IND,"Owns a credit card, young (% ages 15-24)",fin7.t.d.3,1.45,3.32,0.78,3.69,..
+India,IND,Owns a debit card (% age 15+),fin2.t.d,8.4,22.07,32.72,27.07,..
+India,IND,"Owns a debit card, female (% age 15+)",fin2.t.d.1,4.58,11.41,22.34,19.08,..
+India,IND,"Owns a debit card, in labor force (% age 15+)",fin2.t.d.12,11.69,28.78,39.75,32.78,..
+India,IND,"Owns a debit card, income, poorest 40% (% ages 15+)",fin2.t.d.7,3.31,10.56,17,15.51,..
+India,IND,"Owns a debit card, income, richest 60% (% ages 15+)",fin2.t.d.8,11.79,29.73,43.2,34.76,..
+India,IND,"Owns a debit card, male (% age 15+)",fin2.t.d.2,12.12,32.32,42.77,34.52,..
+India,IND,"Owns a debit card, older (% age 25+)",fin2.t.d.4,8.57,22.98,34.1,27.95,..
+India,IND,"Owns a debit card, out of labor force (% age 15+)",fin2.t.d.11,4.64,14.07,24.28,20.01,..
+India,IND,"Owns a debit card, primary education or less (% ages 15+)",fin2.t.d.5,4.89,8.96,15.51,19.24,..
+India,IND,"Owns a debit card, rural (% age 15+)",fin2.t.d.9,..,..,..,19.74,..
+India,IND,"Owns a debit card, secondary education or more (% ages 15+)",fin2.t.d.6,26.31,36.91,52.07,43.37,..
+India,IND,"Owns a debit card, urban (% age 15+)",fin2.t.d.10,..,..,..,35.52,..
+India,IND,"Owns a debit card, young (% ages 15-24)",fin2.t.d.3,7.91,19.6,29.07,24.73,..
+India,IND,Owns a debit or credit card (% age 15+),fin2.7.t.d,9.13,22.26,33.5,27.83,..
+India,IND,"Owns a debit or credit card, female (% age 15+)",fin2.7.t.d.1,4.94,11.61,23.24,19.74,..
+India,IND,"Owns a debit or credit card, in labor force (% age 15+)",fin2.7.t.d.12,12.52,28.95,40.47,33.72,..
+India,IND,"Owns a debit or credit card, income, poorest 40% (% ages 15+)",fin2.7.t.d.7,4.31,10.59,17.84,16.43,..
+India,IND,"Owns a debit or credit card, income, richest 60% (% ages 15+)",fin2.7.t.d.8,12.33,30.03,43.94,35.42,..
+India,IND,"Owns a debit or credit card, male (% age 15+)",fin2.7.t.d.2,13.2,32.5,43.44,35.38,..
+India,IND,"Owns a debit or credit card, older (% age 25+)",fin2.7.t.d.4,9.44,23.12,35.16,28.84,..
+India,IND,"Owns a debit or credit card, out of labor force (% age 15+)",fin2.7.t.d.11,5.25,14.29,25.14,20.55,..
+India,IND,"Owns a debit or credit card, primary education or less (% ages 15+)",fin2.7.t.d.5,5.57,8.97,16.72,19.97,..
+India,IND,"Owns a debit or credit card, rural (% age 15+)",fin2.7.t.d.9,..,..,..,20.72,..
+India,IND,"Owns a debit or credit card, secondary education or more (% ages 15+)",fin2.7.t.d.6,27.33,37.31,52.38,44.17,..
+India,IND,"Owns a debit or credit card, urban (% age 15+)",fin2.7.t.d.10,..,..,..,36.02,..
+India,IND,"Owns a debit or credit card, young (% ages 15-24)",fin2.7.t.d.3,8.23,19.92,29.12,25.15,..
+India,IND,Paid off all credit card balances in full by their due date (% age 15+),fin8b,..,..,..,..,..
+India,IND,"Paid off all credit card balances in full by their due date (% who used a credit card, age 15+)",fin8b.s,..,..,..,..,..
+India,IND,Paid school fees (% age 15+),fin33.2014.d,..,22.4,..,..,..
+India,IND,"Paid school fees, female (% age 15+)",fin33.2014.d.1,..,18.67,..,..,..
+India,IND,"Paid school fees, in labor force (% age 15+)",fin33.2014.d.12,..,24.86,..,..,..
+India,IND,"Paid school fees, income, poorest 40% (% ages 15+)",fin33.2014.d.7,..,19.88,..,..,..
+India,IND,"Paid school fees, income, richest 60% (% ages 15+)",fin33.2014.d.8,..,24.07,..,..,..
+India,IND,"Paid school fees, male (% age 15+)",fin33.2014.d.2,..,25.98,..,..,..
+India,IND,"Paid school fees, older (% age 25+)",fin33.2014.d.4,..,21.57,..,..,..
+India,IND,"Paid school fees, out of labor force (% age 15+)",fin33.2014.d.11,..,19.46,..,..,..
+India,IND,"Paid school fees, primary education or less (% ages 15+)",fin33.2014.d.5,..,17.03,..,..,..
+India,IND,"Paid school fees, rural (% age 15+)",fin33.2014.d.9,..,..,..,..,..
+India,IND,"Paid school fees, secondary education or more (% ages 15+)",fin33.2014.d.6,..,28.45,..,..,..
+India,IND,"Paid school fees, urban (% age 15+)",fin33.2014.d.10,..,..,..,..,..
+India,IND,"Paid school fees, young (% ages 15-24)",fin33.2014.d.3,..,24.64,..,..,..
+India,IND,Paid school fees: using a financial institution account (% age 15+),fin34b.2014,..,1.39,..,..,..
+India,IND,"Paid school fees: using a financial institution account (% paying school fees, age 15+)",fin34b.2014.s,..,6.2,..,..,..
+India,IND,Paid school fees: using a mobile phone (% age 15+),fin34c.2014,..,0.2,..,..,..
+India,IND,"Paid school fees: using a mobile phone (% paying school fees, age 15+)",fin34c.2014.s,..,0.89,..,..,..
+India,IND,Paid school fees: using an account (% age 15+),fin34b.2014.acc,..,1.47,..,..,..
+India,IND,"Paid school fees: using an account (% paying school fees, age 15+)",fin34b.2014.acc.s,..,6.58,..,..,..
+India,IND,Paid school fees: using cash only (% age 15+),fin34a.2014,..,20.92,..,..,..
+India,IND,"Paid school fees: using cash only (% paying school fees, age 15+)",fin34a.2014.s,..,93.42,..,..,..
+India,IND,Reason for not having a mobile money account: available mobile money products are too expensive (% age 15+),fin13.1b,..,..,..,..,..
+India,IND,"Reason for not having a mobile money account: available mobile money products are too expensive (% without an account, age 15+)",fin13.1b.s,..,..,..,..,..
+India,IND,Reason for not having a mobile money account: do not have their own mobile phone (% age 15+),fin13.1f,..,..,..,..,..
+India,IND,"Reason for not having a mobile money account: do not have their own mobile phone (% without an account, age 15+)",fin13.1f.s,..,..,..,..,..
+India,IND,Reason for not having a mobile money account: don't have enough money to use a mobile money account (% age 15+),fin13.1d,..,..,..,..,..
+India,IND,"Reason for not having a mobile money account: don't have enough money to use a mobile money account (% without an account, age 15+)",fin13.1d.s,..,..,..,..,..
+India,IND,Reason for not having a mobile money account: don't have the necessary documentation (% age 15+),fin13.1c,..,..,..,..,..
+India,IND,"Reason for not having a mobile money account: don't have the necessary documentation (% without an account, age 15+)",fin13.1c.s,..,..,..,..,..
+India,IND,Reason for not having a mobile money account: mobile money agents are too far away (% age 15+),fin13.1a,..,..,..,..,..
+India,IND,"Reason for not having a mobile money account: mobile money agents are too far away (% without an account, age 15+)",fin13.1a.s,..,..,..,..,..
+India,IND,Reason for not having a mobile money account: use an agent or someone else to make payments (% age 15+),fin13.1e,..,..,..,..,..
+India,IND,"Reason for not having a mobile money account: use an agent or someone else to make payments (% without an account, age 15+)",fin13.1e.s,..,..,..,..,..
+India,IND,Reason for not using their inactive account: bank or financial institution is too far away (% age 15+),fin10.1a,..,..,..,18.11,..
+India,IND,"Reason for not using their inactive account: bank or financial institution is too far away (% with an inactive account, age 15+)",fin10.1a.s,..,..,..,49,..
+India,IND,"Reason for not using their inactive account: don't feel comfortable using an account by themselves (% with an inactive account, age 15+)",fin10.1d.s,..,..,..,29.31,..
+India,IND,Reason for not using their inactive account: don't feel comfortable using the account by themselves (% age 15+),fin10.1d,..,..,..,11.24,..
+India,IND,Reason for not using their inactive account: don't have enough money to use an account (% age 15+),fin10.1c,..,..,..,14.4,..
+India,IND,"Reason for not using their inactive account: don't have enough money to use an account (% with an inactive account, age 15+)",fin10.1c.s,..,..,..,36.51,..
+India,IND,Reason for not using their inactive account: don't trust banks or financial institutions (% age 15+),fin10.1e,..,..,..,18.05,..
+India,IND,"Reason for not using their inactive account: don't trust banks or financial institutions (% with an inactive account, age 15+)",fin10.1e.s,..,..,..,47.74,..
+India,IND,Reason for not using their inactive account: no need for an account (% age 15+),fin10.1b,..,..,..,16.97,..
+India,IND,"Reason for not using their inactive account: no need for an account (% with an inactive account, age 15+)",fin10.1b.s,..,..,..,46.42,..
+India,IND,Received a public sector pension (% age 15+),fin38.t.d,..,..,6.28,8.19,..
+India,IND,"Received a public sector pension, female (% age 15+)",fin38.t.d.1,..,..,7.21,9.11,..
+India,IND,"Received a public sector pension, in labor force (% age 15+)",fin38.t.d.12,..,..,5.32,6.93,..
+India,IND,"Received a public sector pension, income, poorest 40% (% ages 15+)",fin38.t.d.7,..,..,6.74,9.62,..
+India,IND,"Received a public sector pension, income, richest 60% (% ages 15+)",fin38.t.d.8,..,..,5.97,7.24,..
+India,IND,"Received a public sector pension, male (% age 15+)",fin38.t.d.2,..,..,5.37,7.34,..
+India,IND,"Received a public sector pension, older (% age 25+)",fin38.t.d.4,..,..,8.19,10.56,..
+India,IND,"Received a public sector pension, out of labor force (% age 15+)",fin38.t.d.11,..,..,7.42,9.75,..
+India,IND,"Received a public sector pension, primary education or less (% ages 15+)",fin38.t.d.5,..,..,8.87,10.19,..
+India,IND,"Received a public sector pension, rural (% age 15+)",fin38.t.d.9,..,..,..,8.94,..
+India,IND,"Received a public sector pension, secondary education or more (% ages 15+)",fin38.t.d.6,..,..,3.32,4.12,..
+India,IND,"Received a public sector pension, urban (% age 15+)",fin38.t.d.10,..,..,..,7.34,..
+India,IND,"Received a public sector pension, young (% ages 15-24)",fin38.t.d.3,..,..,1.22,1.9,..
+India,IND,Received a public sector pension: in cash only (% age 15+),fin38.39d.t,..,..,..,..,..
+India,IND,"Received a public sector pension: in cash only (% of public sector pension recipients, age 15+)",fin38.39d.t.s,..,..,..,..,..
+India,IND,Received a public sector pension: into a financial institution account (% age 15+),fin38.39a.t,..,..,..,..,..
+India,IND,"Received a public sector pension: into a financial institution account (% of public sector pension recipients, age 15+)",fin38.39a.t.s,..,..,..,..,..
+India,IND,Received a public sector pension: into an account (% age 15+),fin38.acc.t,..,..,..,..,..
+India,IND,"Received a public sector pension: into an account (% of public sector pension recipients, age 15+)",fin38.acc.t.s,..,..,..,..,..
+India,IND,Received a public sector pension: through a mobile phone (% age 15+),fin38.39b.t,..,..,..,..,..
+India,IND,"Received a public sector pension: through a mobile phone (% of public sector pension recipients, age 15+)",fin38.39b.t.s,..,..,..,..,..
+India,IND,Received a public sector pension: to a card (% age 15+),fin38.39e.t,..,..,..,..,..
+India,IND,"Received a public sector pension: to a card (% of public sector pension recipients, age 15+)",fin38.39e.t.s,..,..,..,..,..
+India,IND,Received digital payments (% age 15+),g20.receive.t.d,..,11.61,16.46,19.4,..
+India,IND,"Received digital payments, female (% age 15+)",g20.receive.t.d.1,..,8.32,13.5,17.48,..
+India,IND,"Received digital payments, in labor force (% age 15+)",g20.receive.t.d.12,..,14.98,20.87,20.8,..
+India,IND,"Received digital payments, income, poorest 40% (% ages 15+)",g20.receive.t.d.7,..,7.2,12.07,17.95,..
+India,IND,"Received digital payments, income, richest 60% (% ages 15+)",g20.receive.t.d.8,..,14.55,19.38,20.36,..
+India,IND,"Received digital payments, male (% age 15+)",g20.receive.t.d.2,..,14.77,19.32,21.19,..
+India,IND,"Received digital payments, older (% age 25+)",g20.receive.t.d.4,..,11.61,18.05,22.12,..
+India,IND,"Received digital payments, out of labor force (% age 15+)",g20.receive.t.d.11,..,7.6,11.16,17.67,..
+India,IND,"Received digital payments, primary education or less (% ages 15+)",g20.receive.t.d.5,..,8.78,13.65,17.96,..
+India,IND,"Received digital payments, rural (% age 15+)",g20.receive.t.d.9,..,..,..,18.33,..
+India,IND,"Received digital payments, secondary education or more (% ages 15+)",g20.receive.t.d.6,..,14.77,19.61,22.5,..
+India,IND,"Received digital payments, urban (% age 15+)",g20.receive.t.d.10,..,..,..,20.64,..
+India,IND,"Received digital payments, young (% ages 15-24)",g20.receive.t.d.3,..,11.62,12.26,12.17,..
+India,IND,Received domestic remittances (% age 15+),fin28.t.d,..,9.79,15.76,12.79,..
+India,IND,"Received domestic remittances, female (% age 15+)",fin28.t.d.1,..,7.02,13.02,11.18,..
+India,IND,"Received domestic remittances, in labor force (% age 15+)",fin28.t.d.12,..,11.66,19.52,15.34,..
+India,IND,"Received domestic remittances, income, poorest 40% (% ages 15+)",fin28.t.d.7,..,6.11,13.27,9.66,..
+India,IND,"Received domestic remittances, income, richest 60% (% ages 15+)",fin28.t.d.8,..,12.24,17.41,14.86,..
+India,IND,"Received domestic remittances, male (% age 15+)",fin28.t.d.2,..,12.45,18.41,14.29,..
+India,IND,"Received domestic remittances, older (% age 25+)",fin28.t.d.4,..,10.68,16.06,12.93,..
+India,IND,"Received domestic remittances, out of labor force (% age 15+)",fin28.t.d.11,..,7.55,11.24,9.63,..
+India,IND,"Received domestic remittances, primary education or less (% ages 15+)",fin28.t.d.5,..,8.78,14.01,11.16,..
+India,IND,"Received domestic remittances, rural (% age 15+)",fin28.t.d.9,..,..,..,11.19,..
+India,IND,"Received domestic remittances, secondary education or more (% ages 15+)",fin28.t.d.6,..,10.94,17.64,16.23,..
+India,IND,"Received domestic remittances, urban (% age 15+)",fin28.t.d.10,..,..,..,14.63,..
+India,IND,"Received domestic remittances, young (% ages 15-24)",fin28.t.d.3,..,7.38,14.94,12.4,..
+India,IND,Received domestic remittances: in person and in cash only (% age 15+),fin29c1.t,..,..,8.1,5.06,..
+India,IND,"Received domestic remittances: in person and in cash only (% of recipients, age 15+)",fin29c1.t.s,..,..,51.4,39.54,..
+India,IND,Received domestic remittances: into an account (% age 15+),fin29.t,..,..,4.86,4.74,..
+India,IND,"Received domestic remittances: into an account (% of recipients, age 15+)",fin29.t.s,..,..,30.83,37.08,..
+India,IND,Received domestic remittances: through a money transfer service (% age 15+),fin29c2.t,..,..,0.5,0.7,..
+India,IND,"Received domestic remittances: through a money transfer service (% of recipients, age 15+)",fin29c2.t.s,..,..,3.17,5.46,..
+India,IND,Received government payments (% age 15+),fing2p.t.d,..,11.71,13.85,20.14,..
+India,IND,"Received government payments, female (% age 15+)",fing2p.t.d.1,..,11.37,13.94,21.73,..
+India,IND,"Received government payments, in labor force (% age 15+)",fing2p.t.d.12,..,13.04,14.66,19.98,..
+India,IND,"Received government payments, income, poorest 40% (% ages 15+)",fing2p.t.d.7,..,9.09,14.26,22.56,..
+India,IND,"Received government payments, income, richest 60% (% ages 15+)",fing2p.t.d.8,..,13.46,13.58,18.53,..
+India,IND,"Received government payments, male (% age 15+)",fing2p.t.d.2,..,12.05,13.76,18.65,..
+India,IND,"Received government payments, older (% age 25+)",fing2p.t.d.4,..,11.67,15.91,22.43,..
+India,IND,"Received government payments, out of labor force (% age 15+)",fing2p.t.d.11,..,10.13,12.88,20.34,..
+India,IND,"Received government payments, primary education or less (% ages 15+)",fing2p.t.d.5,..,11.97,16.23,20.82,..
+India,IND,"Received government payments, rural (% age 15+)",fing2p.t.d.9,..,..,..,21.36,..
+India,IND,"Received government payments, secondary education or more (% ages 15+)",fing2p.t.d.6,..,11.44,11.18,18.73,..
+India,IND,"Received government payments, urban (% age 15+)",fing2p.t.d.10,..,..,..,18.73,..
+India,IND,"Received government payments, young (% ages 15-24)",fing2p.t.d.3,..,11.83,8.42,14.05,..
+India,IND,Received government payments: in cash only (% age 15+),fing2p.cash.t,..,5.8,2.82,2.22,..
+India,IND,"Received government payments: in cash only (% of government payment recipients, age 15+)",fing2p.cash.t.s,..,49.5,20.37,11.03,..
+India,IND,Received government payments: into a financial institution account (% age 15+),fing2p.fin.t,..,4.47,7.7,10.27,..
+India,IND,"Received government payments: into a financial institution account (% of government payment recipients, age 15+)",fing2p.fin.t.s,..,38.17,55.62,50.99,..
+India,IND,Received government payments: into an account (% age 15+),fing2p.acc.t,..,4.49,8.15,11.38,..
+India,IND,"Received government payments: into an account (% of government payment recipients, age 15+)",fing2p.acc.t.s,..,38.33,58.83,56.51,..
+India,IND,Received government payments: through a mobile phone (% age 15+),fing2p.mob.t,..,0.28,0.47,1.23,..
+India,IND,"Received government payments: through a mobile phone (% of government payment recipients, age 15+)",fing2p.mob.t.s,..,2.4,3.4,6.09,..
+India,IND,Received government payments: to a card (% age 15+),fing2p.card.t,..,1.4,0.19,0.88,..
+India,IND,"Received government payments: to a card (% of government payment recipients, age 15+)",fing2p.card.t.s,..,11.95,1.38,4.38,..
+India,IND,Received government transfer (% age 15+),fin37.t.d,..,9.82,8.2,13.53,..
+India,IND,Received government transfer or pension (% age 15+),fin37.38.t.d,..,..,12.35,18.91,..
+India,IND,"Received government transfer or pension, female (% age 15+)",fin37.38.t.d.1,..,..,13.22,20.22,..
+India,IND,"Received government transfer or pension, in labor force (% age 15+)",fin37.38.t.d.12,..,..,12.43,18.12,..
+India,IND,"Received government transfer or pension, income, poorest 40% (% ages 15+)",fin37.38.t.d.7,..,..,12.88,21.58,..
+India,IND,"Received government transfer or pension, income, richest 60% (% ages 15+)",fin37.38.t.d.8,..,..,11.99,17.12,..
+India,IND,"Received government transfer or pension, male (% age 15+)",fin37.38.t.d.2,..,..,11.51,17.68,..
+India,IND,"Received government transfer or pension, older (% age 25+)",fin37.38.t.d.4,..,..,14.06,20.98,..
+India,IND,"Received government transfer or pension, out of labor force (% age 15+)",fin37.38.t.d.11,..,..,12.26,19.88,..
+India,IND,"Received government transfer or pension, primary education or less (% ages 15+)",fin37.38.t.d.5,..,..,15.19,19.69,..
+India,IND,"Received government transfer or pension, rural (% age 15+)",fin37.38.t.d.9,..,..,..,20.1,..
+India,IND,"Received government transfer or pension, secondary education or more (% ages 15+)",fin37.38.t.d.6,..,..,9.16,17.28,..
+India,IND,"Received government transfer or pension, urban (% age 15+)",fin37.38.t.d.10,..,..,..,17.52,..
+India,IND,"Received government transfer or pension, young (% ages 15-24)",fin37.38.t.d.3,..,..,7.83,13.41,..
+India,IND,Received government transfer or pension: cash only (% age 15+),fin37.38.39d.t,..,..,2.3,1.99,..
+India,IND,"Received government transfer or pension: in cash only (% of government transfer or pension recipients, age 15+)",fin37.38.39d.t.s,..,..,18.59,10.51,..
+India,IND,Received government transfer or pension: into an account (% age 15+),fin37.38.acc.t,..,..,7.17,10.46,..
+India,IND,"Received government transfer or pension: into an account (% of government transfer or pension recipients, age 15+)",fin37.38.acc.t.s,..,..,58.05,55.32,..
+India,IND,Received government transfer or pension: into financial institution account (% age 15+),fin37.38.39a.t,..,..,6.73,9.3,..
+India,IND,"Received government transfer or pension: into financial institution account (% of government transfer or pension recipients, age 15+)",fin37.38.39a.t.s,..,..,54.53,49.21,..
+India,IND,Received government transfer or pension: through a mobile phone (% age 15+),fin37.38.39b.t,..,..,0.35,0.99,..
+India,IND,"Received government transfer or pension: through a mobile phone (% of government transfer or pension recipients, age 15+)",fin37.38.39b.t.s,..,..,2.82,5.23,..
+India,IND,Received government transfer or pension: to a card (% age 15+),fin37.38.39e.t,..,..,0.17,0.82,..
+India,IND,"Received government transfer or pension: to a card (% of government transfer or pension recipients, age 15+)",fin37.38.39e.t.s,..,..,1.4,4.31,..
+India,IND,"Received government transfer, female (% age 15+)",fin37.t.d.1,..,10.28,8.45,14.61,..
+India,IND,"Received government transfer, in labor force (% age 15+)",fin37.t.d.12,..,9.71,8.99,13.52,..
+India,IND,"Received government transfer, income, poorest 40% (% ages 15+)",fin37.t.d.7,..,7.65,8.82,15.24,..
+India,IND,"Received government transfer, income, richest 60% (% ages 15+)",fin37.t.d.8,..,11.27,7.79,12.39,..
+India,IND,"Received government transfer, male (% age 15+)",fin37.t.d.2,..,9.38,7.97,12.52,..
+India,IND,"Received government transfer, older (% age 25+)",fin37.t.d.4,..,9.44,8.67,14.03,..
+India,IND,"Received government transfer, out of labor force (% age 15+)",fin37.t.d.11,..,9.96,7.26,13.54,..
+India,IND,"Received government transfer, primary education or less (% ages 15+)",fin37.t.d.5,..,10.95,9.31,12.85,..
+India,IND,"Received government transfer, rural (% age 15+)",fin37.t.d.9,..,..,..,14.24,..
+India,IND,"Received government transfer, secondary education or more (% ages 15+)",fin37.t.d.6,..,8.54,6.92,14.93,..
+India,IND,"Received government transfer, urban (% age 15+)",fin37.t.d.10,..,..,..,12.71,..
+India,IND,"Received government transfer, young (% ages 15-24)",fin37.t.d.3,..,10.85,6.96,12.2,..
+India,IND,Received government transfer: cash only (% age 15+),fin37.39d.t,..,..,..,1.63,..
+India,IND,"Received government transfer: cash only (% of government transfer recipients, age 15+)",fin37.39d.t.s,..,..,..,12.02,..
+India,IND,Received government transfer: into a financial institution account (% age 15+),fin37.39a.t,..,..,..,5.98,..
+India,IND,"Received government transfer: into a financial institution account (% of government transfer recipients, age 15+)",fin37.39a.t.s,..,..,..,44.18,..
+India,IND,Received government transfer: into an account (% age 15+),fin37.acc.t,..,..,..,6.94,..
+India,IND,"Received government transfer: into an account (% of government transfer recipients, age 15+)",fin37.acc.t.s,..,..,..,51.32,..
+India,IND,Received government transfer: through a mobile phone (% age 15+),fin37.39b.t,..,..,..,0.85,..
+India,IND,"Received government transfer: through a mobile phone (% of government transfer recipients, age 15+)",fin37.39b.t.s,..,..,..,6.28,..
+India,IND,Received government transfer: to a card (% age 15+),fin37.39e.t,..,..,..,0.67,..
+India,IND,"Received government transfer: to a card (% of government transfer recipients, age 15+)",fin37.39e.t.s,..,..,..,4.95,..
+India,IND,Received payments for agricultural products: in cash only (% age 15+),fin43d.t,..,15.6,8.38,..,..
+India,IND,"Received payments for agricultural products: in cash only (% of agricultural payment recipients, age 15+)",fin43d.t.s,..,74.65,60.38,..,..
+India,IND,Received payments for agricultural products: into a financial institution account (% age 15+),fin43a.t,..,2.47,2.67,..,..
+India,IND,"Received payments for agricultural products: into a financial institution account (% of agricultural payment recipients, age 15+)",fin43a.t.s,..,11.82,19.26,..,..
+India,IND,Received payments for agricultural products: into an account (% age 15+),fin43.acc.t,..,2.59,3.02,..,..
+India,IND,"Received payments for agricultural products: into an account (% of agricultural payment recipients, age 15+)",fin43.acc.t.s,..,12.41,21.73,..,..
+India,IND,Received payments for agricultural products: through a mobile phone (% age 15+),fin43b.t,..,..,0.24,..,..
+India,IND,"Received payments for agricultural products: through a mobile phone (% payment recipients, age 15+)",fin43b.t.s,..,..,1.73,..,..
+India,IND,Received payments for agricultural products: to a card (% age 15+),fin43e.t,..,..,0.29,..,..
+India,IND,"Received payments for agricultural products: to a card (% of agricultural payment recipients, age 15+)",fin43e.t.s,..,..,2.07,..,..
+India,IND,"Received payments for the sale of agricultural products, livestock, or crops (% age 15+)",fin42.t.d,..,20.9,13.88,8.63,..
+India,IND,"Received payments for the sale of agricultural products, livestock, or crops, female (% age 15+)",fin42.t.d.1,..,18.88,13.31,6.16,..
+India,IND,"Received payments for the sale of agricultural products, livestock, or crops, in labor force (% age 15+)",fin42.t.d.12,..,29.27,17.31,9.36,..
+India,IND,"Received payments for the sale of agricultural products, livestock, or crops, income, poorest 40% (% ages 15+)",fin42.t.d.7,..,22.38,16.05,8.52,..
+India,IND,"Received payments for the sale of agricultural products, livestock, or crops, income, richest 60% (% ages 15+)",fin42.t.d.8,..,19.92,12.44,8.7,..
+India,IND,"Received payments for the sale of agricultural products, livestock, or crops, male (% age 15+)",fin42.t.d.2,..,22.84,14.44,10.93,..
+India,IND,"Received payments for the sale of agricultural products, livestock, or crops, older (% age 25+)",fin42.t.d.4,..,22.17,15.12,9.46,..
+India,IND,"Received payments for the sale of agricultural products, livestock, or crops, out of labor force (% age 15+)",fin42.t.d.11,..,10.93,9.77,7.73,..
+India,IND,"Received payments for the sale of agricultural products, livestock, or crops, primary education or less (% ages 15+)",fin42.t.d.5,..,24.23,16.88,8.59,..
+India,IND,"Received payments for the sale of agricultural products, livestock, or crops, rural (% age 15+)",fin42.t.d.9,..,..,..,10.77,..
+India,IND,"Received payments for the sale of agricultural products, livestock, or crops, secondary education or more (% ages 15+)",fin42.t.d.6,..,17.12,10.42,8.79,..
+India,IND,"Received payments for the sale of agricultural products, livestock, or crops, urban (% age 15+)",fin42.t.d.10,..,..,..,6.16,..
+India,IND,"Received payments for the sale of agricultural products, livestock, or crops, young (% ages 15-24)",fin42.t.d.3,..,17.48,10.61,6.41,..
+India,IND,Received private sector wages (% age 15+),fin32.n33.t.d,..,17.13,18.65,17.52,..
+India,IND,Received private sector wages into an account: paid higher than expected fees (% age 15+),fin32.n33.acc.35,..,..,..,..,..
+India,IND,"Received private sector wages into an account: paid higher than expected fees (% who received private sector wages into an account, age 15+)",fin32.n33.acc.35.s,..,..,..,..,..
+India,IND,"Received private sector wages, female (% age 15+)",fin32.n33.t.d.1,..,10.46,10.94,11.34,..
+India,IND,"Received private sector wages, in labor force (% age 15+)",fin32.n33.t.d.12,..,28.18,31.35,25.71,..
+India,IND,"Received private sector wages, income, poorest 40% (% ages 15+)",fin32.n33.t.d.7,..,13.18,14.22,15.49,..
+India,IND,"Received private sector wages, income, richest 60% (% ages 15+)",fin32.n33.t.d.8,..,19.76,21.6,18.87,..
+India,IND,"Received private sector wages, male (% age 15+)",fin32.n33.t.d.2,..,23.55,26.12,23.29,..
+India,IND,"Received private sector wages, older (% age 25+)",fin32.n33.t.d.4,..,18.86,20.23,18.25,..
+India,IND,"Received private sector wages, out of labor force (% age 15+)",fin32.n33.t.d.11,..,3.96,3.41,7.4,..
+India,IND,"Received private sector wages, primary education or less (% ages 15+)",fin32.n33.t.d.5,..,16.27,15.11,17.18,..
+India,IND,"Received private sector wages, rural (% age 15+)",fin32.n33.t.d.9,..,..,..,16.04,..
+India,IND,"Received private sector wages, secondary education or more (% ages 15+)",fin32.n33.t.d.6,..,18.12,22.58,18.25,..
+India,IND,"Received private sector wages, urban (% age 15+)",fin32.n33.t.d.10,..,..,..,19.23,..
+India,IND,"Received private sector wages, young (% ages 15-24)",fin32.n33.t.d.3,..,12.46,14.49,15.56,..
+India,IND,Received private sector wages: in cash only (% age 15+),fin32.n33.34d.t,..,14.12,11.44,8.25,..
+India,IND,"Received private sector wages: in cash only (% of private sector wage recipients, age 15+)",fin32.n33.34d.t.s,..,82.4,61.32,47.07,..
+India,IND,Received private sector wages: into a financial institution account (% age 15+),fin32.n33.34a.t,..,2.62,4.67,4.86,..
+India,IND,"Received private sector wages: into a financial institution account (% of private sector wage recipients, age 15+)",fin32.n33.34a.t.s,..,15.28,25.02,27.75,..
+India,IND,Received private sector wages: into an account (% age 15+),fin32.n33.acc.t,..,3.01,5.38,5.94,..
+India,IND,"Received private sector wages: into an account (% of private sector wage recipients, age 15+)",fin32.n33.acc.t.s,..,17.6,28.83,33.9,..
+India,IND,Received private sector wages: through a mobile phone (% age 15+),fin32.n33.34b.t,..,0.18,0.33,2.01,..
+India,IND,"Received private sector wages: through a mobile phone (% of private sector wage recipients, age 15+)",fin32.n33.34b.t.s,..,1.06,1.78,11.45,..
+India,IND,Received private sector wages: to a card (% age 15+),fin32.n33.34e.t,..,0.79,0.65,0.22,..
+India,IND,"Received private sector wages: to a card (% of private sector wage recipients, age 15+)",fin32.n33.34e.t.s,..,4.59,3.49,1.28,..
+India,IND,Received public sector wages (% age 15+),fin32.33.t.d,..,2.11,1.77,2.41,..
+India,IND,Received public sector wages into an account: paid higher than expected fees (% age 15+),fin32.33.acc.35,..,..,..,..,..
+India,IND,"Received public sector wages into an account: paid higher than expected fees (% who received public sector wages into an account, age 15+)",fin32.33.acc.35.s,..,..,..,..,..
+India,IND,"Received public sector wages, female (% age 15+)",fin32.33.t.d.1,..,1.12,0.94,2.84,..
+India,IND,"Received public sector wages, in labor force (% age 15+)",fin32.33.t.d.12,..,3.65,2.68,3.24,..
+India,IND,"Received public sector wages, income, poorest 40% (% ages 15+)",fin32.33.t.d.7,..,1.44,1.58,1.88,..
+India,IND,"Received public sector wages, income, richest 60% (% ages 15+)",fin32.33.t.d.8,..,2.55,1.9,2.76,..
+India,IND,"Received public sector wages, male (% age 15+)",fin32.33.t.d.2,..,3.06,2.58,2,..
+India,IND,"Received public sector wages, older (% age 25+)",fin32.33.t.d.4,..,2.53,2.2,2.85,..
+India,IND,"Received public sector wages, out of labor force (% age 15+)",fin32.33.t.d.11,..,0.27,0.68,1.38,..
+India,IND,"Received public sector wages, primary education or less (% ages 15+)",fin32.33.t.d.5,..,1.18,1.39,2.04,..
+India,IND,"Received public sector wages, rural (% age 15+)",fin32.33.t.d.9,..,..,..,2.21,..
+India,IND,"Received public sector wages, secondary education or more (% ages 15+)",fin32.33.t.d.6,..,3.17,2.21,3.18,..
+India,IND,"Received public sector wages, urban (% age 15+)",fin32.33.t.d.10,..,..,..,2.63,..
+India,IND,"Received public sector wages, young (% ages 15-24)",fin32.33.t.d.3,..,0.97,0.66,1.23,..
+India,IND,Received public sector wages: in cash only (% age 15+),fin32.33.34d.t,..,1.12,0.57,0.31,..
+India,IND,"Received public sector wages: in cash only (% of public sector wage recipients, age 15+)",fin32.33.34d.t.s,..,52.92,31.88,13.06,..
+India,IND,Received public sector wages: into a financial institution account (% age 15+),fin32.33.34a.t,..,0.98,1.09,1.64,..
+India,IND,"Received public sector wages: into a financial institution account (% of public sector wage recipients, age 15+)",fin32.33.34a.t.s,..,46.66,61.54,68.18,..
+India,IND,Received public sector wages: into an account (% age 15+),fin32.33.acc.t,..,0.99,1.11,1.76,..
+India,IND,"Received public sector wages: into an account (% of public sector wage recipients, age 15+)",fin32.33.acc.t.s,..,47.08,62.6,73.12,..
+India,IND,Received public sector wages: through a mobile phone (% age 15+),fin32.33.34b.t,..,0.11,0.16,0.5,..
+India,IND,"Received public sector wages: through a mobile phone (% of public sector wage recipients, age 15+)",fin32.33.34b.t.s,..,5.07,8.95,20.71,..
+India,IND,Received public sector wages: to a card (% age 15+),fin32.33.34e.t,..,0.31,0.02,0.07,..
+India,IND,"Received public sector wages: to a card (% of public sector wage recipients, age 15+)",fin32.33.34e.t.s,..,14.71,1.06,2.78,..
+India,IND,Received wages (% age 15+),fin32.t.d,..,19.24,20.43,19.93,..
+India,IND,Received wages into an account: paid higher than expected fees (% age 15+),fin35,..,..,..,..,..
+India,IND,"Received wages into an account: paid higher than expected fees (% who received wages into an account, age 15+)",fin35.s,..,..,..,..,..
+India,IND,"Received wages, female (% age 15+)",fin32.t.d.1,..,11.58,11.87,14.18,..
+India,IND,"Received wages, in labor force (% age 15+)",fin32.t.d.12,..,31.84,34.03,28.94,..
+India,IND,"Received wages, income, poorest 40% (% ages 15+)",fin32.t.d.7,..,14.62,15.81,17.37,..
+India,IND,"Received wages, income, richest 60% (% ages 15+)",fin32.t.d.8,..,22.31,23.5,21.63,..
+India,IND,"Received wages, male (% age 15+)",fin32.t.d.2,..,26.61,28.71,25.29,..
+India,IND,"Received wages, older (% age 25+)",fin32.t.d.4,..,21.39,22.42,21.11,..
+India,IND,"Received wages, out of labor force (% age 15+)",fin32.t.d.11,..,4.23,4.09,8.79,..
+India,IND,"Received wages, primary education or less (% ages 15+)",fin32.t.d.5,..,17.45,16.5,19.22,..
+India,IND,"Received wages, rural (% age 15+)",fin32.t.d.9,..,..,..,18.25,..
+India,IND,"Received wages, secondary education or more (% ages 15+)",fin32.t.d.6,..,21.29,24.79,21.43,..
+India,IND,"Received wages, urban (% age 15+)",fin32.t.d.10,..,..,..,21.86,..
+India,IND,"Received wages, young (% ages 15-24)",fin32.t.d.3,..,13.44,15.15,16.79,..
+India,IND,Received wages: in cash only (% age 15+),fin34d.t,..,15.23,12,8.56,..
+India,IND,"Received wages: in cash only (% of wage recipients, age 15+)",fin34d.t.s,..,79.17,58.77,42.96,..
+India,IND,Received wages: into a financial institution account (% age 15+),fin34a.t,..,3.6,5.76,6.5,..
+India,IND,"Received wages: into a financial institution account (% of wage recipients, age 15+)",fin34a.t.s,..,18.72,28.19,32.64,..
+India,IND,Received wages: into an account (% age 15+),fin34a.34b.34e.t,..,4.01,6.49,7.7,..
+India,IND,"Received wages: into an account (% of wage recipients, age 15+)",fin34a.34b.34e.t.s,..,20.83,31.76,38.64,..
+India,IND,Received wages: through a mobile phone (% age 15+),fin34b.t,..,0.29,0.49,2.5,..
+India,IND,"Received wages: through a mobile phone (% of wage recipients, age 15+)",fin34b.t.s,..,1.5,2.4,12.57,..
+India,IND,Received wages: to a card (% age 15+),fin34e.t,..,1.1,0.67,0.29,..
+India,IND,"Received wages: to a card (% of wage recipients, age 15+)",fin34e.t.s,..,5.7,3.28,1.46,..
+India,IND,Saved any money (% age 15+),save.any,..,38.28,33.56,23.55,..
+India,IND,"Saved any money, female (% age 15+)",save.any.1,..,34.37,29.72,22.05,..
+India,IND,"Saved any money, in labor force (% age 15+)",save.any.12,..,45.33,39.99,27.07,..
+India,IND,"Saved any money, income, poorest 40% (% ages 15+)",save.any.7,..,24.44,22.68,15.23,..
+India,IND,"Saved any money, income, richest 60% (% ages 15+)",save.any.8,..,47.48,40.8,29.08,..
+India,IND,"Saved any money, male (% age 15+)",save.any.2,..,42.03,37.27,24.95,..
+India,IND,"Saved any money, older (% age 25+)",save.any.4,..,41.52,36.67,24.46,..
+India,IND,"Saved any money, out of labor force (% age 15+)",save.any.11,..,29.87,25.83,19.19,..
+India,IND,"Saved any money, primary education or less (% ages 15+)",save.any.5,..,32.34,27.52,18.95,..
+India,IND,"Saved any money, rural (% age 15+)",save.any.9,..,..,..,19.82,..
+India,IND,"Saved any money, secondary education or more (% ages 15+)",save.any.6,..,44.98,40.34,33.15,..
+India,IND,"Saved any money, urban (% age 15+)",save.any.10,..,..,..,27.84,..
+India,IND,"Saved any money, young (% ages 15-24)",save.any.3,..,29.53,25.33,21.13,..
+India,IND,Saved at a financial institution (% age 15+),fin17a.t.d,11.6,14.36,19.6,12.75,..
+India,IND,Saved at a financial institution or using a mobile money account (% age 15+),fin17a.17a1.d,..,..,..,14.09,..
+India,IND,"Saved at a financial institution or using a mobile money account, female (% age 15+)",fin17a.17a1.d.1,..,..,..,12.74,..
+India,IND,"Saved at a financial institution or using a mobile money account, in labor force (% age 15+)",fin17a.17a1.d.12,..,..,..,15.43,..
+India,IND,"Saved at a financial institution or using a mobile money account, income, poorest 40% (% ages 15+)",fin17a.17a1.d.7,..,..,..,7.86,..
+India,IND,"Saved at a financial institution or using a mobile money account, income, richest 60% (% ages 15+)",fin17a.17a1.d.8,..,..,..,18.23,..
+India,IND,"Saved at a financial institution or using a mobile money account, male (% age 15+)",fin17a.17a1.d.2,..,..,..,15.35,..
+India,IND,"Saved at a financial institution or using a mobile money account, older (% age 25+)",fin17a.17a1.d.4,..,..,..,14.04,..
+India,IND,"Saved at a financial institution or using a mobile money account, out of labor force (% age 15+)",fin17a.17a1.d.11,..,..,..,12.43,..
+India,IND,"Saved at a financial institution or using a mobile money account, primary education or less (% ages 15+)",fin17a.17a1.d.5,..,..,..,9.64,..
+India,IND,"Saved at a financial institution or using a mobile money account, rural (% age 15+)",fin17a.17a1.d.9,..,..,..,11.58,..
+India,IND,"Saved at a financial institution or using a mobile money account, secondary education or more (% ages 15+)",fin17a.17a1.d.6,..,..,..,23.31,..
+India,IND,"Saved at a financial institution or using a mobile money account, urban (% age 15+)",fin17a.17a1.d.10,..,..,..,16.98,..
+India,IND,"Saved at a financial institution or using a mobile money account, young (% ages 15-24)",fin17a.17a1.d.3,..,..,..,14.22,..
+India,IND,"Saved at a financial institution, female (% age 15+)",fin17a.t.d.1,7.1,10.13,16.69,11.97,..
+India,IND,"Saved at a financial institution, in labor force (% age 15+)",fin17a.t.d.12,15.54,19.07,23.08,13.57,..
+India,IND,"Saved at a financial institution, income, poorest 40% (% ages 15+)",fin17a.t.d.7,10.41,7.23,11.79,7.22,..
+India,IND,"Saved at a financial institution, income, richest 60% (% ages 15+)",fin17a.t.d.8,12.4,19.1,24.81,16.43,..
+India,IND,"Saved at a financial institution, male (% age 15+)",fin17a.t.d.2,15.99,18.43,22.42,13.48,..
+India,IND,"Saved at a financial institution, older (% age 25+)",fin17a.t.d.4,12.88,15.99,22.17,12.61,..
+India,IND,"Saved at a financial institution, out of labor force (% age 15+)",fin17a.t.d.11,7.1,8.75,15.43,11.74,..
+India,IND,"Saved at a financial institution, primary education or less (% ages 15+)",fin17a.t.d.5,9.81,10.62,15.07,9.07,..
+India,IND,"Saved at a financial institution, rural (% age 15+)",fin17a.t.d.9,..,..,..,10.58,..
+India,IND,"Saved at a financial institution, secondary education or more (% ages 15+)",fin17a.t.d.6,20.79,18.62,24.61,20.39,..
+India,IND,"Saved at a financial institution, urban (% age 15+)",fin17a.t.d.10,..,..,..,15.25,..
+India,IND,"Saved at a financial institution, young (% ages 15-24)",fin17a.t.d.3,7.98,9.96,12.83,13.13,..
+India,IND,Saved for education or school fees (% age 15+),fin17c.d.2014,..,16.01,..,..,..
+India,IND,"Saved for education or school fees, female (% age 15+)",fin17c.d.2014.1,..,13.54,..,..,..
+India,IND,"Saved for education or school fees, in labor force (% age 15+)",fin17c.d.2014.12,..,19.7,..,..,..
+India,IND,"Saved for education or school fees, income, poorest 40% (% ages 15+)",fin17c.d.2014.7,..,10.98,..,..,..
+India,IND,"Saved for education or school fees, income, richest 60% (% ages 15+)",fin17c.d.2014.8,..,19.35,..,..,..
+India,IND,"Saved for education or school fees, male (% age 15+)",fin17c.d.2014.2,..,18.37,..,..,..
+India,IND,"Saved for education or school fees, older (% age 25+)",fin17c.d.2014.4,..,16.45,..,..,..
+India,IND,"Saved for education or school fees, out of labor force (% age 15+)",fin17c.d.2014.11,..,11.6,..,..,..
+India,IND,"Saved for education or school fees, primary education or less (% ages 15+)",fin17c.d.2014.5,..,12.69,..,..,..
+India,IND,"Saved for education or school fees, rural (% age 15+)",fin17c.d.2014.9,..,..,..,..,..
+India,IND,"Saved for education or school fees, secondary education or more (% ages 15+)",fin17c.d.2014.6,..,19.79,..,..,..
+India,IND,"Saved for education or school fees, urban (% age 15+)",fin17c.d.2014.10,..,..,..,..,..
+India,IND,"Saved for education or school fees, young (% ages 15-24)",fin17c.d.2014.3,..,14.81,..,..,..
+India,IND,Saved for old age (% age 15+),fin16.t.d,..,9.94,11.23,9.34,..
+India,IND,"Saved for old age, female (% age 15+)",fin16.t.d.1,..,7.62,9.81,7.6,..
+India,IND,"Saved for old age, in labor force (% age 15+)",fin16.t.d.12,..,12.48,14.26,10.24,..
+India,IND,"Saved for old age, income, poorest 40% (% ages 15+)",fin16.t.d.7,..,6.39,5.58,4.26,..
+India,IND,"Saved for old age, income, richest 60% (% ages 15+)",fin16.t.d.8,..,12.31,14.99,12.72,..
+India,IND,"Saved for old age, male (% age 15+)",fin16.t.d.2,..,12.18,12.6,10.96,..
+India,IND,"Saved for old age, older (% age 25+)",fin16.t.d.4,..,12.69,13.07,10.1,..
+India,IND,"Saved for old age, out of labor force (% age 15+)",fin16.t.d.11,..,6.92,7.58,8.23,..
+India,IND,"Saved for old age, primary education or less (% ages 15+)",fin16.t.d.5,..,9.32,7.79,7.25,..
+India,IND,"Saved for old age, rural (% age 15+)",fin16.t.d.9,..,..,..,7.74,..
+India,IND,"Saved for old age, secondary education or more (% ages 15+)",fin16.t.d.6,..,10.58,15.05,13.7,..
+India,IND,"Saved for old age, urban (% age 15+)",fin16.t.d.10,..,..,..,11.18,..
+India,IND,"Saved for old age, young (% ages 15-24)",fin16.t.d.3,..,2.51,6.37,7.33,..
+India,IND,Saved money using a mobile money account (% age 15+),fin17a1.d,..,..,..,3.48,..
+India,IND,"Saved money using a mobile money account, female (% age 15+)",fin17a1.d.1,..,..,..,1.87,..
+India,IND,"Saved money using a mobile money account, in labor force (% age 15+)",fin17a1.d.12,..,..,..,4.27,..
+India,IND,"Saved money using a mobile money account, income, poorest 40% (% ages 15+)",fin17a1.d.7,..,..,..,0.89,..
+India,IND,"Saved money using a mobile money account, income, richest 60% (% ages 15+)",fin17a1.d.8,..,..,..,5.2,..
+India,IND,"Saved money using a mobile money account, male (% age 15+)",fin17a1.d.2,..,..,..,4.98,..
+India,IND,"Saved money using a mobile money account, older (% age 25+)",fin17a1.d.4,..,..,..,3.2,..
+India,IND,"Saved money using a mobile money account, out of labor force (% age 15+)",fin17a1.d.11,..,..,..,2.5,..
+India,IND,"Saved money using a mobile money account, primary education or less (% ages 15+)",fin17a1.d.5,..,..,..,0.9,..
+India,IND,"Saved money using a mobile money account, rural (% age 15+)",fin17a1.d.9,..,..,..,1.98,..
+India,IND,"Saved money using a mobile money account, secondary education or more (% ages 15+)",fin17a1.d.6,..,..,..,8.81,..
+India,IND,"Saved money using a mobile money account, urban (% age 15+)",fin17a1.d.10,..,..,..,5.21,..
+India,IND,"Saved money using a mobile money account, young (% ages 15-24)",fin17a1.d.3,..,..,..,4.21,..
+India,IND,"Saved to start, operate, or expand a farm or business (% age 15+)",fin15.t.d.2017,..,6.97,9.72,..,..
+India,IND,"Saved to start, operate, or expand a farm or business, female (% age 15+)",fin15.t.d.2017.1,..,3.58,7.33,..,..
+India,IND,"Saved to start, operate, or expand a farm or business, in labor force (% age 15+)",fin15.t.d.2017.12,..,10.13,13.17,..,..
+India,IND,"Saved to start, operate, or expand a farm or business, income, poorest 40% (% ages 15+)",fin15.t.d.2017.7,..,3.82,5.6,..,..
+India,IND,"Saved to start, operate, or expand a farm or business, income, richest 60% (% ages 15+)",fin15.t.d.2017.8,..,9.07,12.45,..,..
+India,IND,"Saved to start, operate, or expand a farm or business, male (% age 15+)",fin15.t.d.2017.2,..,10.24,12.02,..,..
+India,IND,"Saved to start, operate, or expand a farm or business, older (% age 25+)",fin15.t.d.2017.4,..,8.1,10.63,..,..
+India,IND,"Saved to start, operate, or expand a farm or business, out of labor force (% age 15+)",fin15.t.d.2017.11,..,3.22,5.57,..,..
+India,IND,"Saved to start, operate, or expand a farm or business, primary education or less (% ages 15+)",fin15.t.d.2017.5,..,6.06,6.95,..,..
+India,IND,"Saved to start, operate, or expand a farm or business, rural (% age 15+)",fin15.t.d.2017.9,..,..,..,..,..
+India,IND,"Saved to start, operate, or expand a farm or business, secondary education or more (% ages 15+)",fin15.t.d.2017.6,..,7.95,12.87,..,..
+India,IND,"Saved to start, operate, or expand a farm or business, urban (% age 15+)",fin15.t.d.2017.10,..,..,..,..,..
+India,IND,"Saved to start, operate, or expand a farm or business, young (% ages 15-24)",fin15.t.d.2017.3,..,3.93,7.29,..,..
+India,IND,Saved using a savings club or a person outside the family (% age 15+),fin17b.t.d,3.16,8.78,8.44,8.32,..
+India,IND,"Saved using a savings club or a person outside the family, female (% age 15+)",fin17b.t.d.1,2.4,8.84,8.79,9.91,..
+India,IND,"Saved using a savings club or a person outside the family, in labor force (% age 15+)",fin17b.t.d.12,4.14,11.18,10.81,9.21,..
+India,IND,"Saved using a savings club or a person outside the family, income, poorest 40% (% ages 15+)",fin17b.t.d.7,2.42,3.11,4.81,5.76,..
+India,IND,"Saved using a savings club or a person outside the family, income, richest 60% (% ages 15+)",fin17b.t.d.8,3.66,12.56,10.86,10.03,..
+India,IND,"Saved using a savings club or a person outside the family, male (% age 15+)",fin17b.t.d.2,3.91,8.73,8.11,6.84,..
+India,IND,"Saved using a savings club or a person outside the family, older (% age 25+)",fin17b.t.d.4,3.66,10.24,10,9.23,..
+India,IND,"Saved using a savings club or a person outside the family, out of labor force (% age 15+)",fin17b.t.d.11,2.04,5.92,5.6,7.23,..
+India,IND,"Saved using a savings club or a person outside the family, primary education or less (% ages 15+)",fin17b.t.d.5,3.01,8.08,7.12,6.87,..
+India,IND,"Saved using a savings club or a person outside the family, rural (% age 15+)",fin17b.t.d.9,..,..,..,7.35,..
+India,IND,"Saved using a savings club or a person outside the family, secondary education or more (% ages 15+)",fin17b.t.d.6,3.95,9.58,9.98,11.38,..
+India,IND,"Saved using a savings club or a person outside the family, urban (% age 15+)",fin17b.t.d.10,..,..,..,9.44,..
+India,IND,"Saved using a savings club or a person outside the family, young (% ages 15-24)",fin17b.t.d.3,1.74,4.85,4.34,5.93,..
+India,IND,Sent domestic remittances (% age 15+),fin26.t.d,..,9.94,11.26,9.92,..
+India,IND,"Sent domestic remittances, female (% age 15+)",fin26.t.d.1,..,6.77,7.63,6.07,..
+India,IND,"Sent domestic remittances, in labor force (% age 15+)",fin26.t.d.12,..,13.57,14.83,12.82,..
+India,IND,"Sent domestic remittances, income, poorest 40% (% ages 15+)",fin26.t.d.7,..,5.78,6.53,3.54,..
+India,IND,"Sent domestic remittances, income, richest 60% (% ages 15+)",fin26.t.d.8,..,12.71,14.4,14.16,..
+India,IND,"Sent domestic remittances, male (% age 15+)",fin26.t.d.2,..,13,14.77,13.52,..
+India,IND,"Sent domestic remittances, older (% age 25+)",fin26.t.d.4,..,10.76,12.23,9.82,..
+India,IND,"Sent domestic remittances, out of labor force (% age 15+)",fin26.t.d.11,..,5.62,6.97,6.34,..
+India,IND,"Sent domestic remittances, primary education or less (% ages 15+)",fin26.t.d.5,..,7.31,8.22,6.86,..
+India,IND,"Sent domestic remittances, rural (% age 15+)",fin26.t.d.9,..,..,..,8,..
+India,IND,"Sent domestic remittances, secondary education or more (% ages 15+)",fin26.t.d.6,..,12.94,14.63,16.3,..
+India,IND,"Sent domestic remittances, urban (% age 15+)",fin26.t.d.10,..,..,..,12.13,..
+India,IND,"Sent domestic remittances, young (% ages 15-24)",fin26.t.d.3,..,7.74,8.7,10.19,..
+India,IND,Sent domestic remittances: delivered in person and in cash only (% age 15+),fin27c1.t,..,..,2.72,..,..
+India,IND,"Sent domestic remittances: delivered in person and in cash only (% of senders, age 15+)",fin27c1.t.s,..,..,24.12,..,..
+India,IND,Sent domestic remittances: through a money transfer service (% age 15+),fin27c2.t,..,..,0.3,..,..
+India,IND,"Sent domestic remittances: through a money transfer service (% of senders, age 15+)",fin27c2.t.s,..,..,2.66,..,..
+India,IND,Sent domestic remittances: using an account (% age 15+),fin27.t,..,..,6.32,..,..
+India,IND,"Sent domestic remittances: using an account (% of senders, age 15+)",fin27.t.s,..,..,56.13,..,..
+India,IND,Sent or received domestic remittances (% age 15+),fin26.28.t.d,..,15.4,19.24,17.99,..
+India,IND,"Sent or received domestic remittances, female (% age 15+)",fin26.28.t.d.1,..,11.98,15.17,14.41,..
+India,IND,"Sent or received domestic remittances, in labor force (% age 15+)",fin26.28.t.d.12,..,18.62,23.94,21.82,..
+India,IND,"Sent or received domestic remittances, income, poorest 40% (% ages 15+)",fin26.28.t.d.7,..,9.59,15.18,11.57,..
+India,IND,"Sent or received domestic remittances, income, richest 60% (% ages 15+)",fin26.28.t.d.8,..,19.27,21.95,22.25,..
+India,IND,"Sent or received domestic remittances, male (% age 15+)",fin26.28.t.d.2,..,18.69,23.19,21.32,..
+India,IND,"Sent or received domestic remittances, older (% age 25+)",fin26.28.t.d.4,..,16.49,20.17,17.87,..
+India,IND,"Sent or received domestic remittances, out of labor force (% age 15+)",fin26.28.t.d.11,..,11.57,13.6,13.24,..
+India,IND,"Sent or received domestic remittances, primary education or less (% ages 15+)",fin26.28.t.d.5,..,12.88,16.53,15.44,..
+India,IND,"Sent or received domestic remittances, rural (% age 15+)",fin26.28.t.d.9,..,..,..,16.05,..
+India,IND,"Sent or received domestic remittances, secondary education or more (% ages 15+)",fin26.28.t.d.6,..,18.28,22.12,23.36,..
+India,IND,"Sent or received domestic remittances, urban (% age 15+)",fin26.28.t.d.10,..,..,..,20.21,..
+India,IND,"Sent or received domestic remittances, young (% ages 15-24)",fin26.28.t.d.3,..,12.46,16.79,18.29,..
+India,IND,Sent or received domestic remittances: in person and in cash only (% age 15+),fin27c1.29c1.t,..,10.33,0,5.96,..
+India,IND,"Sent or received domestic remittances: in person and in cash only (% of senders and recipients, age 15+)",fin27c1.29c1.t.s,..,67.06,0,33.16,..
+India,IND,Sent or received domestic remittances: through a money transfer service (% age 15+),fin27c2.29c2.t,..,1.81,0.76,1.24,..
+India,IND,"Sent or received domestic remittances: through a money transfer service (% of senders and recipients, age 15+)",fin27c2.29c2.t.s,..,11.76,3.96,6.91,..
+India,IND,Sent or received domestic remittances: using an account (% age 15+),fin27.29.t,..,3.34,7.4,7.08,..
+India,IND,"Sent or received domestic remittances: using an account (% of senders and recipients, age 15+)",fin27.29.t.s,..,21.7,38.48,39.36,..
+India,IND,Store money using a financial institution (% age 15+),fin10b,..,..,..,33.8,..
+India,IND,"Store money using a financial institution (% with a financial institution account, age 15+)",fin10b.s,..,..,..,43.72,..
+India,IND,Store money using a financial institution or a mobile money account (% age 15+),fin10b.13b,..,..,..,34.52,..
+India,IND,"Store money using a financial institution or a mobile money account (% with an account,  age 15+)",fin10b.13b.s,..,..,..,44.53,..
+India,IND,Store money using a mobile money account (% age 15+),fin13b,..,..,..,5.97,..
+India,IND,"Store money using a mobile money account (% with a mobile money account acount, age 15+)",fin13b.s,..,..,..,57.19,..
+India,IND,Use a mobile money account two or more times a month (% age 15+),fin13a,..,..,..,7.79,..
+India,IND,"Use a mobile money account two or more times a month (% with a mobile money account, age 15+)",fin13a.s,..,..,..,74.63,..
+India,IND,"Use a mobile phone or the internet to make payments, buy things, or to send or receive money using a financial institution account (% age 15+)",fin5,..,..,..,12.07,..
+India,IND,"Use a mobile phone or the internet to make payments, buy things, or to send or receive money using a financial institution account (% with a financial institution account, age 15+)",fin5.s,..,..,..,15.61,..
+India,IND,Used a credit card (% age 15+),fin8.t,..,..,..,..,..
+India,IND,Used a credit card: in-store (% age 15+),fin8a,..,..,..,..,..
+India,IND,"Used a credit card: in-store (% who used a credit card, age 15+)",fin8a.s,..,..,..,..,..
+India,IND,Used a debit card (% age 15+),fin4.t,..,10.67,11.65,12.29,..
+India,IND,Used a debit card in-store (% age 15+),fin4a,..,..,..,7.95,..
+India,IND,"Used a debit card: in-store (% who used a debit card, age 15+)",fin4a.s,..,..,..,64.65,..
+India,IND,Used a debit or credit card (% age 15+),fin4.8.t,..,11.11,12.33,13.38,..
+India,IND,"Used a debit or credit card: in-store (% who use a credit or debit card, age 15+)",fin4a.8a.s,..,..,..,62.08,..
+India,IND,Used a mobile phone or the internet to access a financial institution account (% age 15+),fin5.a.2017,..,..,5,..,..
+India,IND,"Used a mobile phone or the internet to access a financial institution account (% with a financial institution account, age 15+)",fin5.a.2017.s,..,..,6.27,..,..
+India,IND,"Used a mobile phone or the internet to access an account (% with an account, age 15+)",fin5.2017.d.s,..,..,6.63,..,..
+India,IND,Used a mobile phone or the internet to access an account(% age 15+),fin5.2017.d,..,..,5.3,..,..
+India,IND,"Used a mobile phone or the internet to access an account, female (% age 15+)",fin5.2017.d.1,..,..,3.75,..,..
+India,IND,"Used a mobile phone or the internet to access an account, in labor force (% age 15+)",fin5.2017.d.12,..,..,5.83,..,..
+India,IND,"Used a mobile phone or the internet to access an account, income, poorest 40% (% ages 15+)",fin5.2017.d.7,..,..,3,..,..
+India,IND,"Used a mobile phone or the internet to access an account, income, richest 60% (% ages 15+)",fin5.2017.d.8,..,..,6.83,..,..
+India,IND,"Used a mobile phone or the internet to access an account, male (% age 15+)",fin5.2017.d.2,..,..,6.8,..,..
+India,IND,"Used a mobile phone or the internet to access an account, older (% age 25+)",fin5.2017.d.4,..,..,5.35,..,..
+India,IND,"Used a mobile phone or the internet to access an account, out of labor force (% age 15+)",fin5.2017.d.11,..,..,4.67,..,..
+India,IND,"Used a mobile phone or the internet to access an account, primary education or less (% ages 15+)",fin5.2017.d.5,..,..,1.93,..,..
+India,IND,"Used a mobile phone or the internet to access an account, rural (% age 15+)",fin5.2017.d.9,..,..,..,..,..
+India,IND,"Used a mobile phone or the internet to access an account, secondary education or more (% ages 15+)",fin5.2017.d.6,..,..,9.1,..,..
+India,IND,"Used a mobile phone or the internet to access an account, urban (% age 15+)",fin5.2017.d.10,..,..,..,..,..
+India,IND,"Used a mobile phone or the internet to access an account, young (% ages 15-24)",fin5.2017.d.3,..,..,5.15,..,..
+India,IND,Used a mobile phone or the internet to buy something online (% age 15+),fin14b.t.d,..,..,2.86,8.28,..
+India,IND,"Used a mobile phone or the internet to buy something online, female (% age 15+)",fin14b.t.d.1,..,..,1.93,5.09,..
+India,IND,"Used a mobile phone or the internet to buy something online, in labor force (% age 15+)",fin14b.t.d.12,..,..,3.3,9.9,..
+India,IND,"Used a mobile phone or the internet to buy something online, income, poorest 40% (% ages 15+)",fin14b.t.d.7,..,..,0.29,2.52,..
+India,IND,"Used a mobile phone or the internet to buy something online, income, richest 60% (% ages 15+)",fin14b.t.d.8,..,..,4.57,12.12,..
+India,IND,"Used a mobile phone or the internet to buy something online, male (% age 15+)",fin14b.t.d.2,..,..,3.75,11.26,..
+India,IND,"Used a mobile phone or the internet to buy something online, older (% age 25+)",fin14b.t.d.4,..,..,2.41,7.31,..
+India,IND,"Used a mobile phone or the internet to buy something online, out of labor force (% age 15+)",fin14b.t.d.11,..,..,2.32,6.28,..
+India,IND,"Used a mobile phone or the internet to buy something online, primary education or less (% ages 15+)",fin14b.t.d.5,..,..,0.32,2.61,..
+India,IND,"Used a mobile phone or the internet to buy something online, rural (% age 15+)",fin14b.t.d.9,..,..,..,5.79,..
+India,IND,"Used a mobile phone or the internet to buy something online, secondary education or more (% ages 15+)",fin14b.t.d.6,..,..,5.72,20,..
+India,IND,"Used a mobile phone or the internet to buy something online, urban (% age 15+)",fin14b.t.d.10,..,..,..,11.16,..
+India,IND,"Used a mobile phone or the internet to buy something online, young (% ages 15-24)",fin14b.t.d.3,..,..,4.05,10.87,..
+India,IND,Used a mobile phone or the internet to check account balance(% age 15+),fin6.t,..,..,6.72,15.52,..
+India,IND,"Used a mobile phone or the internet to check account balance(% with a financial institution account, age 15+)",fin6.t.s,..,..,8.42,20.08,..
+India,IND,Used a mobile phone or the internet to pay bills (% age 15+),fin14a.t.d,..,..,2.7,9.87,..
+India,IND,"Used a mobile phone or the internet to pay bills, female (% age 15+)",fin14a.t.d.1,..,..,1.88,5.98,..
+India,IND,"Used a mobile phone or the internet to pay bills, in labor force (% age 15+)",fin14a.t.d.12,..,..,3.28,12.95,..
+India,IND,"Used a mobile phone or the internet to pay bills, income, poorest 40% (% ages 15+)",fin14a.t.d.7,..,..,1.31,4.17,..
+India,IND,"Used a mobile phone or the internet to pay bills, income, richest 60% (% ages 15+)",fin14a.t.d.8,..,..,3.63,13.66,..
+India,IND,"Used a mobile phone or the internet to pay bills, male (% age 15+)",fin14a.t.d.2,..,..,3.49,13.5,..
+India,IND,"Used a mobile phone or the internet to pay bills, older (% age 25+)",fin14a.t.d.4,..,..,3.16,9.33,..
+India,IND,"Used a mobile phone or the internet to pay bills, out of labor force (% age 15+)",fin14a.t.d.11,..,..,2.01,6.06,..
+India,IND,"Used a mobile phone or the internet to pay bills, primary education or less (% ages 15+)",fin14a.t.d.5,..,..,1.46,4.58,..
+India,IND,"Used a mobile phone or the internet to pay bills, rural (% age 15+)",fin14a.t.d.9,..,..,..,7.03,..
+India,IND,"Used a mobile phone or the internet to pay bills, secondary education or more (% ages 15+)",fin14a.t.d.6,..,..,4.11,20.76,..
+India,IND,"Used a mobile phone or the internet to pay bills, urban (% age 15+)",fin14a.t.d.10,..,..,..,13.15,..
+India,IND,"Used a mobile phone or the internet to pay bills, young (% ages 15-24)",fin14a.t.d.3,..,..,1.49,11.3,..
+India,IND,Used a mobile phone or the internet to send money (% age 15+),fin14a1.d,..,..,..,10.24,..
+India,IND,"Used a mobile phone or the internet to send money, female (% age 15+)",fin14a1.d.1,..,..,..,4.6,..
+India,IND,"Used a mobile phone or the internet to send money, in labor force (% age 15+)",fin14a1.d.12,..,..,..,13.61,..
+India,IND,"Used a mobile phone or the internet to send money, income, poorest 40% (% ages 15+)",fin14a1.d.7,..,..,..,2.54,..
+India,IND,"Used a mobile phone or the internet to send money, income, richest 60% (% ages 15+)",fin14a1.d.8,..,..,..,15.37,..
+India,IND,"Used a mobile phone or the internet to send money, male (% age 15+)",fin14a1.d.2,..,..,..,15.51,..
+India,IND,"Used a mobile phone or the internet to send money, older (% age 25+)",fin14a1.d.4,..,..,..,9.31,..
+India,IND,"Used a mobile phone or the internet to send money, out of labor force (% age 15+)",fin14a1.d.11,..,..,..,6.08,..
+India,IND,"Used a mobile phone or the internet to send money, primary education or less (% ages 15+)",fin14a1.d.5,..,..,..,3.52,..
+India,IND,"Used a mobile phone or the internet to send money, rural (% age 15+)",fin14a1.d.9,..,..,..,6.59,..
+India,IND,"Used a mobile phone or the internet to send money, secondary education or more (% ages 15+)",fin14a1.d.6,..,..,..,24.15,..
+India,IND,"Used a mobile phone or the internet to send money, urban (% age 15+)",fin14a1.d.10,..,..,..,14.46,..
+India,IND,"Used a mobile phone or the internet to send money, young (% ages 15-24)",fin14a1.d.3,..,..,..,12.71,..
+India,IND,Used checks to make payments(% age 15+),fin68a.2011,6.73,..,..,..,..
+India,IND,Uses a debit or credit card: in-store (% age 15+),fin4a.8a,..,..,..,8.31,..
+India,IND,Withdrew money from a financial institution account 2 or more times a month (% age 15+),fin10a,..,..,..,13.62,..
+India,IND,"Withdrew money from a financial institution account 2 or more times a month (% who had withdrawn money, age 15+)",fin10a.s,..,..,..,44.91,..
+India,IND,Worried about not being able to pay for medical costs in case of a serious illness or accident: not worried at all (% age 15+),fin44b3.d,..,..,..,15.51,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: not worried at all, female (% age 15+)",fin44b3.d.1,..,..,..,12.02,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: not worried at all, in labor force (% age 15+)",fin44b3.d.12,..,..,..,14.7,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: not worried at all, income, poorest 40% (% ages 15+)",fin44b3.d.7,..,..,..,9.01,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: not worried at all, income, richest 60% (% ages 15+)",fin44b3.d.8,..,..,..,19.84,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: not worried at all, male (% age 15+)",fin44b3.d.2,..,..,..,18.77,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: not worried at all, older (% age 25+)",fin44b3.d.4,..,..,..,13.33,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: not worried at all, out of labor force (% age 15+)",fin44b3.d.11,..,..,..,16.51,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: not worried at all, primary education or less (% ages 15+)",fin44b3.d.5,..,..,..,12.22,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: not worried at all, rural (% age 15+)",fin44b3.d.9,..,..,..,12.82,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: not worried at all, secondary education or more (% ages 15+)",fin44b3.d.6,..,..,..,22.39,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: not worried at all, urban (% age 15+)",fin44b3.d.10,..,..,..,18.61,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: not worried at all, young (% ages 15-24)",fin44b3.d.3,..,..,..,21.3,..
+India,IND,Worried about not being able to pay for medical costs in case of a serious illness or accident: somewhat worried (% age 15+),fin44b2.d,..,..,..,16.82,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: somewhat worried, female (% age 15+)",fin44b2.d.1,..,..,..,13.79,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: somewhat worried, in labor force (% age 15+)",fin44b2.d.12,..,..,..,18.3,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: somewhat worried, income, poorest 40% (% ages 15+)",fin44b2.d.7,..,..,..,9.33,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: somewhat worried, income, richest 60% (% ages 15+)",fin44b2.d.8,..,..,..,21.81,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: somewhat worried, male (% age 15+)",fin44b2.d.2,..,..,..,19.65,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: somewhat worried, older (% age 25+)",fin44b2.d.4,..,..,..,15.69,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: somewhat worried, out of labor force (% age 15+)",fin44b2.d.11,..,..,..,15,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: somewhat worried, primary education or less (% ages 15+)",fin44b2.d.5,..,..,..,13.61,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: somewhat worried, rural (% age 15+)",fin44b2.d.9,..,..,..,13.77,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: somewhat worried, secondary education or more (% ages 15+)",fin44b2.d.6,..,..,..,23.52,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: somewhat worried, urban (% age 15+)",fin44b2.d.10,..,..,..,20.35,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: somewhat worried, young (% ages 15-24)",fin44b2.d.3,..,..,..,19.82,..
+India,IND,Worried about not being able to pay for medical costs in case of a serious illness or accident: very worried (% age 15+),fin44b1.d,..,..,..,66.06,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: very worried, female (% age 15+)",fin44b1.d.1,..,..,..,72.61,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: very worried, in labor force (% age 15+)",fin44b1.d.12,..,..,..,65.19,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: very worried, income, poorest 40% (% ages 15+)",fin44b1.d.7,..,..,..,80.37,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: very worried, income, richest 60% (% ages 15+)",fin44b1.d.8,..,..,..,56.54,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: very worried, male (% age 15+)",fin44b1.d.2,..,..,..,59.94,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: very worried, older (% age 25+)",fin44b1.d.4,..,..,..,69.52,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: very worried, out of labor force (% age 15+)",fin44b1.d.11,..,..,..,67.13,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: very worried, primary education or less (% ages 15+)",fin44b1.d.5,..,..,..,72.48,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: very worried, rural (% age 15+)",fin44b1.d.9,..,..,..,71.49,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: very worried, secondary education or more (% ages 15+)",fin44b1.d.6,..,..,..,52.63,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: very worried, urban (% age 15+)",fin44b1.d.10,..,..,..,59.79,..
+India,IND,"Worried about not being able to pay for medical costs in case of a serious illness or accident: very worried, young (% ages 15-24)",fin44b1.d.3,..,..,..,56.85,..
+India,IND,Worried about not being able to pay school fees or fees for education: not worried at all (% age 15+),fin44d3.d,..,..,..,24.64,..
+India,IND,"Worried about not being able to pay school fees or fees for education: not worried at all, female (% age 15+)",fin44d3.d.1,..,..,..,19.78,..
+India,IND,"Worried about not being able to pay school fees or fees for education: not worried at all, in labor force (% age 15+)",fin44d3.d.12,..,..,..,25.07,..
+India,IND,"Worried about not being able to pay school fees or fees for education: not worried at all, income, poorest 40% (% ages 15+)",fin44d3.d.7,..,..,..,14.46,..
+India,IND,"Worried about not being able to pay school fees or fees for education: not worried at all, income, richest 60% (% ages 15+)",fin44d3.d.8,..,..,..,31.42,..
+India,IND,"Worried about not being able to pay school fees or fees for education: not worried at all, male (% age 15+)",fin44d3.d.2,..,..,..,29.18,..
+India,IND,"Worried about not being able to pay school fees or fees for education: not worried at all, older (% age 25+)",fin44d3.d.4,..,..,..,24.32,..
+India,IND,"Worried about not being able to pay school fees or fees for education: not worried at all, out of labor force (% age 15+)",fin44d3.d.11,..,..,..,24.12,..
+India,IND,"Worried about not being able to pay school fees or fees for education: not worried at all, primary education or less (% ages 15+)",fin44d3.d.5,..,..,..,21.09,..
+India,IND,"Worried about not being able to pay school fees or fees for education: not worried at all, rural (% age 15+)",fin44d3.d.9,..,..,..,20.34,..
+India,IND,"Worried about not being able to pay school fees or fees for education: not worried at all, secondary education or more (% ages 15+)",fin44d3.d.6,..,..,..,32.02,..
+India,IND,"Worried about not being able to pay school fees or fees for education: not worried at all, urban (% age 15+)",fin44d3.d.10,..,..,..,29.6,..
+India,IND,"Worried about not being able to pay school fees or fees for education: not worried at all, young (% ages 15-24)",fin44d3.d.3,..,..,..,25.51,..
+India,IND,Worried about not being able to pay school fees or fees for education: somewhat worried (% age 15+),fin44d2.d,..,..,..,15.35,..
+India,IND,"Worried about not being able to pay school fees or fees for education: somewhat worried, female (% age 15+)",fin44d2.d.1,..,..,..,13.36,..
+India,IND,"Worried about not being able to pay school fees or fees for education: somewhat worried, in labor force (% age 15+)",fin44d2.d.12,..,..,..,16.23,..
+India,IND,"Worried about not being able to pay school fees or fees for education: somewhat worried, income, poorest 40% (% ages 15+)",fin44d2.d.7,..,..,..,10.56,..
+India,IND,"Worried about not being able to pay school fees or fees for education: somewhat worried, income, richest 60% (% ages 15+)",fin44d2.d.8,..,..,..,18.54,..
+India,IND,"Worried about not being able to pay school fees or fees for education: somewhat worried, male (% age 15+)",fin44d2.d.2,..,..,..,17.21,..
+India,IND,"Worried about not being able to pay school fees or fees for education: somewhat worried, older (% age 25+)",fin44d2.d.4,..,..,..,13.83,..
+India,IND,"Worried about not being able to pay school fees or fees for education: somewhat worried, out of labor force (% age 15+)",fin44d2.d.11,..,..,..,14.27,..
+India,IND,"Worried about not being able to pay school fees or fees for education: somewhat worried, primary education or less (% ages 15+)",fin44d2.d.5,..,..,..,12.58,..
+India,IND,"Worried about not being able to pay school fees or fees for education: somewhat worried, rural (% age 15+)",fin44d2.d.9,..,..,..,12.77,..
+India,IND,"Worried about not being able to pay school fees or fees for education: somewhat worried, secondary education or more (% ages 15+)",fin44d2.d.6,..,..,..,21.03,..
+India,IND,"Worried about not being able to pay school fees or fees for education: somewhat worried, urban (% age 15+)",fin44d2.d.10,..,..,..,18.33,..
+India,IND,"Worried about not being able to pay school fees or fees for education: somewhat worried, young (% ages 15-24)",fin44d2.d.3,..,..,..,19.39,..
+India,IND,Worried about not being able to pay school fees or fees for education: very worried (% age 15+),fin44d1.d,..,..,..,52.04,..
+India,IND,"Worried about not being able to pay school fees or fees for education: very worried, female (% age 15+)",fin44d1.d.1,..,..,..,58.14,..
+India,IND,"Worried about not being able to pay school fees or fees for education: very worried, in labor force (% age 15+)",fin44d1.d.12,..,..,..,52.53,..
+India,IND,"Worried about not being able to pay school fees or fees for education: very worried, income, poorest 40% (% ages 15+)",fin44d1.d.7,..,..,..,68.66,..
+India,IND,"Worried about not being able to pay school fees or fees for education: very worried, income, richest 60% (% ages 15+)",fin44d1.d.8,..,..,..,40.98,..
+India,IND,"Worried about not being able to pay school fees or fees for education: very worried, male (% age 15+)",fin44d1.d.2,..,..,..,46.35,..
+India,IND,"Worried about not being able to pay school fees or fees for education: very worried, older (% age 25+)",fin44d1.d.4,..,..,..,52.95,..
+India,IND,"Worried about not being able to pay school fees or fees for education: very worried, out of labor force (% age 15+)",fin44d1.d.11,..,..,..,51.43,..
+India,IND,"Worried about not being able to pay school fees or fees for education: very worried, primary education or less (% ages 15+)",fin44d1.d.5,..,..,..,57.32,..
+India,IND,"Worried about not being able to pay school fees or fees for education: very worried, rural (% age 15+)",fin44d1.d.9,..,..,..,59.18,..
+India,IND,"Worried about not being able to pay school fees or fees for education: very worried, secondary education or more (% ages 15+)",fin44d1.d.6,..,..,..,41.06,..
+India,IND,"Worried about not being able to pay school fees or fees for education: very worried, urban (% age 15+)",fin44d1.d.10,..,..,..,43.8,..
+India,IND,"Worried about not being able to pay school fees or fees for education: very worried, young (% ages 15-24)",fin44d1.d.3,..,..,..,49.61,..
+India,IND,Worried about not having enough money for monthly expenses or bills: not worried at all (% age 15+),fin44c3.d,..,..,..,17.1,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: not worried at all, female (% age 15+)",fin44c3.d.1,..,..,..,13.56,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: not worried at all, in labor force (% age 15+)",fin44c3.d.12,..,..,..,16.3,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: not worried at all, income, poorest 40% (% ages 15+)",fin44c3.d.7,..,..,..,8.08,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: not worried at all, income, richest 60% (% ages 15+)",fin44c3.d.8,..,..,..,23.1,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: not worried at all, male (% age 15+)",fin44c3.d.2,..,..,..,20.4,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: not worried at all, older (% age 25+)",fin44c3.d.4,..,..,..,15.16,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: not worried at all, out of labor force (% age 15+)",fin44c3.d.11,..,..,..,18.09,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: not worried at all, primary education or less (% ages 15+)",fin44c3.d.5,..,..,..,12.6,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: not worried at all, rural (% age 15+)",fin44c3.d.9,..,..,..,13.29,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: not worried at all, secondary education or more (% ages 15+)",fin44c3.d.6,..,..,..,26.45,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: not worried at all, urban (% age 15+)",fin44c3.d.10,..,..,..,21.5,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: not worried at all, young (% ages 15-24)",fin44c3.d.3,..,..,..,22.26,..
+India,IND,Worried about not having enough money for monthly expenses or bills: somewhat worried (% age 15+),fin44c2.d,..,..,..,20.43,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: somewhat worried, female (% age 15+)",fin44c2.d.1,..,..,..,18.33,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: somewhat worried, in labor force (% age 15+)",fin44c2.d.12,..,..,..,20.96,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: somewhat worried, income, poorest 40% (% ages 15+)",fin44c2.d.7,..,..,..,13.94,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: somewhat worried, income, richest 60% (% ages 15+)",fin44c2.d.8,..,..,..,24.76,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: somewhat worried, male (% age 15+)",fin44c2.d.2,..,..,..,22.39,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: somewhat worried, older (% age 25+)",fin44c2.d.4,..,..,..,20.09,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: somewhat worried, out of labor force (% age 15+)",fin44c2.d.11,..,..,..,19.79,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: somewhat worried, primary education or less (% ages 15+)",fin44c2.d.5,..,..,..,17.06,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: somewhat worried, rural (% age 15+)",fin44c2.d.9,..,..,..,17.76,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: somewhat worried, secondary education or more (% ages 15+)",fin44c2.d.6,..,..,..,27.41,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: somewhat worried, urban (% age 15+)",fin44c2.d.10,..,..,..,23.52,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: somewhat worried, young (% ages 15-24)",fin44c2.d.3,..,..,..,21.35,..
+India,IND,Worried about not having enough money for monthly expenses or bills: very worried (% age 15+),fin44c1.d,..,..,..,61.19,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: very worried, female (% age 15+)",fin44c1.d.1,..,..,..,66.78,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: very worried, in labor force (% age 15+)",fin44c1.d.12,..,..,..,61.72,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: very worried, income, poorest 40% (% ages 15+)",fin44c1.d.7,..,..,..,76.99,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: very worried, income, richest 60% (% ages 15+)",fin44c1.d.8,..,..,..,50.67,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: very worried, male (% age 15+)",fin44c1.d.2,..,..,..,55.97,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: very worried, older (% age 25+)",fin44c1.d.4,..,..,..,63.79,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: very worried, out of labor force (% age 15+)",fin44c1.d.11,..,..,..,60.52,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: very worried, primary education or less (% ages 15+)",fin44c1.d.5,..,..,..,69.14,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: very worried, rural (% age 15+)",fin44c1.d.9,..,..,..,67.69,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: very worried, secondary education or more (% ages 15+)",fin44c1.d.6,..,..,..,44.69,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: very worried, urban (% age 15+)",fin44c1.d.10,..,..,..,53.69,..
+India,IND,"Worried about not having enough money for monthly expenses or bills: very worried, young (% ages 15-24)",fin44c1.d.3,..,..,..,54.26,..
+India,IND,Worried about not having enough money for old age: not worried at all (% age 15+),fin44a3.d,..,..,..,18.39,..
+India,IND,"Worried about not having enough money for old age: not worried at all, female (% age 15+)",fin44a3.d.1,..,..,..,14.56,..
+India,IND,"Worried about not having enough money for old age: not worried at all, in labor force (% age 15+)",fin44a3.d.12,..,..,..,17.99,..
+India,IND,"Worried about not having enough money for old age: not worried at all, income, poorest 40% (% ages 15+)",fin44a3.d.7,..,..,..,9.99,..
+India,IND,"Worried about not having enough money for old age: not worried at all, income, richest 60% (% ages 15+)",fin44a3.d.8,..,..,..,23.97,..
+India,IND,"Worried about not having enough money for old age: not worried at all, male (% age 15+)",fin44a3.d.2,..,..,..,21.96,..
+India,IND,"Worried about not having enough money for old age: not worried at all, older (% age 25+)",fin44a3.d.4,..,..,..,15.24,..
+India,IND,"Worried about not having enough money for old age: not worried at all, out of labor force (% age 15+)",fin44a3.d.11,..,..,..,18.88,..
+India,IND,"Worried about not having enough money for old age: not worried at all, primary education or less (% ages 15+)",fin44a3.d.5,..,..,..,13.65,..
+India,IND,"Worried about not having enough money for old age: not worried at all, rural (% age 15+)",fin44a3.d.9,..,..,..,16.08,..
+India,IND,"Worried about not having enough money for old age: not worried at all, secondary education or more (% ages 15+)",fin44a3.d.6,..,..,..,28.28,..
+India,IND,"Worried about not having enough money for old age: not worried at all, urban (% age 15+)",fin44a3.d.10,..,..,..,21.05,..
+India,IND,"Worried about not having enough money for old age: not worried at all, young (% ages 15-24)",fin44a3.d.3,..,..,..,26.75,..
+India,IND,Worried about not having enough money for old age: somewhat worried (% age 15+),fin44a2.d,..,..,..,16.34,..
+India,IND,"Worried about not having enough money for old age: somewhat worried, female (% age 15+)",fin44a2.d.1,..,..,..,14.97,..
+India,IND,"Worried about not having enough money for old age: somewhat worried, in labor force (% age 15+)",fin44a2.d.12,..,..,..,17.78,..
+India,IND,"Worried about not having enough money for old age: somewhat worried, income, poorest 40% (% ages 15+)",fin44a2.d.7,..,..,..,10.55,..
+India,IND,"Worried about not having enough money for old age: somewhat worried, income, richest 60% (% ages 15+)",fin44a2.d.8,..,..,..,20.18,..
+India,IND,"Worried about not having enough money for old age: somewhat worried, male (% age 15+)",fin44a2.d.2,..,..,..,17.62,..
+India,IND,"Worried about not having enough money for old age: somewhat worried, older (% age 25+)",fin44a2.d.4,..,..,..,15.6,..
+India,IND,"Worried about not having enough money for old age: somewhat worried, out of labor force (% age 15+)",fin44a2.d.11,..,..,..,14.55,..
+India,IND,"Worried about not having enough money for old age: somewhat worried, primary education or less (% ages 15+)",fin44a2.d.5,..,..,..,13.64,..
+India,IND,"Worried about not having enough money for old age: somewhat worried, rural (% age 15+)",fin44a2.d.9,..,..,..,13.26,..
+India,IND,"Worried about not having enough money for old age: somewhat worried, secondary education or more (% ages 15+)",fin44a2.d.6,..,..,..,21.97,..
+India,IND,"Worried about not having enough money for old age: somewhat worried, urban (% age 15+)",fin44a2.d.10,..,..,..,19.88,..
+India,IND,"Worried about not having enough money for old age: somewhat worried, young (% ages 15-24)",fin44a2.d.3,..,..,..,18.28,..
+India,IND,Worried about not having enough money for old age: very worried (% age 15+),fin44a1.d,..,..,..,63.01,..
+India,IND,"Worried about not having enough money for old age: very worried, female (% age 15+)",fin44a1.d.1,..,..,..,68.13,..
+India,IND,"Worried about not having enough money for old age: very worried, in labor force (% age 15+)",fin44a1.d.12,..,..,..,62.06,..
+India,IND,"Worried about not having enough money for old age: very worried, income, poorest 40% (% ages 15+)",fin44a1.d.7,..,..,..,78.16,..
+India,IND,"Worried about not having enough money for old age: very worried, income, richest 60% (% ages 15+)",fin44a1.d.8,..,..,..,52.92,..
+India,IND,"Worried about not having enough money for old age: very worried, male (% age 15+)",fin44a1.d.2,..,..,..,58.23,..
+India,IND,"Worried about not having enough money for old age: very worried, older (% age 25+)",fin44a1.d.4,..,..,..,67.45,..
+India,IND,"Worried about not having enough money for old age: very worried, out of labor force (% age 15+)",fin44a1.d.11,..,..,..,64.18,..
+India,IND,"Worried about not having enough money for old age: very worried, primary education or less (% ages 15+)",fin44a1.d.5,..,..,..,70.76,..
+India,IND,"Worried about not having enough money for old age: very worried, rural (% age 15+)",fin44a1.d.9,..,..,..,68.54,..
+India,IND,"Worried about not having enough money for old age: very worried, secondary education or more (% ages 15+)",fin44a1.d.6,..,..,..,46.83,..
+India,IND,"Worried about not having enough money for old age: very worried, urban (% age 15+)",fin44a1.d.10,..,..,..,56.63,..
+India,IND,"Worried about not having enough money for old age: very worried, young (% ages 15-24)",fin44a1.d.3,..,..,..,51.21,..
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Data from database: Global Financial Inclusion,,,,,,,,
+Last Updated: 03/28/2024,,,,,,,,
