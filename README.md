@@ -15,3 +15,7 @@ To what extent is having a digital presence linked with improvements in financia
 - Rachel Ho  
 - Wanzi Wang  
 
+# Description of Data
+- Isabela:
+ * **World Bank Data:** Population Employed in Agricultural Sector, Rural Growth (Annual %)
+
