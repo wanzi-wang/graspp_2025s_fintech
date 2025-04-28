@@ -6,7 +6,7 @@ Fintech for agricultural poor
 To what extent is having a digital presence linked with improvements in financial inclusion and outcomes among the agricultural poor?
 
 # Dataset
-
+- World Bank Indicators (exact indicators TBD, refer to 'Assignment 2' Tab Below)
 
 # Our lovely Team Members (Alphabetical order)
 - Heeyoung Kwon  
