@@ -2,9 +2,9 @@
 
 import pandas as pd
 
-def load_raw_data('graspp_2025s_fintech/data/raw/global_financial_inclusion_india.csv'):
+def load_raw_data('../data/raw/global_financial_inclusion_india.csv'):
     """Load raw CSV file."""
-    return pd.read_csv('graspp_2025s_fintech/data/raw/global_financial_inclusion_india.csv')
+    return pd.read_csv('../data/raw/global_financial_inclusion_india.csv')
 
 def basic_cleaning(df):
     """Simple cleaning: drop rows with all missing values."""
