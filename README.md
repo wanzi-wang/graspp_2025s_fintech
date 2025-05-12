@@ -47,24 +47,24 @@ To what extent is having a digital presence linked with improvements in financia
 |Value Added (Agriculture, Forestry and Fishing)| WB_FAO|FAO_MK_22016|https://data360.worldbank.org/en/api?indicatorid=FAO_MK_22016&datasetid=FAO_MK#/Data/get_data360_data| Y |
 |Value Added (Manufacture of food and beverages)| WB_FAO | FAO_MK_22077|https://data360.worldbank.org/en/api?indicatorid=FAO_MK_22077&datasetid=FAO_MK#/Data/get_data360_data| Y |
 |Fertilizer consumption (kilograms per hectare of arable land)| WB_FAO |WB_WDI_AG_CON_FERT_ZS|https://data360.worldbank.org/en/api? indicatorid=WB_WDI_AG_CON_FERT_ZS&datasetid=WB_WDI#/Data/get_data360_data| Y |
-
-
-| Account, female (% age 15+)
-| Account, male (% age 15+)
-| Account, rural (% age 15+)
-| Account, urban (% age 15+)
-| Financial institution account (% age 15+)
-| Financial institution account, female (% age 15+)
-| Financial institution account, male (% age 15+)
-| Financial institution account, rural (% age 15+)
-| Financial institution account, urban (% age 15+)
-| Mobile money account (% age 15+)
-| Mobile money account, female (% age 15+)
-| Mobile money account, rural (% age 15+)
-| Mobile money account, urban (% age 15+)
-| Own a mobile phone (% age 15+)
-| Owns a debit or credit card (% age 15+)
-| Owns a debit or credit card, female (% age 15+)
-| Owns a debit or credit card, male (% age 15+)
-| Owns a debit or credit card, rural (% age 15+)
-| Owns a debit or credit card, urban (% age 15+)
+| Account (% age 15+) | Findex | 'account.t.d' | | N |
+| Account, female (% age 15+) | Findex | 'account.t.d.1' | | N |
+| Account, male (% age 15+) | Findex | 'account.t.d.2' | | N |
+| Account, rural (% age 15+) | Findex | 'account.t.d.9' | | N |
+| Account, urban (% age 15+) | Findex | 'account.t.d.10' | | N |
+| Financial institution account (% age 15+) | Findex | 'fin1.t.d' | | N |
+| Financial institution account, female (% age 15+) | Findex | 'fin1.t.d.1' | | N |
+| Financial institution account, male (% age 15+) | Findex | 'fin1.t.d.2' | | N |
+| Financial institution account, rural (% age 15+) | Findex | 'fin1.t.d.9' | | N |
+| Financial institution account, urban (% age 15+) | Findex | 'fin1.t.d.10' | | N |
+| Mobile money account (% age 15+) | Findex | 'mobileaccount.t.d' | | N |
+| Mobile money account, female (% age 15+) | Findex | 'mobileaccount.t.d.1' | | N |
+| Mobile money account, male (% age 15+) | Findex | 'mobileaccount.t.d.2' | | N |
+| Mobile money account, rural (% age 15+) | Findex | 'mobileaccount.t.d.9' | | N |
+| Mobile money account, urban (% age 15+) | Findex | 'mobileaccount.t.d.10' | | N |
+| Own a mobile phone (% age 15+) | Findex | 'Own.phone' | | N |
+| Owns a debit or credit card (% age 15+) | Findex | 'fin2.7.t.d' | | N |
+| Owns a debit or credit card, female (% age 15+) | Findex | 'fin2.7.t.d.1' | | N |
+| Owns a debit or credit card, male (% age 15+) | Findex | 'fin2.7.t.d.2' | | N |
+| Owns a debit or credit card, rural (% age 15+) | Findex | 'fin2.7.t.d.9' | | N |
+| Owns a debit or credit card, urban (% age 15+) | Findex | 'fin2.7.t.d.10' | | N |
