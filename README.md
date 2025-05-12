@@ -43,10 +43,10 @@ To what extent is having a digital presence linked with improvements in financia
 | Population growth (annual %) | WDI | SP.POP.GROW | https://data.worldbank.org/indicator/SP.POP.GROW | Y | 
 | Fertility rate, total (births per woman) | WDI | SP.DYN.TFRT.IN | https://data.worldbank.org/indicator/SP.DYN.TFRT.IN | Y |
 | GDP per capita, PPP (constant 2021 international $) | WDI | NY.GDP.PCAP.PP.KD | https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD | Y |
-| Credit to Agriculture|WB_FAO|FAO_IC_23068|https://data360.worldbank.org/en/indicator/FAO_IC_23068| Y |
-|Value Added (Agriculture, Forestry and Fishing)|WB_FAO|FAO_MK_22016|https://data360.worldbank.org/en/api?indicatorid=FAO_MK_22016&datasetid=FAO_MK#/Data/get_data360_data| Y |
-|Value Added (Manufacture of food and beverages)|FAO_MK_22077|https://data360.worldbank.org/en/api?indicatorid=FAO_MK_22077&datasetid=FAO_MK#/Data/get_data360_data| Y |
-|Fertilizer consumption (kilograms per hectare of arable land)|WB_WDI_AG_CON_FERT_ZS|https://data360.worldbank.org/en/api? indicatorid=WB_WDI_AG_CON_FERT_ZS&datasetid=WB_WDI#/Data/get_data360_data| Y |
+| Credit to Agriculture| WBI | WB_FAO|FAO_IC_23068|https://data360.worldbank.org/en/indicator/FAO_IC_23068| Y |
+|Value Added (Agriculture, Forestry and Fishing)| WBI | WB_FAO|FAO_MK_22016|https://data360.worldbank.org/en/api?indicatorid=FAO_MK_22016&datasetid=FAO_MK#/Data/get_data360_data| Y |
+|Value Added (Manufacture of food and beverages)| WBI | FAO_MK_22077|https://data360.worldbank.org/en/api?indicatorid=FAO_MK_22077&datasetid=FAO_MK#/Data/get_data360_data| Y |
+|Fertilizer consumption (kilograms per hectare of arable land)| WBI |WB_WDI_AG_CON_FERT_ZS|https://data360.worldbank.org/en/api? indicatorid=WB_WDI_AG_CON_FERT_ZS&datasetid=WB_WDI#/Data/get_data360_data| Y |
 
 
 | Account, female (% age 15+)
