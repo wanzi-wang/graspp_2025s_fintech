@@ -16,6 +16,9 @@ To what extent is having a digital presence linked with improvements in financia
 - Nakada Shunichi  
 - Rachel Ho  
 - Wanzi Wang  
+# Notebooks
+1) Week One - [Notebook here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/Team_Assignment_1.ipynb)
+
 
 # Current Datasets
 **X Variables (Not all will be used, many for purpose of painting larger picture**
