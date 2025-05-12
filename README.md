@@ -25,8 +25,8 @@ To what extent is having a digital presence linked with improvements in financia
 * **Wanzi Wang:** Demographic Data (age, education, gender, etc.)
 
 # Current Dataset
-* **Heeyoung KWON:**      
-    Account (% age 15+)
+  | Variable Name |
+  | Account (% age 15+) |
     Account, female (% age 15+)
     Account, male (% age 15+)
     Account, rural (% age 15+)
