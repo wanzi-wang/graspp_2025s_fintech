@@ -25,9 +25,11 @@ To what extent is having a digital presence linked with improvements in financia
 * **Wanzi Wang:** Demographic Data (age, education, gender, etc.)
 
 # Current Dataset
-| Variable Name |
-|---------------|
-| Account (% age 15+) |
+| Variable Name | Dataset | Indicator ID | Indicator Link | Cleaned? |
+|---------------|---------|--------------|----------------|----------|
+| Fixed Broadband Subscriptions (per 100 people) | WDI | IT.NET.BBND.P2 | https://data.worldbank.org/indicator/IT.NET.BBND.P2?view=chart | Y |
+| Mobile Cellular Subscriptions (per 100 people) | WDI | IT.CEL.SETS.P2 | https://data.worldbank.org/indicator/IT.CEL.SETS.P2?view=chart | Y |
+| Access to Electricity, rural (% of Rural Pop.) | WDI | EG.ELC.ACCS.RU.ZS | https://data.worldbank.org/indicator/EG.ELC.ACCS.RU.ZS | Y |
 
 
 
