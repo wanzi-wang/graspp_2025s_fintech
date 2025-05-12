@@ -4,6 +4,7 @@ Fintech for agricultural poor
 
 # Research Question (Tentative)
 To what extent is having a digital presence linked with improvements in financial inclusion and outcomes among the agricultural poor?
+Link to original research question brainstorming: https://docs.google.com/presentation/d/1NucYbSjfVlvDEOBGqh_Ji_7gGyhjJVdJAMbRCjujQzY/edit?usp=sharing
 
 # Dataset
 - World Bank Indicators (exact indicators TBD, refer to 'Assignment 2' Tab Below)
