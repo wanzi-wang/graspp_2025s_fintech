@@ -2,25 +2,22 @@
 Topic
 Fintech for agricultural poor
 
-# Research Question (Tentative)
+# 🤔 Research Question (Tentative)
 To what extent is having a digital presence linked with improvements in financial inclusion and outcomes among the agricultural poor?
 
 -> Link to original research question brainstorming [(here)](https://docs.google.com/presentation/d/1NucYbSjfVlvDEOBGqh_Ji_7gGyhjJVdJAMbRCjujQzY/edit?usp=sharing)
 
-# Dataset
-- World Bank Indicators (exact indicators TBD, refer to 'Assignment 2' Tab Below)
-
-# Our lovely Team Members (Alphabetical order)
+# 🤝 Our lovely Team Members (Alphabetical order)
 - Heeyoung Kwon  
 - Isabela Paredes  
 - Nakada Shunichi  
 - Rachel Ho  
 - Wanzi Wang  
-# Notebooks
+# 📒 Notebooks
 1) Week One - [Notebook here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/Team_Assignment_1.ipynb)
 
 
-# Current Datasets
+# 📈 Current Datasets
 **X Variables (Not all will be used, many for purpose of painting larger picture**
 | Variable Name | Dataset | Indicator ID | Indicator Link | Cleaned? |
 |---------------|---------|--------------|----------------|----------|
