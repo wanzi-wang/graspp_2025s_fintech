@@ -68,6 +68,8 @@ To what extent is having a digital presence linked with improvements in financia
 | GDP per capita, PPP (constant 2021 international $) | WDI | NY.GDP.PCAP.PP.KD | https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD | Y |
 
 **Y Variables**
+| Variable Name | Dataset | Indicator ID | Indicator Link | Cleaned? |
+|---------------|---------|--------------|----------------|----------|
 | Credit to Agriculture| WB_FAO|FAO_IC_23068|https://data360.worldbank.org/en/indicator/FAO_IC_23068| Y |
 |Value Added (Agriculture, Forestry and Fishing)| WB_FAO|FAO_MK_22016|https://data360.worldbank.org/en/api?indicatorid=FAO_MK_22016&datasetid=FAO_MK#/Data/get_data360_data| Y |
 |Value Added (Manufacture of food and beverages)| WB_FAO | FAO_MK_22077|https://data360.worldbank.org/en/api?indicatorid=FAO_MK_22077&datasetid=FAO_MK#/Data/get_data360_data| Y |
