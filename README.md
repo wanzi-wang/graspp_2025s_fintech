@@ -16,6 +16,17 @@ To what extent is having a digital presence linked with improvements in financia
 # 📒 Notebooks
 1) Milestone One - [Notebook here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_1.ipynb)
 
+# 💭 Hypotheses regarding the data
+1.	Access to electricity, higher rates of fixed broadband and mobile cellular subscriptions correlate with higher use of financial services via traditional financial institutions (FI) and mobile money.
+2.	Access to electricity, higher rates of fixed broadband and mobile cellular subscriptions correlate with higher fertilizer consumption and value-add for agriculture.
+3.	Owning a mobile money account is not directly correlated to access to financial institutions. (In certain regions, e.g. Indonesia, this is the case—mobile money had much more penetration than banks.)
+4.	Ownership of mobile money account and/or access to financial institutions are correlated with higher fertilizer consumption and value-add for agriculture. (Perhaps more importantly, we want to know by what degree this is true.)
+5.	Access to financial institutions is higher among urban rather than rural populations (Perhaps more importantly, we want to know by what degree this is true.)
+6.	Areas with higher population densities are likely to have higher access to financial services.
+7.	Areas with higher population densities are likely to have higher fertilizer consumption and value-add for agriculture.
+8.	GDP per capita (+), poverty headcount (-), higher life expectancy at birth (+), and population densities (+) are correlated with higher financial access. (in the direction indicated in parentheses)
+9.	GDP per capita (+), poverty headcount (-), higher life expectancy at birth (+), and population densities (+) are correlated with higher fertilizer consumption and value-add for agriculture. (in the direction indicated in parentheses)
+
 
 # 📈 Current Datasets
 **X Variables (Not all will be used, many for purpose of painting larger picture**
