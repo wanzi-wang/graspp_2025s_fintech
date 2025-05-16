@@ -16,7 +16,7 @@ To what extent is having a digital presence linked with improvements in financia
 # 📒 Notebooks
 1) Milestone One - [Notebook here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_1.ipynb)
 
-# Data Files
+# 💻 Data Files
 1) Milestone One - [processed CSV here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/data/processed/wb_merged.csv)
 
 
