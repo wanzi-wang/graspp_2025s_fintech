@@ -16,6 +16,9 @@ To what extent is having a digital presence linked with improvements in financia
 # 📒 Notebooks
 1) Milestone One - [Notebook here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_1.ipynb)
 
+# Data Files
+1) Milestone One - [processed CSV here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/data/processed/wb_merged.csv)
+
 
 # 📈 Current Datasets
 **X Variables (Not all will be used, many for purpose of painting larger picture**
@@ -46,7 +49,7 @@ To what extent is having a digital presence linked with improvements in financia
 | Owns a debit or credit card, rural (% age 15+) | Findex | 'fin2.7.t.d.9' | | N |
 | Owns a debit or credit card, urban (% age 15+) | Findex | 'fin2.7.t.d.10' | | N |
 
-**Demographic**
+**Control Variables (Demographic)**
 | Variable Name | Dataset | Indicator ID | Indicator Link | Cleaned? |
 |---------------|---------|--------------|----------------|----------|
 | Population, total | WDI | SP.POP.TOTL | https://data.worldbank.org/indicator/SP.POP.TOTL | Y |
