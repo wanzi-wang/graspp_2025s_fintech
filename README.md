@@ -83,7 +83,7 @@ To what extent is having a digital presence linked with improvements in financia
 |Value Added (Agriculture, Forestry and Fishing)| WB_FAO|FAO_MK_22016|https://data360.worldbank.org/en/api?indicatorid=FAO_MK_22016&datasetid=FAO_MK#/Data/get_data360_data| Y |
 |Value Added (Manufacture of food and beverages)| WB_FAO | FAO_MK_22077|https://data360.worldbank.org/en/api?indicatorid=FAO_MK_22077&datasetid=FAO_MK#/Data/get_data360_data| Y |
 |Fertilizer consumption (kilograms per hectare of arable land)| WB_FAO |WB_WDI_AG_CON_FERT_ZS|https://data360.worldbank.org/en/api? indicatorid=WB_WDI_AG_CON_FERT_ZS&datasetid=WB_WDI#/Data/get_data360_data| Y |
-| Use of Financial Services, Number of mobile money transactions (during the reference year) | Financial Access Survey, IMF | IMF_FAS_FCMT | https://data360.worldbank.org/en/indicator/IMF_FAS_FCMT | N |
-| Use of Financial Services, Value of mobile money transactions (during the reference year) | Financial Access Survey, IMF | IMF_FAS_FCMTV | https://data360.worldbank.org/en/indicator/IMF_FAS_FCMT | N |
-| Use of Financial Services, Number of active mobile money accounts | Financial Access Survey, IMF | IMF_FAS_FCMAA | https://data360.worldbank.org/en/indicator/IMF_FAS_FCMAA | N |
+| Use of Financial Services, Number of mobile money transactions (during the reference year) | Financial Access Survey, IMF | IMF_FAS_FCMT | https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.STA:FAS(4.0.0)&INDICATOR=FA66N | N |
+| Use of Financial Services, Value of mobile money transactions (during the reference year) | Financial Access Survey, IMF | IMF_FAS_FCMTV | https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.STA:FAS(4.0.0)&INDICATOR=FA65 | N |
+| Use of Financial Services, Number of active mobile money accounts | Financial Access Survey, IMF | IMF_FAS_FCMAA | https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.STA:FAS(4.0.0)&INDICATOR=FA63N | N |
 
