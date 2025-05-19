@@ -1,7 +1,3 @@
-# graspp_2025s_fintech
-Topic
-Fintech for agricultural poor
-
 # 🤔 Research Question (Tentative)
 To what extent is having a digital presence linked with improvements in financial inclusion and outcomes among the agricultural poor?
 
@@ -81,4 +77,3 @@ To what extent is having a digital presence linked with improvements in financia
 | Use of Financial Services, Number of mobile money transactions (during the reference year) | Financial Access Survey, IMF | IMF_FAS_FCMT | https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.STA:FAS(4.0.0)&INDICATOR=FA66N | N |
 | Use of Financial Services, Value of mobile money transactions (during the reference year) | Financial Access Survey, IMF | IMF_FAS_FCMTV | https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.STA:FAS(4.0.0)&INDICATOR=FA65 | N |
 | Use of Financial Services, Number of active mobile money accounts | Financial Access Survey, IMF | IMF_FAS_FCMAA | https://data.imf.org/en/Data-Explorer?datasetUrn=IMF.STA:FAS(4.0.0)&INDICATOR=FA63N | N |
-
