@@ -1,4 +1,4 @@
-areaCode,year,FarmCredit,ICTPolicy,ProductionValue,ProcessingValue,Fertilizer
+code,year,FarmCredit,ICTPolicy,ProductionValue,ProcessingValue,Fertilizer
 BGD,2000,,,583661.0,,158.108
 BGD,2001,,,590372.0,,174.59
 BGD,2002,3178.321934,,599004.0,,188.639
