@@ -12,6 +12,7 @@ print(df.columns)
 
 def variable_summary(df):
     summary = pd.DataFrame({
+        'type': df.dtypes,
         'non_missing': df.notna().sum(),
         'missing': df.isna().sum(),
         'nunique': df.nunique()
