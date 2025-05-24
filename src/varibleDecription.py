@@ -13,4 +13,5 @@ for col in df.select_dtypes(include='object').columns:
 
 # create summary stats for all the varialbe
 df_summary = df.describe()
+df_summary = df_summary.transpose()
 df_summary.to_csv(outFolder + 'variableDescription.csv')
