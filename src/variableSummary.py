@@ -4,7 +4,7 @@ sourceFolder = 'Data/processed/'
 outFolder = 'Data/processed/'
 file = sourceFolder + 'merged_data_2.csv'
 df = pd.read_csv(file)
-df = df[(df['year'] >= 2010) & (df['year'] <= 2023)]
+df = df[(df['year'] >= 2010) & (df['year'] <= 2025)]
 
 print(df.head())
 print(df.columns)
