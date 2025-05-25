@@ -20,7 +20,8 @@ $$
 - Wanzi Wang  
 # 📒 Notebooks
 1) Milestone One - [Notebook here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_1.ipynb)
-1) Milestone Two - [Notebook here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_2.ipynb)
+2) Milestone Two - [Notebook here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_2.ipynb)
+                 - [Visualization here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Visualizations_One.ipynb)
 
 
 # 💻 Data Files
