@@ -1,11 +1,10 @@
 
-def variable_summary(inputFIle):
+import pandas as pd
+
+
+def variable_summary(inputFIle, sourceFolder='Data/processed/', outFolder='Data/processed/'):
     # This script summarizes the variables in a dataset, providing insights into their types, non-missing values, missing values, and unique counts.
     # It also generates summaries for each country in the dataset, saving them to CSV files.
-    import pandas as pd
-
-    sourceFolder = 'Data/processed/'
-    outFolder = 'Data/processed/'
 
     df = pd.read_csv(sourceFolder + inputFIle)
     df = df[(df['year'] >= 2010) & (df['year'] <= 2025)]
