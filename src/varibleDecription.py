@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+import pandas as pd
+
+
+>>>>>>> nakada_250524
 def variableDescription(inputFile, outputFile='variableDescription.csv'):
     """
     This function generates a summary of the variables in the dataset.
@@ -5,8 +11,11 @@ def variableDescription(inputFile, outputFile='variableDescription.csv'):
     object columns to numeric, and then creates a summary statistics
     DataFrame which is saved to a new CSV file.
     """
+<<<<<<< HEAD
     import pandas as pd
 
+=======
+>>>>>>> nakada_250524
     sourceFolder = 'Data/processed/'
     outFolder = 'Data/processed/'
     file = sourceFolder + inputFile
