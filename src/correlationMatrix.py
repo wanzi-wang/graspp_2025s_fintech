@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-def correlation_matrix(inputFile):
+def correlation_matrix(inputFile, needPicture=False):
     """
     Computes the correlation matrix for the given CSV file, saves the full correlation matrix as CSV, and plots a heatmap for the top 20 correlations.
     Args:
@@ -38,24 +38,26 @@ def correlation_matrix(inputFile):
     # Save the full correlation matrix to CSV
     corr_matrix.to_csv(outFolder + 'correlation_matrix_all.csv')
 
-    # Extract unique variable names from top 20 pairs
-    top_vars = set()
-    for idx in top_corr.index:
-        top_vars.update(idx)
-    top_vars = list(top_vars)
-    top_corr_matrix = corr_matrix.loc[top_vars, top_vars]
+    if needPicture:
+        # Extract unique variable names from top 20 pairs
+        top_vars = set()
+        for idx in top_corr.index:
+            top_vars.update(idx)
+        top_vars = list(top_vars)
+        top_corr_matrix = corr_matrix.loc[top_vars, top_vars]
 
-    # 5. Plot heatmap of the top correlations
-    sns.set(font_scale=2)
-    plt.figure(figsize=(60, 50))
-    sns.heatmap(top_corr_matrix, cmap='coolwarm', annot=True, fmt='.2f')
-    plt.title('Top Correlations Heatmap')
-    plt.tight_layout()
-    plt.savefig(outFolder + 'top20_correlation_heatmap.png', dpi=300)
-    plt.close()
+        # 5. Plot heatmap of the top correlations
+        sns.set(font_scale=2)
+        plt.figure(figsize=(60, 50))
+        sns.heatmap(top_corr_matrix, cmap='coolwarm', annot=True, fmt='.2f')
+        plt.title('Top Correlations Heatmap')
+        plt.tight_layout()
+        plt.savefig(outFolder + 'top20_correlation_heatmap.png', dpi=300)
+        plt.close()
 
     return corr_matrix
 
 
 # Example use case:
-corr_matrix = correlation_matrix('merged_data_2.csv')
+# please change file name to your own file
+corr_matrix = correlation_matrix('merged_5.csv')
