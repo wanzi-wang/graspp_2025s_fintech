@@ -1,11 +1,14 @@
 import pandas as pd
 
 
-def variable_summary(inputFIle, sourceFolder='Data/processed/', outFolder='Data/processed/'):
+def variable_summary(inputFile, sourceFolder='Data/processed/', outFolder='Data/processed/', country_col='code'):
     # This script summarizes the variables in a dataset, providing insights into their types, non-missing values, missing values, and unique counts.
     # It also generates summaries for each country in the dataset, saving them to CSV files.
 
-    df = pd.read_csv(sourceFolder + inputFIle)
+    df = pd.read_csv(sourceFolder + inputFile)
+    # Ensure 'Year' is renamed to 'year' for consistency
+    df = df.rename(columns={'Year': 'year'})
+
     df = df[(df['year'] >= 2010) & (df['year'] <= 2025)]
 
     def make_summary(df):
@@ -19,9 +22,10 @@ def variable_summary(inputFIle, sourceFolder='Data/processed/', outFolder='Data/
     # Whole dataset summary
     summary = make_summary(df)
     summary.to_csv(outFolder + 'variable_summary_all.csv')
+    print(df.columns)
 
     # Country by country summary
-    country_col = 'code'
+    print(f'Country column used for summary: {country_col}')
     if country_col in df.columns:
         for country, group in df.groupby(country_col):
             country_summary = make_summary(group)
@@ -29,15 +33,15 @@ def variable_summary(inputFIle, sourceFolder='Data/processed/', outFolder='Data/
             country_summary.to_csv(
                 f"{outFolder}variable_summary_{country_name}.csv")
     else:
-        print('No country column named "code" found for per-country summary.')
+        print('No country column found for per-country summary.')
     return summary
 
 
 # usage example #####################################################
 #
-# inputFile = 'merged_data_2.csv'
-# variable_summary(inputFile)
-# print("Variable summary completed.")
+# inputFile = 'fertilizer_FUCB_processed.csv'
+# variable_summary(inputFile, outFolder='Data/processed/temp/',
+#                  country_col='country')
 #
 # This code summarizes the variables in a dataset, providing insights into their types, non-missing values, missing values, and unique counts.
 # It also generates summaries for each country in the dataset, saving them to CSV files.
