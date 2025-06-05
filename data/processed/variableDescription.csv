@@ -1,132 +1,129 @@
 ,count,mean,std,min,25%,50%,75%,max
-code,0.0,,,,,,,
-year,300.0,2017.2066666666667,3.9005988163326246,2011.0,2014.0,2017.0,2020.0,2024.0
-FarmCredit,42.0,2219.8200617619045,2005.5208257310167,13.788605,80.81300025,1693.174178,3853.7689265,6122.73632
-ICTPolicy,34.0,12.681560588235294,5.4525641637195275,3.7037,8.2947525,12.80865,18.51855,21.2963
-ProductionValue,55.0,6101177.395669309,9176222.970187446,133.471398,12574.1616005,1854819.700092,4657769.986519501,28731088.0
-ProcessingValue,82.0,573130.6867879024,939026.3654803806,391.57726,8380.49629675,35241.863605000006,775897.19373575,3499695.007039
-Fertilizer,0.0,,,,,,,
-Rural Access to Electricity(Percent of Population),0.0,,,,,,,
-Mobile Cellular Subscriptions (per 100 people),0.0,,,,,,,
-Fixed Broadband Subsciptions (per 100 people),0.0,,,,,,,
-"Fertility rate, total (births per woman)",236.0,2.1850762711864413,0.6023040323204228,0.97,1.9260000000000002,2.1465,2.399,4.305
-"GDP per capita, PPP (constant 2021 international $)",235.0,20596.491829620205,28968.806690421854,3176.65040602417,5950.654095750275,8584.13622704702,18567.6455979187,132468.930252646
-"Life expectancy at birth, total (years)",236.0,71.71274731293923,4.449289634567212,63.859,68.499,70.4595,75.28875,83.5951219512195
-"Mortality rate, infant (per 1,000 live births)",236.0,23.88389830508475,15.933182131126747,1.7,8.5,22.65,34.1,71.6
-Population density (people per sq. km of land area),220.0,678.4269095764279,1729.699834605071,18.6105149933101,88.18621827554948,169.4603230454495,363.7391135929165,7965.87849162011
-Population growth (annual %),236.0,1.097421797149906,0.6966067364263143,-4.17033630017526,0.8143298888011208,1.15251304394292,1.4507033108189251,4.85831607781442
-"Population, total",236.0,200906653.88135594,394945745.8566804,399389.0,15566631.25,42273059.0,161155485.75,1438069596.0
-Poverty headcount ratio at national poverty lines (% of population),55.0,13.86909090909091,7.405450263332649,4.3,8.5,11.2,18.5,36.3
-Rural population (% of total population),236.0,54.954436440677966,21.87241623053796,0.0,46.61325,63.2135,68.23375,82.892
-Urban population (% of total population),236.0,45.045563559322034,21.87241623053796,17.108,31.76625,36.7865,53.38675,100.0
-Account (% age 15+),64.0,51.988125000000004,26.880184232350032,3.66,30.365000000000002,49.455,78.575,98.22
-Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),64.0,51.988125000000004,26.880184232350032,3.66,30.365000000000002,49.455,78.575,98.22
-"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",64.0,49.54109375,27.648948205672497,2.95,26.49,43.13,76.8675,98.21
-"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",64.0,54.421406250000004,26.776808661938333,3.6,29.755,50.58,81.4875,99.68
-"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",64.0,53.91984375,26.809503556156713,3.3,31.5075,50.225,81.4625,98.95
-"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",63.0,43.462063492063486,28.7474542019407,0.82,18.884999999999998,36.6,75.28,97.68
-"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",64.0,42.308749999999996,26.954271358069477,2.17,20.56,33.185,69.99,94.58
-"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",63.0,56.43507936507936,25.340454515936464,5.55,37.230000000000004,55.57,80.07499999999999,98.96
-"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",64.0,61.849375,23.582684855630834,15.54,41.485,60.935,84.94,99.92
-"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",64.0,46.73890625,27.164409904347064,4.52,23.3825,41.61,71.4,97.84
-"Account, female (% age 15+)",64.0,49.54109375,27.648948205672497,2.95,26.49,43.13,76.8675,98.21
-"Account, male (% age 15+)",64.0,54.421406250000004,26.776808661938333,3.6,29.755,50.58,81.4875,99.68
-"Account, rural (% age 15+)",10.0,55.15,26.29762980447731,15.56,34.025,50.790000000000006,77.26,88.1
-"Account, urban (% age 15+)",11.0,67.80363636363637,21.119458929019594,24.51,54.14,68.84,83.145,97.55
-Current account balance (% of GDP),232.0,-0.26848942493355465,9.57742076434655,-31.8999932885676,-3.3318887793021723,-0.9151816676134406,3.0379870902782873,34.7106649473496
-"Current account balance (BoP, current US$)",239.0,857305833.1161016,24908276795.119175,-91471245845.7231,-4212574925.53051,-540419849.646596,7041138673.09977,96015191957.4927
-Financial institution account (% age 15+),64.0,50.65578125,27.5739462263034,3.66,29.06,43.18,78.565,98.22
-"Financial institution account, female (% age 15+)",64.0,48.4584375,28.272776474611284,2.95,26.49,39.379999999999995,76.8475,98.21
-"Financial institution account, male (% age 15+)",64.0,52.840312499999996,27.3709314563769,3.6,28.9225,47.405,81.4875,99.44
-"Financial institution account, rural (% age 15+)",10.0,52.531000000000006,28.05315607120802,11.93,30.085,47.84,77.03,88.1
-"Financial institution account, urban (% age 15+)",11.0,65.5,23.545430129857476,19.13,51.79,68.84,82.905,97.19
-"Made a deposit (% with a financial institution account, age 15+)",48.0,56.68812500000001,17.78678168732481,24.91,42.885000000000005,53.67,68.6625,89.9
-Made a digital in-store merchant payment (age 15+),16.0,21.11,22.816864815307117,0.81,6.625,11.39,25.740000000000002,80.88
-Made a digital in-store merchant payment: using a mobile phone (% age 15+),16.0,14.901250000000001,16.89230707551024,0.34,4.525,8.31,19.835,57.22
-"Made a digital in-store merchant payment: using a mobile phone, female (% age 15+)",16.0,13.873125,17.153928886701145,0.2,3.525,6.295,19.4225,58.23
-"Made a digital in-store merchant payment: using a mobile phone, male (% age 15+)",16.0,15.959375,16.888766865878633,0.48,5.5075,11.100000000000001,20.305,56.16
-"Made a digital in-store merchant payment: using a mobile phone, rural (% age 15+)",10.0,4.898999999999999,4.571796267454523,0.08,2.2725,3.915,5.14,12.88
-"Made a digital in-store merchant payment: using a mobile phone, urban (% age 15+)",11.0,15.647272727272728,14.855822488781353,0.41,6.08,11.95,23.875,49.87
-Made a digital merchant payment (% age 15+),16.0,23.855,24.41937864347358,1.07,8.072500000000002,14.605,30.7725,82.98
-"Made a digital merchant payment, female (% age 15+)",16.0,22.016875000000002,24.394061495577155,0.45,5.2775,13.635,29.4525,78.72
-"Made a digital merchant payment, male (% age 15+)",16.0,25.715625000000003,24.75324435806345,1.67,7.6875,17.71,32.16,87.52
-"Made a digital merchant payment, rural (% age 15+)",10.0,10.872,12.837380141169337,1.0,2.545,6.71,9.49,34.57
-"Made a digital merchant payment, urban (% age 15+)",11.0,25.980909090909094,26.43974071527384,1.12,8.855,16.73,39.095,82.98
-Made a digital online merchant payment for an online purchase (% age 15+),14.0,22.427857142857142,18.50126572741669,1.69,8.299999999999999,16.28,41.93,56.63
-Made a digital payment (% age 15+),49.0,29.673673469387754,23.475601669062495,2.02,13.79,19.97,41.98,91.04
-"Made a digital payment, female (% age 15+)",49.0,26.507755102040818,23.229043984606328,1.47,9.91,16.57,37.71,87.97
-"Made a digital payment, male (% age 15+)",49.0,32.842448979591836,24.30426047446999,1.69,15.18,24.91,47.79,94.31
-"Made a digital payment, rural (% age 15+)",10.0,26.136000000000003,17.798809698029437,9.83,14.72,18.5,34.64,56.2
-"Made a digital payment, urban (% age 15+)",11.0,43.47545454545455,22.444742530773826,18.19,31.82,34.15,54.58500000000001,91.04
-Made a utility payment (% age 15+),49.0,52.200816326530614,16.094349271915114,18.34,39.4,53.05,62.15,87.98
-"Made a utility payment, female (% age 15+)",49.0,50.10081632653061,20.320085079867685,12.92,33.93,46.65,64.68,89.37
-"Made a utility payment, male (% age 15+)",49.0,54.13979591836735,14.353191934461234,23.58,47.86,51.49,63.66,86.52
-"Made a utility payment, rural (% age 15+)",10.0,53.229,18.52502838504348,31.11,35.565,54.875,63.68,81.95
-"Made a utility payment, urban (% age 15+)",11.0,53.64363636363637,15.225518889500794,33.03,38.43,58.25,60.5,78.76
-Made a utility payment: using a financial institution account (% age 15+),49.0,10.415714285714285,11.915077632982506,0.0,1.74,6.36,14.41,47.15
-Made a utility payment: using a mobile phone (% age 15+),49.0,4.557346938775511,6.486628482087274,0.0,0.44,2.37,5.25,27.25
-"Made a withdrawal (% with a financial institution account, age 15+)",48.0,58.217499999999994,16.948469647854797,28.04,44.099999999999994,54.415,68.19,93.54
-Made or received a digital payment (% age 15+),49.0,37.266938775510205,25.194012202313868,4.32,17.69,28.69,47.16,94.84
-"Made or received a digital payment, female (% age 15+)",49.0,33.722653061224484,25.010040381773862,3.91,14.72,24.16,44.2,93.04
-"Made or received a digital payment, male (% age 15+)",49.0,40.819591836734695,25.913085011822346,4.46,21.2,34.75,57.86,96.76
-"Made or received a digital payment, rural (% age 15+)",10.0,36.003,22.67175827617552,11.53,22.06,29.689999999999998,41.1225,75.44
-"Made or received a digital payment, urban (% age 15+)",11.0,51.61545454545455,22.88496902494577,21.59,40.16,44.31,62.945,94.84
-Mobile money account (% age 15+),45.0,9.772666666666666,11.693809628874742,0.08,2.42,5.8,10.88,60.0
-"Mobile money account, female (% age 15+)",45.0,8.014444444444445,11.034798584386568,0.05,1.17,4.32,8.74,56.61
-"Mobile money account, male (% age 15+)",45.0,11.557777777777776,12.877180466533687,0.0,3.24,7.14,13.92,63.57
-"Mobile money account, rural (% age 15+)",10.0,11.165000000000001,10.114554145169008,3.62,4.58,6.63,16.71,34.06
-"Mobile money account, urban (% age 15+)",11.0,18.756363636363634,8.862923076194752,9.5,12.605,14.17,28.905,30.6
-Own a mobile phone (% age 15+),16.0,84.3875,12.4405222291242,62.99,77.4975,87.245,95.78999999999999,100.0
-Owns a debit or credit card (% age 15+),64.0,28.94859375,25.33360581728067,1.7,8.942499999999999,22.855,37.295,93.72
-"Owns a debit or credit card, female (% age 15+)",64.0,26.41203125,25.287906713827894,0.45,6.205,19.74,38.65,93.08
-"Owns a debit or credit card, male (% age 15+)",64.0,31.470625000000002,25.78571801543305,2.54,11.9175,24.825,43.44,94.4
-"Owns a debit or credit card, rural (% age 15+)",10.0,27.801,28.330865167006657,3.96,10.907499999999999,18.369999999999997,27.53,79.54
-"Owns a debit or credit card, urban (% age 15+)",11.0,44.9,30.87932091222215,5.24,25.145,36.02,70.3,93.72
-Received digital payments (% age 15+),49.0,25.464081632653066,20.971067362595797,2.79,11.08,17.73,29.74,83.53
-"Received digital payments, female (% age 15+)",49.0,22.798163265306126,20.442753674740654,1.34,8.46,16.41,24.73,78.6
-"Received digital payments, male (% age 15+)",49.0,28.15469387755102,21.736712713559903,3.18,14.27,19.92,34.85,88.72
-"Received digital payments, rural (% age 15+)",10.0,24.770000000000003,19.782322074687457,3.99,12.51,18.33,25.885,60.22
-"Received digital payments, urban (% age 15+)",11.0,35.559090909090905,22.10523126074254,10.82,22.36,25.87,46.87,77.68
-Saved at a financial institution or using a mobile money account (% age 15+),16.0,25.0325,18.379987486394,2.83,13.775,18.855,37.707499999999996,60.47
-"Saved at a financial institution or using a mobile money account, female (% age 15+)",16.0,23.92125,19.009186156522674,0.48,12.682500000000001,17.7,36.185,59.54
-"Saved at a financial institution or using a mobile money account, male (% age 15+)",16.0,26.208125,17.847999409364252,5.08,14.8025,20.03,39.3725,61.47
-"Saved at a financial institution or using a mobile money account, rural (% age 15+)",10.0,15.862,12.062493569370769,2.52,8.040000000000001,13.17,15.48,37.27
-"Saved at a financial institution or using a mobile money account, urban (% age 15+)",11.0,26.250909090909094,19.969880547737613,3.02,12.77,20.32,39.59,60.47
-Saved money using a mobile money account (% age 15+),16.0,4.701874999999999,4.4549870463709915,0.59,1.68,3.3899999999999997,7.0575,17.09
-"Saved money using a mobile money account, female (% age 15+)",16.0,4.253749999999999,4.864984926321286,0.06,1.2375,1.87,6.15,17.66
-"Saved money using a mobile money account, male (% age 15+)",16.0,5.165,4.3277892739827335,0.36,1.835,3.9800000000000004,7.795,16.49
-"Saved money using a mobile money account, rural (% age 15+)",10.0,2.493,1.8101629760880649,0.49,1.49,1.98,2.6675,5.71
-"Saved money using a mobile money account, urban (% age 15+)",11.0,4.033636363636363,3.4860472536306006,0.74,1.665,2.27,5.21,10.36
-Store money using a financial institution or a mobile money account (% age 15+),16.0,38.410624999999996,23.994775950541122,7.89,22.529999999999998,32.175,54.775,93.05
-"Store money using a financial institution or a mobile money account (% with an account,  age 15+)",16.0,56.139375,17.46130024511348,27.77,44.53,52.75,70.84,95.38
-Store money using a mobile money account (% age 15+),10.0,10.732000000000001,4.980325290580928,5.67,6.6175,10.89,12.3325,22.56
-"Store money using a mobile money account (% with a mobile money account acount, age 15+)",10.0,43.952000000000005,11.546206495834223,19.55,38.33,44.74,51.7825,57.19
-"Use a mobile phone or the internet to make payments, buy things, or to send or receive money using a financial institution account (% age 15+)",16.0,22.975625,21.56953158778991,2.44,8.25,12.440000000000001,35.527499999999996,67.51
-"Use a mobile phone or the internet to make payments, buy things, or to send or receive money using a financial institution account (% with a financial institution account, age 15+)",16.0,33.36375,21.382974185084727,11.53,15.2575,23.365000000000002,51.52,69.75
-Used a mobile phone or the internet to access a financial institution account (% age 15+),17.0,10.526470588235293,13.73125401282439,0.66,1.97,5.0,7.51,48.03
-"Used a mobile phone or the internet to access a financial institution account (% with a financial institution account, age 15+)",17.0,15.768235294117646,13.72956901877027,2.59,6.27,10.91,20.17,49.11
-"Used a mobile phone or the internet to access an account (% with an account, age 15+)",17.0,21.583529411764708,15.450874142413621,4.22,6.63,20.24,35.62,49.73
-Used a mobile phone or the internet to access an account(% age 15+),17.0,12.802352941176471,13.546131149433297,1.1,5.3,7.59,17.36,48.71
-"Used a mobile phone or the internet to access an account, female (% age 15+)",17.0,10.960588235294116,13.125626875785892,0.81,3.36,5.89,11.53,48.57
-"Used a mobile phone or the internet to access an account, male (% age 15+)",17.0,14.653529411764707,14.520494112278199,1.16,6.45,7.1,20.22,48.85
+year,336.0,2018.1666666666667,3.675926796189673,2011.0,2016.0,2018.0,2021.0,2024.0
+"Fertility rate, total (births per woman)",320.0,2.163875,0.6336894629258069,0.97,1.881,2.131,2.3945,4.305
+"GDP per capita, PPP (constant 2021 international $)",318.0,21690.926053976527,31524.870064904175,3176.65040602417,5938.744298908343,8668.009516695385,14555.1883979698,132468.930252646
+"Life expectancy at birth, total (years)",320.0,71.69787606707317,4.528428040312471,63.859,68.5965,70.415,74.88624999999999,83.5951219512195
+"Mortality rate, infant (per 1,000 live births)",320.0,23.8875,15.279591773502665,1.7,9.55,22.6,32.725,71.6
+Population density (people per sq. km of land area),290.0,755.1340213661168,1890.0928521542744,18.6105149933101,84.896394686907,169.4603230454495,357.060098094497,7965.87849162011
+Population growth (annual %),320.0,1.0335643134043397,0.7474198498998336,-4.17033630017526,0.7580485783009703,1.0744882002252,1.38176596089867,4.85831607781442
+"Population, total",320.0,160828129.921875,331357828.47298,399389.0,7532553.75,51894938.0,158319491.5,1438069596.0
+Poverty headcount ratio at national poverty lines (% of population),80.0,13.017500000000002,6.904021484484811,4.3,8.275,10.55,18.1,36.3
+Rural population (% of total population),320.0,55.32378125,21.52476968566595,0.0,48.43875,62.5775,68.229,82.892
+Urban population (% of total population),320.0,44.676218750000004,21.52476968566595,17.108,31.771,37.4225,51.56125,100.0
+"Agriculture, forestry, and fishing, value added (percent of GDP)",318.0,13.556007755821197,7.2798775621453045,0.0265267659870693,8.872844989157556,13.2801691376596,17.3725615260314,32.4961825024034
+Crop production index (2014-2016 = 100),290.0,102.43162068965516,8.874257771638952,64.61,97.7175,101.775,107.325,131.19
+Account (% age 15+),271.0,49.60742312423125,24.98995623724537,3.66,30.924999999999997,42.935,74.07166666666667,98.22
+Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),271.0,49.60742312423125,24.98995623724537,3.66,30.924999999999997,42.935,74.07166666666667,98.22
+"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",271.0,46.98379458794588,25.917952007177046,2.95,27.68,39.364,73.26666666666667,98.21
+"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",271.0,52.230209102091024,24.788066421174502,3.6,31.240000000000002,45.56,76.26,99.68
+"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",271.0,51.56626076260763,24.662562147645637,3.3,32.894999999999996,44.38,75.65833333333333,98.95
+"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",271.0,41.89241082410824,27.612418912200752,0.82,20.085,31.776666666666667,66.465,97.68
+"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",271.0,40.80215252152522,25.923868678874527,2.17,21.694583333333334,29.21,64.26833333333335,94.58
+"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",271.0,54.70779212792129,23.561900696884347,5.55,38.22666666666667,50.31,77.555,98.96
+"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",271.0,59.887337023370236,21.586276552280854,15.54,43.01166666666667,57.038,81.3,99.92
+"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",271.0,44.34990159901599,25.966125849463932,4.52,22.18,38.288,67.5,97.84
+"Account, female (% age 15+)",271.0,46.98379458794588,25.917952007177046,2.95,27.68,39.364,73.26666666666667,98.21
+"Account, male (% age 15+)",271.0,52.230209102091024,24.788066421174502,3.6,31.240000000000002,45.56,76.26,99.68
+"Account, rural (% age 15+)",145.0,46.34455172413793,21.968808190354746,15.56,27.7,45.86,51.59,88.1
+"Account, urban (% age 15+)",164.0,63.367256097560976,20.50203968084922,24.51,53.7,61.52,77.83,97.55
+Current account balance (% of GDP),290.0,-0.643960301256592,9.808298299790966,-29.6082488651911,-3.783587847260365,-1.05524166809384,2.7710799035855675,34.7106649473496
+"Current account balance (BoP, current US$)",290.0,1566197683.6592445,23680795645.261585,-91471245845.7231,-4433269738.48785,-650874000.000002,2578590926.73478,93770599613.1526
+Financial institution account (% age 15+),271.0,47.733259532595326,25.755713938906137,3.66,30.013333333333335,37.69,74.04166666666667,98.22
+"Financial institution account, female (% age 15+)",271.0,45.4809963099631,26.628799340303708,2.95,27.68,34.94,73.26666666666667,98.21
+"Financial institution account, male (% age 15+)",271.0,49.984993849938505,25.360912826979582,3.6,29.295,41.88666666666667,76.11666666666666,99.44
+"Financial institution account, rural (% age 15+)",145.0,42.94289655172414,23.115889854685378,11.93,27.26,30.1,50.47,88.1
+"Financial institution account, urban (% age 15+)",164.0,60.49865853658537,22.843109968567365,19.13,50.54,60.06,77.62,97.19
+"Made a deposit (% with a financial institution account, age 15+)",271.0,56.855861008610084,17.911584773449096,24.91,42.16,53.83,70.92,89.9
+Made a digital in-store merchant payment (age 15+),252.0,20.058968253968256,23.400929147942737,0.81,4.84,11.21,21.17,80.88
+Made a digital in-store merchant payment: using a mobile phone (% age 15+),252.0,14.645119047619046,17.532982702777378,0.34,3.7,7.275,18.14,57.22
+"Made a digital in-store merchant payment: using a mobile phone, female (% age 15+)",252.0,13.527539682539683,17.517160405264253,0.2,2.76,6.295,16.94,58.23
+"Made a digital in-store merchant payment: using a mobile phone, male (% age 15+)",252.0,15.81468253968254,17.73975153041803,0.48,4.75,8.335,19.41,56.16
+"Made a digital in-store merchant payment: using a mobile phone, rural (% age 15+)",145.0,3.4363448275862067,3.340315357241552,0.08,0.25,2.64,4.68,12.88
+"Made a digital in-store merchant payment: using a mobile phone, urban (% age 15+)",164.0,14.034817073170732,15.053610555739725,0.41,5.17,6.99,19.23,49.87
+Made a digital merchant payment (% age 15+),252.0,22.187023809523808,24.290851906142038,1.07,5.41,12.95,24.26,82.98
+"Made a digital merchant payment, female (% age 15+)",252.0,20.644642857142856,23.94587349922456,0.45,4.07,13.59,22.77,78.72
+"Made a digital merchant payment, male (% age 15+)",252.0,23.778293650793646,24.900145455204036,1.67,6.93,14.51,25.84,87.52
+"Made a digital merchant payment, rural (% age 15+)",145.0,7.035724137931035,8.84131131431899,1.0,1.48,3.73,7.72,34.57
+"Made a digital merchant payment, urban (% age 15+)",164.0,22.44890243902439,25.647979315332986,1.12,7.03,14.33,23.17,82.98
+Made a digital online merchant payment for an online purchase (% age 15+),138.0,16.085471014492754,15.543323088757099,1.69,5.88,8.36,16.54,56.63
+Made a digital payment (% age 15+),271.0,27.30711562115621,22.554606573823378,2.02,12.91,18.55333333333333,36.08,91.04
+"Made a digital payment, female (% age 15+)",271.0,24.489895448954492,22.40244626262338,1.47,9.58,16.16,29.04,87.97
+"Made a digital payment, male (% age 15+)",271.0,30.15992004920049,23.31761206757046,1.69,15.09,21.96333333333333,40.64,94.31
+"Made a digital payment, rural (% age 15+)",145.0,21.74579310344828,13.6345833610389,9.83,11.71,17.21,19.7,56.2
+"Made a digital payment, urban (% age 15+)",164.0,40.89176829268293,21.597249226569836,18.19,31.82,34.15,40.88,91.04
+Made a utility payment (% age 15+),271.0,53.90312423124231,15.95876356546518,18.34,39.99458333333333,55.77,63.01,87.98
+"Made a utility payment, female (% age 15+)",271.0,52.6520049200492,20.502645612493485,12.92,33.825,58.93,68.93,89.37
+"Made a utility payment, male (% age 15+)",271.0,55.0319680196802,13.75596847086389,23.58,47.9575,55.16,63.51625,86.52
+"Made a utility payment, rural (% age 15+)",145.0,54.398620689655175,18.022444711028218,31.11,32.49,46.88,74.27,81.95
+"Made a utility payment, urban (% age 15+)",164.0,54.807500000000005,15.19449986761637,33.03,40.25,58.25,62.25,78.76
+Made a utility payment: using a financial institution account (% age 15+),271.0,9.195713407134072,11.499314547583614,0.0,1.2475,5.34,11.8,47.15
+Made a utility payment: using a mobile phone (% age 15+),271.0,4.041881918819188,5.46953241364061,0.0,0.54,2.293333333333333,4.479583333333333,27.25
+"Made a withdrawal (% with a financial institution account, age 15+)",271.0,57.66334563345633,16.14352898636457,28.04,45.057500000000005,53.23,67.47166666666666,93.54
+Made or received a digital payment (% age 15+),271.0,34.093677736777366,23.886635245296734,4.32,17.3,25.3,39.91,94.84
+"Made or received a digital payment, female (% age 15+)",271.0,30.89050430504305,23.991325981437853,3.91,14.72,23.825000000000003,37.095,93.04
+"Made or received a digital payment, male (% age 15+)",271.0,37.33421279212792,24.377961443407017,4.46,21.16,29.22,47.595,96.76
+"Made or received a digital payment, rural (% age 15+)",145.0,29.667034482758623,16.88167917711625,11.53,15.95,26.68,30.39,75.44
+"Made or received a digital payment, urban (% age 15+)",164.0,48.37128048780488,21.259508248977177,21.59,40.16,44.31,45.44,94.84
+Mobile money account (% age 15+),252.0,9.958016817838248,10.918068806229547,0.08,3.078125,6.13,11.744,60.0
+"Mobile money account, female (% age 15+)",252.0,8.058086734693877,10.049803289694882,0.05,1.925,4.33,10.27,56.61
+"Mobile money account, male (% age 15+)",252.0,11.915125661375662,12.29359618216601,0.0,3.52,7.72,14.125,63.57
+"Mobile money account, rural (% age 15+)",145.0,10.121862068965516,10.22755136507695,3.62,4.31,5.0,7.2,34.06
+"Mobile money account, urban (% age 15+)",164.0,17.44176829268293,8.108451164651646,9.5,11.62,14.17,27.41,30.6
+Own a mobile phone (% age 15+),252.0,84.73194444444444,11.813626163729047,62.99,78.94,82.8,95.94,100.0
+Owns a debit or credit card (% age 15+),271.0,27.948357933579334,24.470318014670436,1.7,9.248750000000001,20.615,33.825,93.72
+"Owns a debit or credit card, female (% age 15+)",271.0,25.679286592865928,24.614135127891526,0.45,7.315,18.886666666666667,34.51375,93.08
+"Owns a debit or credit card, male (% age 15+)",271.0,30.246642066420666,24.656452348231834,2.54,12.9,20.255,37.64083333333333,94.4
+"Owns a debit or credit card, rural (% age 15+)",145.0,19.451517241379314,19.8238556952586,3.96,5.26,11.86,20.72,79.54
+"Owns a debit or credit card, urban (% age 15+)",164.0,39.60634146341463,28.642755891509488,5.24,21.39,36.02,55.82,93.72
+Received digital payments (% age 15+),271.0,23.23141451414514,20.172968595440892,2.79,9.66,17.037499999999998,25.0625,83.53
+"Received digital payments, female (% age 15+)",271.0,20.793277982779827,19.96027890339326,1.34,7.83,14.38,22.64,78.6
+"Received digital payments, male (% age 15+)",271.0,25.72584870848709,20.631187857458478,3.18,12.46,18.335,29.825000000000003,88.72
+"Received digital payments, rural (% age 15+)",145.0,19.257310344827587,14.203483740069059,3.99,9.81,17.67,20.74,60.22
+"Received digital payments, urban (% age 15+)",164.0,32.75798780487805,20.13792013129892,10.82,24.08,25.87,29.61,77.68
+Saved at a financial institution or using a mobile money account (% age 15+),252.0,23.127777777777776,17.56927313205266,2.83,12.83,17.21,20.77,60.47
+"Saved at a financial institution or using a mobile money account, female (% age 15+)",252.0,21.84396825396825,17.98515995515564,0.48,12.51,16.65,19.7,59.54
+"Saved at a financial institution or using a mobile money account, male (% age 15+)",252.0,24.490753968253976,17.25067312697245,5.08,13.16,18.28,25.17,61.47
+"Saved at a financial institution or using a mobile money account, rural (% age 15+)",145.0,12.58441379310345,8.763572638093539,2.52,6.1,11.58,15.06,37.27
+"Saved at a financial institution or using a mobile money account, urban (% age 15+)",164.0,23.14292682926829,18.27898739914691,3.02,8.56,20.32,26.55,60.47
+Saved money using a mobile money account (% age 15+),252.0,4.43484126984127,4.438314481069552,0.59,1.53,2.785,6.59,17.09
+"Saved money using a mobile money account, female (% age 15+)",252.0,3.88984126984127,4.690763915415326,0.06,1.23,1.78,6.07,17.66
+"Saved money using a mobile money account, male (% age 15+)",252.0,5.005476190476191,4.4359927911636134,0.36,1.82,2.625,7.68,16.49
+"Saved money using a mobile money account, rural (% age 15+)",145.0,1.9833793103448274,1.3138658082425942,0.49,1.05,1.67,2.03,5.71
+"Saved money using a mobile money account, urban (% age 15+)",164.0,2.894390243902439,2.5128377611072636,0.74,1.37,1.97,3.9,10.36
+Store money using a financial institution or a mobile money account (% age 15+),252.0,35.4861507936508,23.653869874187173,7.89,21.9,26.01,40.6,93.05
+"Store money using a financial institution or a mobile money account (% with an account,  age 15+)",252.0,55.0495634920635,17.268557412462297,27.77,44.53,50.26,70.62,95.38
+Store money using a mobile money account (% age 15+),145.0,11.035379310344828,5.078618034450586,5.67,5.97,10.65,11.77,22.56
+"Store money using a mobile money account (% with a mobile money account acount, age 15+)",145.0,42.076068965517244,11.468792335468438,19.55,34.8,40.55,51.98,57.19
+"Use a mobile phone or the internet to make payments, buy things, or to send or receive money using a financial institution account (% age 15+)",252.0,21.764563492063495,21.51109576113124,2.44,6.81,12.07,32.23,67.51
+"Use a mobile phone or the internet to make payments, buy things, or to send or receive money using a financial institution account (% with a financial institution account, age 15+)",252.0,33.355555555555554,21.240106243518298,11.53,14.98,23.365000000000002,51.52,69.75
+Used a mobile phone or the internet to access a financial institution account (% age 15+),252.0,9.487142857142857,13.049398261661828,0.66,1.97,5.0,7.51,48.03
+"Used a mobile phone or the internet to access a financial institution account (% with a financial institution account, age 15+)",252.0,15.165436507936509,12.732350592154239,2.59,6.27,11.765,20.17,49.11
+"Used a mobile phone or the internet to access an account (% with an account, age 15+)",252.0,22.518373015873014,14.827104693680306,4.22,6.92,20.759999999999998,35.62,49.73
+Used a mobile phone or the internet to access an account(% age 15+),252.0,12.31388888888889,12.92318895260518,1.1,5.3,7.59,17.36,48.71
+"Used a mobile phone or the internet to access an account, female (% age 15+)",252.0,10.365674603174602,12.670859435175107,0.81,3.36,6.4350000000000005,11.53,48.57
+"Used a mobile phone or the internet to access an account, male (% age 15+)",252.0,14.29813492063492,13.899664736048583,1.16,6.45,7.1,20.22,48.85
 "Used a mobile phone or the internet to access an account, rural (% age 15+)",0.0,,,,,,,
 "Used a mobile phone or the internet to access an account, urban (% age 15+)",0.0,,,,,,,
-Used a mobile phone or the internet to buy something online (% age 15+),33.0,17.383030303030303,18.271114409917722,0.64,3.05,9.09,33.9,58.41
-"Used a mobile phone or the internet to buy something online, female (% age 15+)",33.0,17.39787878787879,18.25447954571284,0.49,2.44,9.08,31.91,55.23
-"Used a mobile phone or the internet to buy something online, male (% age 15+)",33.0,17.362121212121213,18.493417369022104,0.54,3.75,8.47,32.31,61.81
-"Used a mobile phone or the internet to buy something online, rural (% age 15+)",10.0,10.321000000000002,12.070988590648055,0.0,2.825,5.79,10.4475,32.43
-"Used a mobile phone or the internet to buy something online, urban (% age 15+)",11.0,23.403636363636362,22.241614722284563,1.06,9.02,11.16,38.585,58.41
-Used a mobile phone or the internet to check account balance(% age 15+),33.0,18.741515151515152,19.56781750751922,0.66,4.48,9.78,19.99,69.1
-"Used a mobile phone or the internet to check account balance(% with a financial institution account, age 15+)",33.0,28.14787878787879,21.45153793402348,2.59,9.38,20.08,41.82,74.6
-"Used a mobile phone or the internet to pay bills, female (% age 15+)",33.0,12.456969696969699,15.303709004038957,0.16,2.72,5.72,17.71,54.31
-"Used a mobile phone or the internet to pay bills, male (% age 15+)",33.0,15.98212121212121,16.384630137261215,1.47,3.38,9.17,23.64,62.17
-"Used a mobile phone or the internet to pay bills, rural (% age 15+)",10.0,9.506,9.139364432071972,0.89,4.3725000000000005,6.325,8.32,26.36
-"Used a mobile phone or the internet to pay bills, urban (% age 15+)",11.0,21.62363636363636,17.885753141943603,6.83,9.52,13.15,32.894999999999996,58.11
-Used a mobile phone or the internet to send money (% age 15+),16.0,21.456249999999997,17.26978628510884,3.94,8.239999999999998,13.91,31.8775,59.72
-"Used a mobile phone or the internet to send money, female (% age 15+)",16.0,18.40625,18.001787272379374,2.06,4.6,7.55,30.16,59.32
-"Used a mobile phone or the internet to send money, male (% age 15+)",16.0,24.595000000000002,16.870688980200743,5.86,9.700000000000001,21.895,33.665000000000006,60.14
-"Used a mobile phone or the internet to send money, rural (% age 15+)",10.0,8.641,6.256687888438526,2.0,4.3925,6.42,13.6325,19.96
-"Used a mobile phone or the internet to send money, urban (% age 15+)",11.0,21.636363636363637,14.790557983204875,7.29,12.47,15.43,28.495,53.95
-Food supply quantity (kg/capita/yr)_Cereals - Excluding Beer,236.0,216.82271186440678,42.1053903995629,129.68,184.2175,217.14999999999998,253.45749999999998,290.38
-Food supply quantity (kg/capita/yr)_Starchy Roots,236.0,52.59868644067797,59.43714848450712,5.72,18.7575,28.759999999999998,52.47,281.64
-rolling_std,233.0,11.983514884667155,12.848354378575491,0.6824734427203347,3.382676455124741,5.857403008159338,16.498561149385385,55.53867256245899
+Used a mobile phone or the internet to buy something online (% age 15+),252.0,14.799007936507934,16.20230290084633,0.64,2.86,8.28,18.974999999999998,58.41
+"Used a mobile phone or the internet to buy something online, female (% age 15+)",252.0,14.97581349206349,16.152707408248027,0.49,2.34,8.032499999999999,21.47,55.23
+"Used a mobile phone or the internet to buy something online, male (% age 15+)",252.0,14.611468253968255,16.405704180811952,0.54,3.25,7.37,17.6675,61.81
+"Used a mobile phone or the internet to buy something online, rural (% age 15+)",145.0,6.950344827586207,8.403758204732066,0.0,2.26,3.26,6.96,32.43
+"Used a mobile phone or the internet to buy something online, urban (% age 15+)",164.0,19.692439024390247,19.450062567816193,1.06,7.98,11.16,21.41,58.41
+Used a mobile phone or the internet to check account balance(% age 15+),252.0,15.885972222222223,18.311674444826963,0.66,4.4,7.73625,19.06,69.1
+"Used a mobile phone or the internet to check account balance(% with a financial institution account, age 15+)",252.0,25.55299603174603,20.11531826856838,2.59,9.78125,16.03,40.7,74.6
+"Used a mobile phone or the internet to pay bills, female (% age 15+)",252.0,10.641150793650795,14.507243824089846,0.16,2.72,4.72,9.32,54.31
+"Used a mobile phone or the internet to pay bills, male (% age 15+)",252.0,13.563194444444443,15.114901958630524,1.47,3.36,7.99,15.36,62.17
+"Used a mobile phone or the internet to pay bills, rural (% age 15+)",145.0,6.808344827586207,6.305915984854696,0.89,3.67,5.28,7.03,26.36
+"Used a mobile phone or the internet to pay bills, urban (% age 15+)",164.0,19.2275,16.921361472403884,6.83,9.4,11.08,22.86,58.11
+Used a mobile phone or the internet to send money (% age 15+),252.0,21.546825396825398,17.607876028876305,3.94,8.12,13.91,31.6,59.72
+"Used a mobile phone or the internet to send money, female (% age 15+)",252.0,18.55456349206349,18.21463083081086,2.06,4.6,7.55,29.92,59.32
+"Used a mobile phone or the internet to send money, male (% age 15+)",252.0,24.670555555555556,17.33506916045327,5.86,9.67,21.895,33.38,60.14
+"Used a mobile phone or the internet to send money, rural (% age 15+)",145.0,7.5937931034482755,5.924682371815096,2.0,3.37,5.75,6.59,19.96
+"Used a mobile phone or the internet to send money, urban (% age 15+)",164.0,19.919512195121953,14.31143563534545,7.29,10.48,15.43,19.28,53.95
+Food supply quantity (kg/capita/yr)_Cereals - Excluding Beer,241.0,229.9426141078838,41.33506148200702,129.96,196.38,238.32,266.52,290.38
+Food supply quantity (kg/capita/yr)_Starchy Roots,241.0,63.28817427385892,70.82850956114237,11.19,17.79,28.88,84.78,281.64
+foodSupply_stability,241.0,10.760457848227594,12.343031354112174,0.6824734427203347,3.007711754806489,5.591043730827206,11.14114581181071,55.53867256245899
+Rural Access to Electricity(Percent of Population),312.0,89.24198717948718,15.50698213946834,22.8,85.6,95.2,100.0,100.0
+Mobile Cellular Subscriptions (per 100 people),286.0,112.97605585256645,33.09949921043958,2.497501633,85.90350833,117.7551548,137.75915692499998,181.7670258
+Fixed Broadband Subsciptions (per 100 people),309.0,6.629951905177993,7.611457249671005,0.0443102,1.27097,3.2873,8.86497,28.5393
+mobile_money_transactions,132.0,23728592.929822393,74776477.10517341,0.056957294,4.0303074814999995,21756.27736675,3684494.1137499996,457729193.8
