@@ -1,5 +1,5 @@
 # 🤔 Research Question (Tentative)
-New: What is the impact of mobile cellular subscriptions on food supply in ASEAN and South Asian countries?
+New: What is the impact of mobile cellular subscriptions on agricultural output in ASEAN and South Asian countries?
 
 Old: To what extent is having a digital presence linked with improvements in financial inclusion and outcomes among the agricultural poor?
 
@@ -7,9 +7,8 @@ Old: To what extent is having a digital presence linked with improvements in fin
 
 Empirical Model:
 
-$$
 \log(\text{Food Supply})_{it} = \beta_0 + \beta_1 \log(\text{Mobile Subscriptions})_{it} + \beta_2 X_{it} + \epsilon_{it}
-$$
+
 
 
 # 🤝 Our lovely Team Members (Alphabetical order)
@@ -22,6 +21,7 @@ $$
 1) Milestone One - [Notebook here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_1.ipynb)
 2) Milestone Two - [Notebook here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_2.ipynb)
                  - [Visualization here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Visualizations_One.ipynb)
+3) Milestone Three (WIP) - [Visualization here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone3Viz.ipynb)
 
 
 # 💻 Data Files
