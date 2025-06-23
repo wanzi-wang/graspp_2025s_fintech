@@ -1,7 +1,15 @@
 # 🤔 Research Question (Tentative)
-To what extent is having a digital presence linked with improvements in financial inclusion and outcomes among the agricultural poor?
+New: What is the impact of mobile cellular subscriptions on agricultural output in ASEAN and South Asian countries?
+
+Old: To what extent is having a digital presence linked with improvements in financial inclusion and outcomes among the agricultural poor?
 
 -> Link to original research question brainstorming [(here)](https://docs.google.com/presentation/d/1NucYbSjfVlvDEOBGqh_Ji_7gGyhjJVdJAMbRCjujQzY/edit?usp=sharing)
+
+Empirical Model:
+
+\log(\text{Food Supply})_{it} = \beta_0 + \beta_1 \log(\text{Mobile Subscriptions})_{it} + \beta_2 X_{it} + \epsilon_{it}
+
+
 
 # 🤝 Our lovely Team Members (Alphabetical order)
 - Heeyoung Kwon  
@@ -11,10 +19,15 @@ To what extent is having a digital presence linked with improvements in financia
 - Wanzi Wang  
 # 📒 Notebooks
 1) Milestone One - [Notebook here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_1.ipynb)
+2) Milestone Two - [Notebook here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_2.ipynb)
+                 - [Visualization here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Visualizations_One.ipynb)
+3) Milestone Three (WIP) - [Visualization here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone3Viz.ipynb)
 
 
 # 💻 Data Files
 1) Milestone One - [processed CSV here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/data/processed/wb_merged.csv)
+2) Milestone Two - [processed CSV here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/data/processed/merged_5.csv)
+3) Milestone Three - [processed csv here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/data/processed/final_dataset.csv)
 
 
 # 💭 Hypotheses regarding the data

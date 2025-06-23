@@ -1,4 +1,4 @@
-def variableDescription(inputFile, outputFile='variableDescription.csv'):
+def variableDescription(inputFile, outputFile='variableDescription.csv', filterCSV = False):
     """
     This function generates a summary of the variables in the dataset.
     It reads a CSV file, filters the data for specific years, converts
@@ -14,8 +14,9 @@ def variableDescription(inputFile, outputFile='variableDescription.csv'):
     df = df[(df['year'] >= 2010) & (df['year'] <= 2025)]
 
     # Convert object columns that are actually numbers to numeric
-    for col in df.select_dtypes(include='object').columns:
-        df[col] = pd.to_numeric(df[col], errors='coerce')
+    if filterCSV:
+        for col in df.select_dtypes(include='object').columns:
+            df[col] = pd.to_numeric(df[col], errors='coerce')
 
     # create summary stats for all the varialbe
     df_summary = df.describe()
@@ -33,3 +34,6 @@ def variableDescription(inputFile, outputFile='variableDescription.csv'):
 # The summary includes the type of each variable, the count of non-missing values, the count of missing values, and the number of unique values.
 #
 # end example #####################################################
+
+variableDescription('merged_final.csv')
+print("Variable description completed.")
