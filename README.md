@@ -11,12 +11,50 @@ Empirical Model:
 
 
 
-# 🤝 Our lovely Team Members (Alphabetical order)
+# 🤝 Our lovely Team Members (Alphabetical order) and Contributions
 - Heeyoung Kwon  
-- Isabela Paredes  
+    - Data collection for global digital inclusion and some indicators from world bank development indicators.
+    - Data cleaning & merging.
+    - Created code for forward fill and reinforced original data, tried regression for Milestone2.
+    - Created regression code for Milestone 3.
+    - Assist final video.
+    - Updated readme.
+    
+- Isabela Paredes 
+    - Contributed to research topic, region, and variable selection. 
+    - Gathered & cleaned data from World Bank.
+    - Created Milestone 1 Notebook & Dataset.
+    - Created Milestone 2 Visualization Notebook (Scatter plots, time series, descriptive statistics) & Dataset.
+    - Created Milestone 3 Visualization Notebook (Scatter plots, interactive time series).
+    - Merged Final Dataset.
+    - Made visualizations on regression results (e.g. Spider plots).
+    - Assist final video.
+    - Updated readme.
+
 - Nakada Shunichi  
+    - Data collection, cleanup, and merging of agriculture related dataset and construction of final merged dataset. 
+    - Created the correlation matrix for Milestone 2 and 3.
+    - Merged Final Dataset.
+    - Analyzed the correlation between key agricultural variables by adding control and fixed effects for Milestone 3. 
+    - Assist final video.
+    - Updated readme.
+
 - Rachel Ho  
+    - Ideated hypotheses around the research question and contributed to brainstorming. 
+    - Fetched data of financial access from IMF. 
+    - Supported meeting organization, complemented outputs with wording.
+    - Generate final Powerpoint presentation and guiding bullet points for presentation.
+    - Assist final video.
+    - Updated readme.
+
 - Wanzi Wang  
+    - Data collection, cleaning, merging of demographic variables fetched from WDI. 
+    - Merged the initial 7 datasets. 
+    - Made Regression model for Milestone 2.
+    - Created dashboard for descriptive statistics for Milestone 3. 
+    - Assist slide-making and video-recording.
+    - Updated readme.
+
 # 📒 Notebooks
 1) Milestone One - [Notebook here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_1.ipynb)
 2) Milestone Two - [Notebook here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_2.ipynb)
