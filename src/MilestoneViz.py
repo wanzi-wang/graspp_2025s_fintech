@@ -45,4 +45,12 @@ class MilestoneViz:
         plt.title(title)
         plt.legend()
         plt.show()
+    
+    def group_plot(self,df,group,column,title):
+        plot = df.groupby(group)[column].describe().transpose().drop('count')
+        ax = plot.plot(kind = 'barh')
+        ax.set_title(title)
+        ax.set_xlabel('Value')
+        ax.set_ylabel('Statistic')
+        plt.show()
 
